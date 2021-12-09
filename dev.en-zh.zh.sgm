@@ -1,0 +1,1025 @@
+<refset setid="tico-19" srclang="any" trglang="zh">
+<doc sysid="ref" docid="CMU_1" genre="terminology" origlang="en">
+<p>
+<seg id="6"> 您 的 胸痛 伴有 以下 任何 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 吗 </seg>
+<seg id="7"> 您 有 <term id="550" type="src_original_and_tgt_original" src="runny nose" tgt="流鼻涕"> 流鼻涕 </term> 吗 ？ </seg>
+<seg id="11"> 这种 疼痛 是从 您 胸部 延伸 出来 的 吗 ？ </seg>
+<seg id="12"> 多喝水 </seg>
+<seg id="21"> 她 也 出现 相同 的 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> </seg>
+<seg id="22"> 描述 一下 现在 有 什么 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> ？ </seg>
+<seg id="28"> 您 的 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 五天 内 不会 消失 </seg>
+<seg id="32"> 左胸 感到 刺痛 吗 ？ </seg>
+<seg id="34"> 您 现在 有 <term id="451" type="src_original_and_tgt_original" src="difficulty breathing" tgt="呼吸困难"> 呼吸困难 </term> 吗 ？ </seg>
+<seg id="39"> 除了 <term id="452" type="src_original_and_tgt_original" src="diabetes" tgt="糖尿病"> 糖尿病 </term> ， 您 还有 其他 问题 或 严重 疾病 吗 ？ </seg>
+<seg id="42"> 但 如果 您 有 <term id="436" type="src_original_and_tgt_original" src="cough" tgt="咳嗽"> 咳嗽 </term> </seg>
+<seg id="48"> 他们 存在 <term id="436" type="src_original_and_tgt_original" src="cough" tgt="咳嗽"> 咳嗽 </term> 症状 </seg>
+<seg id="52"> 据 您 所知 ， 您 的 <term id="416" type="src_original_and_tgt_original" src="blood pressure" tgt="血压"> 血压 </term> 有 问题 吗 ？ </seg>
+<seg id="59"> 您 的 亲属 有 同样 的 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 吗 </seg>
+<seg id="62"> <term id="459" type="src_original_and_tgt_original" src="dry cough" tgt="干咳"> 干咳 </term> 、 感冒 、 <term id="550" type="src_original_and_tgt_original" src="runny nose" tgt="流鼻涕"> 流鼻涕 </term> 、 呕吐 、 腹泻 </seg>
+<seg id="67"> 我 想 我 没有 高血压 病史 </seg>
+<seg id="68"> 我 的 前胸 部位 感到 疼痛 </seg>
+<seg id="75"> 我 的 胸部 出现 短暂 刺痛 </seg>
+<seg id="77"> 我 也 有 花粉热 </seg>
+<seg id="78"> 我 对 胸部 区域 进行 了 处理 ？ </seg>
+<seg id="85"> 我 看到 它 从 胸部 中心 一直 延伸 到 您 的 颈部 </seg>
+<seg id="88"> 胸痛 </seg>
+<seg id="94"> 刚好 发生 在 我 的 胸口 </seg>
+<seg id="95"> 刚好 在 我 的 胸口 </seg>
+<seg id="96"> 听 起来 可能 是 普通 感冒 或 <term id="472" type="src_original_and_tgt_original" src="flu" tgt="流感"> 流感 </term> 。 </seg>
+<seg id="100"> 我会 发给您 一张 图像 </seg>
+<seg id="101"> 我会 发 一张 图像 到 您 的 屏幕 </seg>
+<seg id="104"> 很多 时候 是 这种 类型 的 胸痛 </seg>
+<seg id="105"> 我 的 姐妹 有 类似 的 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> </seg>
+<seg id="107"> 现在 我 发给您 一张 图像 </seg>
+<seg id="112"> 或者 如果 您 高血压 病史 </seg>
+<seg id="119"> 您 今天 早上 开始 胸痛 </seg>
+<seg id="125"> 两天 前 开始 <term id="213" type="src_original_and_tgt_original" src="fever" tgt="发热|热"> 发热 </term> </seg>
+<seg id="126"> 花粉热 引起 的 肌肉 酸痛 </seg>
+<seg id="129"> 我 认为 有些 <term id="472" type="src_original_and_tgt_original" src="flu" tgt="流感"> 流感 </term> 症状 </seg>
+<seg id="132"> 女士 ， 听 起来 您 的 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 像是 感染 了 某种 流感病毒 </seg>
+<seg id="138"> 您 可能 会 感到 胸痛 </seg>
+</p>
+</doc>
+<doc sysid="ref" docid="PubMed_9" genre="terminology" origlang="en">
+<p>
+<seg id="791"> 2019 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 疾病 患者 部分 基础 疾病 患病率 的 初步 估计 — 美国 ， 2020 年 2 月 12 日至 3 月 28 日 </seg>
+<seg id="792"> 2020 年 3 月 11 日 ， <term id="22" type="src_original_and_tgt_original" src="World Health Organization" tgt="世界卫生组织"> 世界卫生组织 </term> 宣布 2019 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 疾病 ( COVID - 19 ) 为 <term id="261" type="src_original_and_tgt_original" src="pandemic" tgt="大 流行|疫情|大 流行病|大规模 流行|全球 大 流行|流行病"> 大 流行病 </term> 。 </seg>
+<seg id="793"> 截至 2020 年 3 月 28 日 ， 全球 总共 报告 571 , 678 名 COVID - 19 确诊 病例 和 26 , 494 <term id="18" type="src_original_and_tgt_original" src="deaths" tgt="死亡 人数|例 死亡|死亡 病例|死亡|例 确诊 死亡|人 死亡|死亡 17 例|死亡 约 9.7 万人|死亡数|死亡 15 , 887 例|病例 死亡"> 例 死亡 </term> 。 </seg>
+<seg id="794"> 来自 中国 和 意大利 的 报告 表明 ， 重症 的 危险 因素 包括 高龄 以及 合并 几种 基础 疾病 的 至少 一种 。 </seg>
+<seg id="795"> 美国 的 老年人 ， 包括 年龄 ≥ 65 岁 的 老年人 ， 尤其 是 年龄 ≥ 85 岁 的 老年人 ， 似乎 也 有 发生 重症 COVID - 19 相关 结局 的 较 高风险 ； 但是 ， 尚未 报告 过 美国 COVID - 19 患者 基础 疾病 情况 的 数据 。 </seg>
+<seg id="796"> 截至 2020 年 3 月 28 日 ， 美国 各州 和 领地 已 向 <term id="4" type="src_original_and_tgt_original" src="CDC" tgt="CDC|美国 疾病 预防 与 控制中心|美国 疾控中心 ( CDC )"> CDC </term> 报告 122 , 653 名 美国 COVID - 19 病例 ， 其中 7 , 162 名 ( 5.8% ) 报告 了 有关 基础 疾病 以及 <term id="330" type="src_original_and_tgt_original" src="respiratory" tgt="呼吸道|呼吸系统|呼吸"> 呼吸道 </term> <term id="345" type="src_lemma_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 严重后果 的 其他 已知 危险 因素 的 数据 。 </seg>
+<seg id="797"> 在 这 7 , 162 起 病例 中 ， 有 2 , 692 名 ( 37.6% ) 患者 存在 一种 或 多种 基础 疾病 或 危险 因素 ， 而 4 , 470 名 ( 62.4% ) 患者 没有 报告 任何 基础 疾病 和 危险 因素 。 </seg>
+<seg id="798"> 在 需要 收入 重症 监护 病房 ( ICU ) 的 患者 ( 358 / 457 , 78% ) 以及 需要 住院治疗 但 不 需要 收入 ICU 的 患者 ( 732 / 1 , 037 , 71% ) 中 ， 存在 至少 一种 基础 疾病 或 危险 因素 的 COVID - 19 患者 百分比 明显 高于 不 需要 住院治疗 的 患者 ( 1 , 388 / 5 , 143 , 27% ) 。 </seg>
+<seg id="799"> 最 常 报告 的 基础 疾病 是 <term id="452" type="src_original_and_tgt_original" src="diabetes" tgt="糖尿病"> 糖尿病 </term> 、 慢性 肺病 和 心血管病 。 </seg>
+<seg id="800"> 这些 初步 结果表明 ， 在 美国 ， 存在 基础 疾病 以及 <term id="330" type="src_original_and_tgt_original" src="respiratory" tgt="呼吸道|呼吸系统|呼吸"> 呼吸道 </term> <term id="345" type="src_lemma_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 严重后果 的 其他 已知 危险 因素 的 个体 发生 重症 COVID - 19 的 风险 似乎 高于 不 存在 这些 情况 的 个体 。 </seg>
+<seg id="801"> 对 50 个州 、 四处 美国 领地 和 附属 岛屿 、 哥伦比亚特区 以及 纽约市 向 <term id="4" type="src_original_and_tgt_original" src="CDC" tgt="CDC|美国 疾病 预防 与 控制中心|美国 疾控中心 ( CDC )"> CDC </term> 报告 的 在 2020 年 2 月 12 日至 3 月 28 日 <term id="332" type="src_original_and_tgt_original" src="onset" tgt="出现|发病|发作"> 发病 </term> 并 经 实验室 确诊 的 COVID - 19 病例 的 数据 进行 了 分析 。 </seg>
+<seg id="802"> 从 中国 <term id="376" type="src_original_and_tgt_original" src="Wuhan" tgt="武汉市|武汉"> 武汉 </term> 和 钻石 公主 号 游轮 遣返 美国 人员 中 的 病例 不 包括 在内 。 </seg>
+<seg id="803"> 对于 缺少 <term id="332" type="src_original_and_tgt_original" src="onset" tgt="出现|发病|发作"> 发病 </term> 日期 的 病例 ， 通过 从 最早 的 <term id="339" type="src_original_and_tgt_original" src="specimen collection" tgt="标本 采集|样本 采集"> 标本 采集 </term> 日期 减去 4 天 （ 这些 数据 中 已知 <term id="332" type="src_original_and_tgt_original" src="onset" tgt="出现|发病|发作"> 发病 </term> 日期 的 病例 中 从 <term id="570" type="src_original_and_tgt_original" src="symptom" tgt="症状"> 症状 </term> 发作 到 <term id="339" type="src_original_and_tgt_original" src="specimen collection" tgt="标本 采集|样本 采集"> 标本 采集 </term> 日期 的 中位 时间 间隔 ） 来 估算 <term id="332" type="src_original_and_tgt_original" src="onset" tgt="出现|发病|发作"> 发病 </term> 日期 。 </seg>
+<seg id="804"> 公共 卫生部门 使用 标准化 病例 报告 表向 <term id="4" type="src_original_and_tgt_original" src="CDC" tgt="CDC|美国 疾病 预防 与 控制中心|美国 疾控中心 ( CDC )"> CDC </term> 报告 病例 ， 病例 报告 表会 采集 有关 以下 疾病 和 潜在 危险 因素 的 信息 （ 是 、 否 或 不详 ） ： 慢性 肺病 （ 包括 哮喘 、 慢性 阻塞性 肺 疾病 [ COPD ] 以及 肺气肿 ） ; <term id="452" type="src_original_and_tgt_original" src="diabetes" tgt="糖尿病"> 糖尿病 </term> ； 心血管病 ； 慢性 <term id="340" type="src_original_and_tgt_original" src="renal disease" tgt="肾脏病|肾脏 疾病"> 肾脏病 </term> ； 慢性 肝病 ； <term id="341" type="src_original_and_tgt_original" src="immunocompromised" tgt="免疫 功能 低下|免疫 功能 不全"> 免疫 功能 低下 </term> 状态 ； 神经系统 疾病 、 神经 发育 或 智力 障碍 ； 妊娠 ； 当前 吸烟 ； 既往 吸烟史 ； 或 其他 慢性病 。 </seg>
+<seg id="805"> 向 <term id="4" type="src_original_and_tgt_original" src="CDC" tgt="CDC|美国 疾病 预防 与 控制中心|美国 疾控中心 ( CDC )"> CDC </term> 报告 的 数据 为 初步 数据 ， 卫生部门 可以 随时 更新 ； 初次 报告 时 可能 缺少 关键 数据 元素 ； 因此 ， 此次 分析 为 描述性 ， 无法 进行 统计 比较 。 </seg>
+<seg id="806"> 计算 了 所有 年龄段 中 存在 基础 疾病 的 未 住院 、 住院 但 未 收入 ICU 以及 住院 并 收入 ICU 的 患者 百分比 。 </seg>
+<seg id="807"> 对于 年龄 ≥ 19 岁且 有 或 没有 基础 疾病 的 患者 ， 估算 了 收入 和 未 收入 ICU 的 住院 百分比 。 </seg>
+<seg id="808"> 这 一部分 分析 仅限于 年龄 ≥ 19 岁 的 患者 ， 因为 报告 存在 基础 疾病 的 儿童 病例 样本量 很小 ( N = 32 ) 。 </seg>
+<seg id="809"> 为了 说明 这些 初步 报告 中 的 缺失 数据 ， 使用 同时 包括 已知 和 未知 收入 及 未 收入 ICU 的 住院 状态 的 病例 作为 分母 估计 范围 的 下限 ， 仅 使用 具有 已知 结局 状态 的 病例 作为 分母 估计 范围 的 上限 。 </seg>
+<seg id="810"> 由于 样本量 较 小 以及 COVID - 19 死亡 患者 中 基础 疾病 的 数据 缺失 ， 因此 没有 估算 存在 和 不 存在 基础 疾病 的 患者 的 病死率 。 </seg>
+<seg id="811"> 截至 2020 年 3 月 28 日 ， 总共 向 <term id="4" type="src_original_and_tgt_original" src="CDC" tgt="CDC|美国 疾病 预防 与 控制中心|美国 疾控中心 ( CDC )"> CDC </term> 报告 了 122 , 653 起经 实验室 确诊 的 COVID - 19 病例 （ 图 ） 和 2 , 112 <term id="18" type="src_original_and_tgt_original" src="deaths" tgt="死亡 人数|例 死亡|死亡 病例|死亡|例 确诊 死亡|人 死亡|死亡 17 例|死亡 约 9.7 万人|死亡数|死亡 15 , 887 例|病例 死亡"> 例 死亡 </term> 。 </seg>
+<seg id="812"> 已经 向 <term id="4" type="src_original_and_tgt_original" src="CDC" tgt="CDC|美国 疾病 预防 与 控制中心|美国 疾控中心 ( CDC )"> CDC </term> 提交 了 74 , 439 ( 60.7% ) 起 病例 的 病例 报告 表 。 </seg>
+<seg id="813"> 7 , 162 名 ( 5.8% ) 患者 的 数据 包含 是否 存在 基础 疾病 以及 <term id="330" type="src_original_and_tgt_original" src="respiratory" tgt="呼吸道|呼吸系统|呼吸"> 呼吸道 </term> <term id="345" type="src_lemma_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 严重后果 的 其他 已知 危险 因素 （ 即 ， 吸烟 和 妊娠 ） （ 表 1 ） 。 </seg>
+<seg id="814"> 这些 患者 中约 有 三分之一 ( 2 , 692 , 37.6% ) 具有 至少 一种 基础 疾病 或 危险 因素 。 </seg>
+<seg id="815"> 在 所有 病例 中 ， <term id="452" type="src_original_and_tgt_original" src="diabetes" tgt="糖尿病"> 糖尿病 </term> ( 784 , 10.9% ) 、 慢性 肺病 ( 656 , 9.2% ) 和 心血管病 ( 647 , 9.0% ) 是 最常 报告 的 疾病 。 </seg>
+<seg id="816"> 在 457 名 收入 ICU 和 1 , 037 名未 收入 ICU 的 住院 患者 中 ， 分别 有 358 名 ( 78% ) 和 732 名 ( 71% ) 报告 存在 一种 或 多种 基础 疾病 。 </seg>
+<seg id="817"> 相比之下 ， 在 5 , 143 名未 住院治疗 的 COVID - 19 患者 中 ， 有 1 , 388 名 ( 27% ) 报告 存在 至少 一种 基础 疾病 。 </seg>
+<seg id="818"> 对于 年龄 ≥ 19 岁 的 患者 ， 存在 基础 疾病 的 患者 中 的 非 ICU 住院 百分比 ( 27.3% – 29.8% ) 高于 不 存在 基础 疾病 的 患者 ( 7.2% – 7.8% ) ； 存在 基础 疾病 的 患者 中 的 ICU 住院 百分比 ( 13.3% – 14.5% ) 也 高于 不 存在 基础 疾病 的 患者 ( 2.2% – 2.4% ) （ 表 2 ） 。 </seg>
+<seg id="819"> 年龄 < 19 岁 的 COVID - 19 患者 报告 住院治疗 ( 48 ) 或 收入 ICU ( 8 ) 的 数量 较 少 。 </seg>
+<seg id="820"> 相比之下 ， 335 名 年龄 < 19 岁 的 患者 没有 住院 ， 1 , 342 名 患者 缺少 住院 数据 。 </seg>
+<seg id="821"> 在 所有 具有 基础 疾病 或 危险 因素 完整 信息 的 COVID - 19 患者 中 ， 有 184 <term id="18" type="src_original_and_tgt_original" src="deaths" tgt="死亡 人数|例 死亡|死亡 病例|死亡|例 确诊 死亡|人 死亡|死亡 17 例|死亡 约 9.7 万人|死亡数|死亡 15 , 887 例|病例 死亡"> 例 死亡 </term> （ 所有 死亡 患者 的 年龄 均 ≥ 19 岁 ） ； 在 具有 至少 一种 基础 疾病 的 患者 中 报告 了 173 <term id="18" type="src_original_and_tgt_original" src="deaths" tgt="死亡 人数|例 死亡|死亡 病例|死亡|例 确诊 死亡|人 死亡|死亡 17 例|死亡 约 9.7 万人|死亡数|死亡 15 , 887 例|病例 死亡"> 例 死亡 </term> ( 94% ) 。 </seg>
+<seg id="822"> 截至 2020 年 3 月 28 日 ， 在 向 <term id="4" type="src_original_and_tgt_original" src="CDC" tgt="CDC|美国 疾病 预防 与 控制中心|美国 疾控中心 ( CDC )"> CDC </term> 报告 的 122 , 653 名 美国 COVID - 19 病例 中 ， 有 7 , 162 名 ( 5.8% ) 患者 具有 与 基础 疾病 或 潜在 危险 因素 有关 的 数据 ； 在 这些 患者 中 ， 有 基础 疾病 的 患者 住院 和 收入 ICU 的 百分比 要 高于 未 报告 基础 疾病 的 患者 。 </seg>
+<seg id="823"> 这些 结果 与 中国 以及 意大利 的 发现 一致 ， 表明 患者 如 有 基础 疾病 和 危险 因素 ， 包括 但 不 限于 <term id="452" type="src_original_and_tgt_original" src="diabetes" tgt="糖尿病"> 糖尿病 </term> 、 高血压 、 COPD 、 冠状动脉 疾病 、 脑血管病 、 慢性 <term id="340" type="src_original_and_tgt_original" src="renal disease" tgt="肾脏病|肾脏 疾病"> 肾脏病 </term> 和 吸烟 ， 则 因 COVID - 19 导致 重症 或 死亡 的 风险 可能 更高 。 </seg>
+<seg id="824"> 这项 分析 受到 数量 少 和 缺失 数据 的 限制 ， 因为 迅速 增加 的 病例 数对 上报 卫生部门 造成 了 负担 ， 随着 更 多 数据 的 获得 ， 这些 结果 可能 会 改变 。 </seg>
+<seg id="825"> 目前 尚 不 清楚 基础 疾病 的 严重 程度 或 控制 水平 是否 会 影响 与 COVID - 19 相关 的 重症 风险 。 </seg>
+<seg id="826"> 许多 这些 基础 疾病 在 美国 很 常见 ： 根据 2018 年 自我 报告 的 数据 ， 美国 成年人 中 诊断 为 <term id="452" type="src_original_and_tgt_original" src="diabetes" tgt="糖尿病"> 糖尿病 </term> 的 患病率 为 10.1% ， 美国 所有 类型 心脏病 （ 不伴 其他 心脏病 的 高血压 除外 ） 的 年龄 调整 患病率 在 2017 年 为 10.6% 。 </seg>
+<seg id="827"> 美国 成年人 中 的 年龄 调整 COPD 患病率 为 5.9% ， 而 在 2018 年 ， 美国 所有 年龄段 人群 中 的 当前 哮喘 估计 患病率 为 7.9% 。 </seg>
+<seg id="828"> <term id="4" type="src_original_and_tgt_original" src="CDC" tgt="CDC|美国 疾病 预防 与 控制中心|美国 疾控中心 ( CDC )"> CDC </term> 继续 为 存在 基础 疾病 的 人们 开发 和 更新 资源 ， 以 降低 感染 COVID - 19 的 风险 。 </seg>
+<seg id="829"> 美国 的 这个 早期 COVID - 19 患者 群体 中 基础 疾病 的 较 高 估计 患病率 ， 以及 基础 疾病 的 存在 与 COVID - 19 可能 导致 更 严重 疾病 的 更 高风险 之间 的 相关性 ， 凸显 了 在 具有 基础 疾病 的 患者 中 预防 COVID - 19 的 重要性 。 </seg>
+<seg id="830"> 本 报告 的 结果 至少 存在 六个 局限性 。 </seg>
+<seg id="831"> 首先 ， 这些 数据 是 初步 的 ， 并且 分析 受到 缺失 数据 的 限制 ， 这是 由于 病例 数 的 迅速 增加 造成 的 卫生部门 上报 负担 以及 需要 病历 审查 造成 的 信息 填写 延迟 ； 随着 更 多 数据 的 获得 ， 这些 结果 可能 会 发生 改变 。 </seg>
+<seg id="832"> 在 向 <term id="4" type="src_original_and_tgt_original" src="CDC" tgt="CDC|美国 疾病 预防 与 控制中心|美国 疾控中心 ( CDC )"> CDC </term> 报告 的 122 , 653 起 病例 中 ， 仅 有 7 , 162 名 ( 5.8% ) 可 获得 有关 基础 疾病 的 信息 。 </seg>
+<seg id="833"> 不能 假定 缺失 信息 的 患者 与 具备 住院 或 基础 疾病 数据 的 患者 相似 。 </seg>
+<seg id="834"> 其次 ， 由于 随访 时间 短 ， 这些 数据 在 结局 确定 方面 存在 偏倚 。 </seg>
+<seg id="835"> 某些 结局 可能 会 被 低估 ， 而 长期 结局 无法 在 这项 分析 中 进行 评估 。 </seg>
+<seg id="836"> 再次 ， 由于 在此期间 许多 辖区 实验室 检测 的 可用性 有限 ， 这项 分析 可能 偏向 更 严重 的 病例 ， 随着 实验室 检测 变得 更加 普遍 ， 分析 结果 可能 会 发生变化 。 </seg>
+<seg id="837"> 第四 ， 由于 这些 数据 为 描述性 ， 无法 比较 具有 和 不 具有 基础 疾病 的 人群 之间 的 发病率 ， 因此 无法 估算 两组 患者 之间 COVID - 19 重症 的 风险 差异 。 </seg>
+<seg id="838"> 第五 ， 关于 未 包含 在 病例 报告 表中 的 基础 疾病 或 在 单个 总括 类别 中 报告 的 不同 疾病 ， 无法 得出结论 。 </seg>
+<seg id="839"> 例如 ， 哮喘 和 COPD 被 包括 在 慢性 肺病 类别 中 。 </seg>
+<seg id="840"> 最后 ， 对于 一些 基础 疾病 和 危险 因素 ， 包括 神经系统 疾病 、 慢性 肝病 、 当前 吸烟者 和 妊娠 ， 几乎 没有 严重后果 的 报道 ； 因此 ， 无法 得出 关于 这些 人群 中 重症 COVID - 19 风险 的 结论 。 </seg>
+<seg id="841"> 与 其他 国家 的 研究 结果 一致 ， 美国 具有 基础 疾病 的 人群 中 发生 更 严重 COVID - 19 的 风险 似乎 更高 。 </seg>
+<seg id="842"> 存在 基础 疾病 并 出现 <term id="213" type="src_original_and_tgt_original" src="fever" tgt="发热|热"> 发热 </term> 、 <term id="436" type="src_original_and_tgt_original" src="cough" tgt="咳嗽"> 咳嗽 </term> 或 <term id="336" type="src_original_and_tgt_original" src="shortness of breath" tgt="气促|呼吸 短促"> 气促 </term> 等 COVID - 19 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 的 患者 应立即 联系 <term id="342" type="src_original_and_tgt_original" src="health care provider" tgt="医务人员|医疗 服务 人员"> 医务人员 </term> 。 </seg>
+<seg id="843"> 这些 人 应该 采取措施 来 保护 自己 免受 COVID - 19 感染 ， 包括 洗手 ； 清洁 和 消毒 经常 接触 的 <term id="566" type="src_original_and_tgt_original" src="surfaces" tgt="表面"> 表面 </term> ； 以及 保持 <term id="291" type="src_original_and_tgt_original" src="social distancing" tgt="社交 隔离|社交 距离"> 社交 距离 </term> ， 包括 居家 ， 避免 集会 、 聚集 和 旅行 ， 以及 避免 与 生病 的 人 接触 。 </seg>
+<seg id="844"> 对于 具有 基础 疾病 的 患者 ， 建议 维持 至少 30 天 的 药品 储备 、 2 周 的 食物 和 其他 必需品 储备 以及 了解 COVID - 19 的 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 。 </seg>
+<seg id="845"> 所有人 都 应该 采取措施 来 保护 自己 免受 COVID - 19 感染 并 <term id="343" type="src_original_and_tgt_original" src="protect others" tgt="保护 他人|保护 其他人"> 保护 他人 </term> 。 </seg>
+<seg id="846"> 所有 生病 的 人 都 应该 留在 家中 ， 除非 需要 获取 <term id="344" type="src_original_and_tgt_original" src="medical care" tgt="医疗 诊治|医疗 条件|医疗保健|医疗 护理"> 医疗 诊治 </term> ； 不 应该 上班 ； 并 应 与 他人 保持 距离 。 </seg>
+<seg id="847"> 对于 那些 与 存在 基础 疾病 者 或 COVID - 19 导致 严重后果 的 风险 较 高者 一起 工作 的 人 而言 ， 这 尤其 重要 。 </seg>
+<seg id="848"> 旨在 减缓 COVID - 19 <term id="20" type="src_original_and_tgt_original" src="spread" tgt="扩散|传播|扩散 蔓延"> 传播 </term> 的 社区 缓解 策略 对于 保护 所有人 免受 COVID - 19 感染 至关重要 ， 特别 是 对于 存在 基础 疾病 者 以及 其他 重度 COVID - 19 相关 疾病 高危 个体 ( https : / / www . CDC . GOV / <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> coronavirus </term> / 2019 - ncov / downloads / community - mitigation - strategy . pdf ) 。 </seg>
+<seg id="849"> 关于 此 主题 的 已知 信息 是 什么 ？ </seg>
+<seg id="850"> 来自 中国 和 意大利 的 已 发表 报告 表明 ， 重症 COVID - 19 的 危险 因素 包括 基础 疾病 ， 但 尚未 报告 过 描述 美国 COVID - 19 患者 中 基础 疾病 的 数据 。 </seg>
+<seg id="851"> 该 报告 增加 了 什么 内容 ？ </seg>
+<seg id="852"> 根据 美国 的 初步 数据 ， 存在 <term id="452" type="src_original_and_tgt_original" src="diabetes" tgt="糖尿病"> 糖尿病 </term> 、 慢性 肺病 和 心血管病 等 基础 疾病 的 患者 罹患 重度 COVID - 19 相关 疾病 的 风险 似乎 比 没有 这些 基础 疾病 的 患者 更高 。 </seg>
+<seg id="853"> 对 公共卫生 实践 有何 影响 ？ </seg>
+<seg id="854"> 所有 社区 和 所有人 都 应 实施 保护 所有人 的 策略 ， 尤其 是 那些 存在 基础 疾病 者 ， 包括 保持 <term id="291" type="src_original_and_tgt_original" src="social distancing" tgt="社交 隔离|社交 距离"> 社交 距离 </term> 和 洗手 ， 以 帮助 减缓 COVID - 19 的 <term id="20" type="src_original_and_tgt_original" src="spread" tgt="扩散|传播|扩散 蔓延"> 传播 </term> 。 </seg>
+</p>
+</doc>
+<doc sysid="ref" docid="PubMed_10" genre="terminology" origlang="en">
+<p>
+<seg id="855"> 新型 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> ( COVID - 19 ) 的 出现 ： 英国皇家 全科医师 学会 研究 及 监测中心 与 英格兰 公共 卫生部 使用 的 扩展 监测 方案 </seg>
+<seg id="856"> 英国皇家 全科医师 学会 ( RCGP ) 研究 及 监测中心 ( RSC ) 与 英格兰 公共 卫生部 ( PHE ) 在 过去 50 年 来 成功 合作 进行 了 <term id="328" type="src_original_and_tgt_original" src="influenza" tgt="流感|流行性 感冒"> 流感 </term> 和 其他 <term id="329" type="src_original_and_tgt_original" src="infectious" tgt="传染性|传染|感染|感染性"> 传染性 </term> 疾病 的 监测 ， 其中 包括 之前 的 三次 大 流行 。 </seg>
+<seg id="857"> 随着 <term id="64" type="src_original_and_tgt_original" src="Coronavirus infection" tgt="冠状病毒 感染|新型 冠状病毒 感染"> 冠状病毒 感染 </term> ( COVID - 19 ) 在 全球 <term id="258" type="src_original_and_tgt_original" src="outbreak" tgt="暴发|爆发"> 爆发 </term> ， 英国 建立 了 全国性 控制措施 以 监测 疑似 <term id="211" type="src_original_and_tgt_original" src="exposure" tgt="接触|暴露"> 暴露 </term> 于 COVID - 19 的 人群 。 </seg>
+<seg id="858"> 与此同时 ， RCGP RSC 单独 进行 的 监测 已经 扩展 到 监控 COVID - 19 社区 <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 的 时间 和 地域 分布 以及 评估 控制策略 的 有效性 。 </seg>
+<seg id="859"> 这项 研究 的 目的 是 对 <term id="398" type="src_original_and_tgt_original" src="asymptomatic" tgt="未 表现 出 任何 症状|无症状"> 无症状 </term> 人群 以及 存在 <term id="330" type="src_original_and_tgt_original" src="respiratory" tgt="呼吸道|呼吸系统|呼吸"> 呼吸道 </term> <term id="345" type="src_lemma_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 的 门诊 病例 进行 COVID - 19 监测 ， 确定 COVID - 19 <term id="20" type="src_original_and_tgt_original" src="spread" tgt="扩散|传播|扩散 蔓延"> 传播 </term> 的 速度 和 模式 ， 并 评估 控制 政策 的 有效性 。 </seg>
+<seg id="860"> RCGP RSC 是 由 英格兰 500 多家 全科 诊所 组成 的 网络 ， 每周 一次 提取 匿名 化 数据 。 </seg>
+<seg id="861"> 这种 扩展 监测 包括 五个 部分 ： ( 1 ) 在 疑似 患有 或 曾经 接触 过 COVID - 19 的 任何人 的 医疗 记录 中 进行 记录 。 </seg>
+<seg id="862"> 计算机化 病历 供应商 已 在 要求 的 一周 内 创建 出新 编码 以 支持 此项工作 。 </seg>
+<seg id="863"> ( 2 ) 扩展 当前 的 病毒学 监测 ， 对 患有 流感 样 <term id="229" type="src_original_and_tgt_original" src="illness" tgt="疾病|症|病"> 疾病 </term> 或 下 <term id="330" type="src_original_and_tgt_original" src="respiratory" tgt="呼吸道|呼吸系统|呼吸"> 呼吸道 </term> <term id="345" type="src_lemma_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> ( LRTI ) 的 患者 进行 检测 ， 告诫 疑似 患有 或 曾经 接触 过 COVID - 19 者 应该 进入 国家 控制 通道 ， 而 不是 在 基层 医疗机构 就诊 。 </seg>
+<seg id="864"> ( 3 ) 在 所有 年龄段 进行 血清学 样本 采集 。 </seg>
+<seg id="865"> 将 从 前往 全科 诊所 进行 常规 血液 检查者 那里 获取 额外 的 血液 样本 。 </seg>
+<seg id="866"> 目前 正在 进行 年度 流感病毒 学 监测 的 100 家 全科 诊所 将 参与 扩展 的 病毒学 和 血清学 监测 。 </seg>
+<seg id="867"> ( 4 ) 采集 康复 期 血清 样本 。 </seg>
+<seg id="868"> 如果 需要 ， 我们 有 机会 将 数据 提取 升级 到 每周 两次 。 </seg>
+<seg id="869"> <term id="568" type="src_lemma_and_tgt_original" src="swab" tgt="拭子"> 拭子 </term> 和 血清 将 在 PHE 参考 实验室 中 进行 分析 。 </seg>
+<seg id="870"> 全科 诊所 临床 系统 提供商 已经 引入 了 一套 全新 的 紧急事件 临床 编码 以 支持 COVID - 19 监测 。 </seg>
+<seg id="871"> 此外 ， 参与 当前 病毒学 监测 的 诊所 现在 正在 从 表现 为 LRTI 的 低危 患者 中 采集 样本 进行 COVID - 19 监测 。 </seg>
+<seg id="872"> 在 进行 这种 监测 的 前 2 周内 ， 我们 发现 了 3 个 病例 ： 1 个 是 通过 新 的 编码 系统 ， 另外 2 个 是 通过 扩展 的 病毒学 采样 。 </seg>
+<seg id="873"> 我们 已经 迅速 将 既有 的 全国性 RCGP RSC <term id="328" type="src_original_and_tgt_original" src="influenza" tgt="流感|流行性 感冒"> 流感 </term> 监测 系统 转换 为 能够 检测 COVID - 19 控制 政策 有效性 的 系统 。 </seg>
+<seg id="874"> 扩展 的 监测 已经 使用 了 新 编码 并 报告 了 3 个 病例 。 </seg>
+<seg id="875"> 快速 共享 此 方案 应该 能够 实现 科学 评判 和 共享 学习 。 </seg>
+<seg id="876"> 英国皇家 全科医师 学会 ( RCGP ) 研究 及 监测中心 ( RSC ) 是 一个 具有 全国 代表性 人群 的 全科 诊所 ( GP ) 网络 ， 它 每周 一次 提供 匿名 化 数据 用于 <term id="329" type="src_original_and_tgt_original" src="infectious" tgt="传染性|传染|感染|感染性"> 传染性 </term> 疾病 监测 。 </seg>
+<seg id="877"> 该 疾病 监测 计划 是 由 英格兰 公共 卫生部 ( PHE ) 委托 进行 的 ， 涵盖 了 包括 <term id="328" type="src_original_and_tgt_original" src="influenza" tgt="流感|流行性 感冒"> 流感 </term> 在内 的 37 种 <term id="329" type="src_original_and_tgt_original" src="infectious" tgt="传染性|传染|感染|感染性"> 传染性 </term> 疾病 。 </seg>
+<seg id="878"> RCGP RSC 和 PHE 在 <term id="328" type="src_original_and_tgt_original" src="influenza" tgt="流感|流行性 感冒"> 流感 </term> 和 <term id="331" type="src_original_and_tgt_original" src="respiratory disease" tgt="呼吸道 疾病|呼吸系统 疾病|呼吸 疾病"> 呼吸道 疾病 </term> 监测 方面 已经 建立 了 50 多年 的 合作 关系 ， 目前 正 处于 第 53 个 监测 和 分析 季节 。 </seg>
+<seg id="879"> RCGP RSC 每周 从 覆盖 超过 400 万 人口 的 500 多个 城市 和 非 城市 GP 的 全国 代表性 样本 中 提取 匿名 化 数据 。 </seg>
+<seg id="880"> 来自 这些 诊所 的 数据 每周 一次 在线 报告 ， 其中 包括 监测 英格兰 的 流感 样 <term id="229" type="src_original_and_tgt_original" src="illness" tgt="疾病|症|病"> 疾病 </term> ( ILI ) 以及 其他 传染病 和 <term id="330" type="src_original_and_tgt_original" src="respiratory" tgt="呼吸道|呼吸系统|呼吸"> 呼吸道 </term> 疾病 的 每周 发生率 。 </seg>
+<seg id="881"> 我们 还会 编制 年度报告 。 </seg>
+<seg id="882"> RCGP RSC 数据 集 包括 所有 编码数据 和 所有 处方 项目 ， 包括 <term id="581" type="src_original_and_tgt_original" src="vaccine" tgt="疫苗"> 疫苗 </term> <term id="211" type="src_original_and_tgt_original" src="exposure" tgt="接触|暴露"> 暴露 </term> 。 </seg>
+<seg id="883"> RCGP RSC 在 每个 <term id="328" type="src_original_and_tgt_original" src="influenza" tgt="流感|流行性 感冒"> 流感 </term> 季节 进行 病毒学 监测 ， 在 2019 - 2020 年 监测 季有 100 家 GP 参与 （ 图 1 ） 。 </seg>
+<seg id="884"> 这些 病毒学 采样 诊所 也 被 招募 为 全国性 代表 （ 图 1 ） 。 </seg>
+<seg id="885"> GP 在 <term id="332" type="src_original_and_tgt_original" src="onset" tgt="出现|发病|发作"> 出现 </term> <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 后 7 天内 从 表现 为 急性 <term id="337" type="src_original_and_tgt_original" src="respiratory illness" tgt="呼吸道 疾病|呼吸系统 疾病"> 呼吸系统 疾病 </term> 的 患者 处 采集 鼻咽 <term id="568" type="src_lemma_and_tgt_original" src="swab" tgt="拭子"> 拭子 </term> 。 </seg>
+<seg id="886"> 对 表现 为 <term id="404" type="src_original_and_tgt_original" src="acute bronchitis" tgt="急性 支气管炎"> 急性 支气管炎 </term> 或细 支气管炎 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 的 5 岁 以下 儿童 采集 鼻咽 <term id="568" type="src_lemma_and_tgt_original" src="swab" tgt="拭子"> 拭子 </term> 。 </seg>
+<seg id="887"> 此外 ， 还 从 表现 为 ILI 和 <term id="330" type="src_original_and_tgt_original" src="respiratory" tgt="呼吸道|呼吸系统|呼吸"> 呼吸道 </term> 合胞 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 急性 <term id="332" type="src_original_and_tgt_original" src="onset" tgt="出现|发病|发作"> 发作 </term> 的 5 岁 及 以上 人群 中 采集 鼻咽 样本 。 </seg>
+<seg id="888"> 在 PHE 呼吸道 病毒 部门 对 <term id="568" type="src_lemma_and_tgt_original" src="swab" tgt="拭子"> 拭子 </term> 进行 <term id="328" type="src_original_and_tgt_original" src="influenza" tgt="流感|流行性 感冒"> 流感 </term> 检测 ， 用于 监测 阳性率 和 传播 毒株 ， 以及 测量 <term id="581" type="src_original_and_tgt_original" src="vaccine" tgt="疫苗"> 疫苗 </term> 的 有效性 。 </seg>
+<seg id="889"> RCGP RSC 成功 进行 了 一项 试点工作 ， 在 2018 - 2019 年 <term id="328" type="src_original_and_tgt_original" src="influenza" tgt="流感|流行性 感冒"> 流感 </term> 季节 采集 成年人 的 血清 样本 并 将 其 与 患者 的 病历 相关联 。 </seg>
+<seg id="890"> 这项 试点工作 是 与 PHE 血清 流行病学 部门 合作 ， 作为 英国 国家 医疗 服务体系 ( NHS ) 实验室 将 剩余 血样 提交 给 PHE 的 补充 。 </seg>
+<seg id="891"> 血清学 可以 提供 有关 背景 人群 <term id="333" type="src_original_and_tgt_original" src="immunity" tgt="免疫力|免疫"> 免疫力 </term> 的 重要 信息 ， 并且 预警 网络 可以 提供 一种 系统 的 数据 收集 机制 以及 与 病历 和 健康 结局 的 联系 。 </seg>
+<seg id="892"> 血清学 试点工作 已经 证明 了 该 网络 采集 成年人 血清学 样本 的 能力 。 </seg>
+<seg id="893"> 随着 COVID - 19 的 <term id="258" type="src_original_and_tgt_original" src="outbreak" tgt="暴发|爆发"> 爆发 </term> ， PHE 和 RCGP RSC 调整 了 现有 的 <term id="328" type="src_original_and_tgt_original" src="influenza" tgt="流感|流行性 感冒"> 流感 </term> 监测 措施 以便 监测 COVID - 19 的 社区 <term id="20" type="src_original_and_tgt_original" src="spread" tgt="扩散|传播|扩散 蔓延"> 扩散 </term> ， 本 方案 为 这种 合作 奠定 了 基础 。 </seg>
+<seg id="894"> 国家 针对 COVID - 19 <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 的 主要 策略 是 控制 ， 通过 电话 帮助 系统 NHS111 和 PHE 健康 保护 团队 管理 高危 患者 ， 但 RCGP RSC 的 监测 是 完全 独立 的 。 </seg>
+<seg id="895"> RCGP RSC 将 通过 扩展 其 既定 工作 提供 病毒学 和 血清学 监测 ， 用于 监控 COVID - 19 社区 <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 的 时间 和 地域 分布 以及 评估 控制策略 的 有效性 。 </seg>
+<seg id="896"> 我们 不会 孤身 从事 这项 研究 。 </seg>
+<seg id="897"> 我们 会 将 该 方案 与 英国 的 同事 以及 I - MOVE 联盟 共享 ， 后者 最近 因为 “ 提高 对 <term id="301" type="src_original_and_tgt_original" src="the novel Coronavirus" tgt="新型 冠状病毒|新冠 病毒"> 新型 冠状病毒 </term> <term id="203" type="src_original_and_tgt_original" src="epidemic" tgt="流行性|疫情|流行|流行病"> 疫情 </term> 的 临床 和 公共卫生 响应 的 知识 ” 获得 了 欧盟 “ 地平线 2020 ” 项目 的 资助 。 </seg>
+<seg id="898"> 与 单独 采取行动 的 国家 相比 ， 预计 通过 这种 合作 将会 获得 更 高 的 项目管理 效率 。 </seg>
+<seg id="899"> 这项 研究 旨在 确定 是否 存在 未 检测 到 的 COVID - 19 <term id="348" type="src_original_and_tgt_original" src="community transmission" tgt="社区 传染|社区 传播"> 社区 传播 </term> ， 估计 人群 的 易感性 ， 并 监测 社会 中 COVID - 19 <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 的 时间 和 地域 分布 。 </seg>
+<seg id="900"> 这项 研究 的 目的 如下 ： </seg>
+<seg id="901"> 通过 基层 医疗 监测 以及 转诊 至 控制 通道 的 可能 COVID - 19 病例 的 临床 编码 来 监测 社区 中 疑似 COVID - 19 活动 的 负担 </seg>
+<seg id="902"> 提供 关于 未 检测 到 的 COVID - 19 <term id="348" type="src_original_and_tgt_original" src="community transmission" tgt="社区 传染|社区 传播"> 社区 传播 </term> 的 存在 和 程度 的 病毒学 证据 ， 并 监测 前往 基层 医疗机构 就诊 的 ILI 或 急性 <term id="330" type="src_original_and_tgt_original" src="respiratory" tgt="呼吸道|呼吸系统|呼吸"> 呼吸道 </term> <term id="345" type="src_lemma_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 患者 中 的 阳性率 </seg>
+<seg id="903"> 估计 社区 人群 对 COVID - 19 的 基线 易感性 ， 并 通过 血清 阳性率 监测 估计 人群 的 <term id="335" type="src_original_and_tgt_original" src="symptomatic" tgt="有 症状|出现 症状|症状|有 症状 的"> 有 症状 </term> 和 <term id="398" type="src_original_and_tgt_original" src="asymptomatic" tgt="未 表现 出 任何 症状|无症状"> 无症状 </term> <term id="211" type="src_original_and_tgt_original" src="exposure" tgt="接触|暴露"> 暴露 </term> 率 </seg>
+<seg id="904"> 试行 一项 计划 ， 在 出院 的 已 康复 COVID - 19 病例 中 采集 具有 抗体谱 的 康复 期 血清 </seg>
+<seg id="905"> 我们 打算 采集 以下 信息 。 </seg>
+<seg id="906"> 使用 创建 用于 标记 病例 的 编码 进行 COVID - 19 报告 相关 的 临床 工作量 ， 正在 接受 评估 的 病例 以及 已经 确定 <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 的 地点 排除 在外 （ 图 2 - ​ - 44 ） </seg>
+<seg id="907"> 最近 28 天 内 访问 过 的 其他 国家 </seg>
+<seg id="908"> 可能 具有 实用性 的 已有 编码 （ 表 1 -- 3 ) . 3 ） 。 </seg>
+<seg id="909"> 许多 GP 和 基层 医疗 团队 可能 没有 意识 到 可以 对 重要 的 相关 数据 进行 编码 。 </seg>
+<seg id="910"> 在 任何 <term id="261" type="src_original_and_tgt_original" src="pandemic" tgt="大 流行|疫情|大 流行病|大规模 流行|全球 大 流行|流行病"> 疫情 </term> 期间 都 有 可能 监测 任何 <term id="17" type="src_original_and_tgt_original" src="transmission" tgt="传播|传|传染"> 传播 </term> 控制措施 的 有效性 。 </seg>
+<seg id="911"> 可以 显示 <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 已 确诊 或 被 排除 的 可靠 字母 编码 和 检测 结果 </seg>
+<seg id="912"> 这些 方法 将 遵循 在 当前 <term id="328" type="src_original_and_tgt_original" src="influenza" tgt="流感|流行性 感冒"> 流感 </term> 监测 系统 和 近期 血清学 研究 中 使用 的 方法 ， 包括 五个 组成部分 ： ( 1 ) 基层 医疗 临床 监测 ； ( 2 ) 病毒学 监测 ； ( 3 ) 人群 血清学 监测 ； ( 4 ) 病例 的 康复 期 血清 ； 以及 ( 5 ) 数据 管护 。 </seg>
+<seg id="913"> NHS 使用 临床医学 系统 术语 ( SNOMED CT ) 编码 系统 ， 通常 每年 仅 更新 两次 。 </seg>
+<seg id="914"> 由于 某些 计算机化 病历 ( CMR ) 供应商 使用 已经 不再 更新 的 读取 编码 系统 ( read clinical terms version 3 – CTv3 ) ， 因此 增加 了 复杂性 。 </seg>
+<seg id="915"> 此外 ， 在 2020 年 2 月 上旬 还 没有 用于 记录 COVID - 19 的 临床 编码 。 </seg>
+<seg id="916"> 因此 ， 两个 主要 GP 系统 供应商 添加 了 表 4 所示 的 五个 术语 ， 作为 系统 范围 内 的 本地 编码 。 </seg>
+<seg id="917"> 随后 ， 也 在 所有 CMR 系统 中 提供 了 英国 针对 COVID - 19 的 SNOMED CT 概念 的 紧急 版本 （ 表 4 ） 。 </seg>
+<seg id="918"> 目的 是 在 它们 可用 时 最终 映射 到 新 的 SNOMED CT 概念 ， 从而 允许 记录 相关 数据 （ 多媒体 附录 1 ） 。 </seg>
+<seg id="919"> 此 版本 的 关键 要求 包括 ： 编码 （ 表 4 ） COVID - 19 病例 的 能力 ， 暴露 于 <term id="230" type="src_original_and_tgt_original" src="infected" tgt="已 感染|感染|被 感染|受到感染 的|受 感染"> 感染 </term> 的 风险 （ 到 可能 存在 较 高风险 区域 的 旅行 史 ） ， 与 COVID - 19 感染者 的 <term id="211" type="src_original_and_tgt_original" src="exposure" tgt="接触|暴露"> 接触 </term> ， COVID - 19 检测 报告 ， 以及 疾病 已 被 排除 （ 例如 阴性 检测 结果 ） 。 </seg>
+<seg id="920"> 此外 ， 诊所 现在 能够 对 任何 国外 旅行 史 进行 编码 ， 包括 记录 多个 国家 旅行 史 的 能力 （ 自 2020 年 2 月 8 日起 实施 ） 。 </seg>
+<seg id="921"> 图 2 - 44 显示 了 EMIS Web 实施方案 。 </seg>
+<seg id="922"> 目前 ， 用于 <term id="328" type="src_original_and_tgt_original" src="influenza" tgt="流感|流行性 感冒"> 流感 </term> 监测 的 病毒学 样本 附有 标准 申请单 。 </seg>
+<seg id="923"> 对于 COVID - 19 ， 我们 将 创建 一个 新 的 申请单 ， 其中 将 记录 ： </seg>
+<seg id="924"> <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> <term id="332" type="src_original_and_tgt_original" src="onset" tgt="出现|发病|发作"> 发作 </term> 日期 </seg>
+<seg id="925"> 以下 任何 一项 诊断 ： </seg>
+<seg id="926"> 五岁 以下 儿童 的 <term id="404" type="src_original_and_tgt_original" src="acute bronchitis" tgt="急性 支气管炎"> 急性 支气管炎 </term> / 细 支气管炎 </seg>
+<seg id="927"> 下 <term id="330" type="src_original_and_tgt_original" src="respiratory" tgt="呼吸道|呼吸系统|呼吸"> 呼吸道 </term> <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> ( LRTI ) </seg>
+<seg id="928"> <term id="213" type="src_original_and_tgt_original" src="fever" tgt="发热|热"> 发热 </term> 史 （ 是 / 否 ） ； 已 测量 （ 是 / 否 ） ; 如果 是 ， 则 记录 体温 </seg>
+<seg id="929"> <term id="336" type="src_original_and_tgt_original" src="shortness of breath" tgt="气促|呼吸 短促"> 气促 </term> （ 是 / 否 ） ， 如果 已 测量 ： 血氧 饱和度 和 <term id="330" type="src_original_and_tgt_original" src="respiratory" tgt="呼吸道|呼吸系统|呼吸"> 呼吸 </term> 频率 </seg>
+<seg id="930"> 近期 旅行 史 （ 是 / 否 ） ； 如果 是 ， 最近 14 天 内 到访 的 国家 </seg>
+<seg id="931"> 与 已 确诊 COVID - 19 患者 的 接触 史 （ 是 / 否 ） ， 并 提供 有关 确定性 水平 的 自由 文字 注释 </seg>
+<seg id="932"> 使用 我们 以前 用于 各 疾病 领域 的 标准 分组 编码方法 （ 表 5 ） ， 将 这些 编码 在 本体 上 分为 “ 确定 的 病例 ” 、 “ 很 可能 的 病例 ” 、 “ 可能 的 病例 ” 和 “ 不是 病例 ” 。 </seg>
+<seg id="933"> RCGP RSC 对 ILI 的 定义 见 多媒体 附录 2 。 </seg>
+<seg id="934"> 使用 天文台 和 仪表板 公开 展示 数据 </seg>
+<seg id="935"> 我们 将 建立 一个 天文台 ， 用于 在 全国 范围 内 展示 数据 ， 并 建立 一个 仪表板 ， 用于 向 诊所 反馈 有关 其 数据 质量 以及 病毒学 和 血清学 样本 采集 的 信息 。 </seg>
+<seg id="936"> 这 基于 表 4 中 描述 的 编码 。 </seg>
+<seg id="937"> 在 我们 的 仪表板 上 ， 确定 的 病例 将 显示 为 COVID - 19 “ 病例 ” 。 </seg>
+<seg id="938"> 可能 的 病例 将 显示 为 “ 正在 调查 ” （ 调查 中 ） 。 </seg>
+<seg id="939"> “ 不是 病例 ” 将 显示 为 “ 已 排除 ” 。 </seg>
+<seg id="940"> 已经 在 创建 COVID - 19 天文台 的 最初 几周 内 建立 了 在线 数据 （ 图 5 ） ， 表明 已 确诊 或 正在 调查 的 病例 总数 和 每 10 , 000 名 患者 的 比率 ， 以及 已 排除 该 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 的 地点 。 </seg>
+<seg id="941"> 我们 可以 选择 每周 两次 提交 监测 报告 ， 并且 可以 将 其 更 改为 每日 报告 。 </seg>
+<seg id="942"> 我们 将 持续 从 预警 诊所 进行 病毒学 采样 ， 而 不是 随着 <term id="553" type="src_original_and_tgt_original" src="seasonal influenza" tgt="季节性 流感"> 季节性 流感 </term> 的 减少 而 终止 。 </seg>
+<seg id="943"> 此外 ， 我们 将 招募 更 多 的 监测 诊所 。 </seg>
+<seg id="944"> RCGP RSC 病毒学 监测 诊所 的 目标 是 每周 在 RCGP RSC 预警 网络 中 进行 200 - 300 次 鼻咽 <term id="568" type="src_lemma_and_tgt_original" src="swab" tgt="拭子"> 拭子 </term> 采集 ， 从而 采集 各个 年龄段 的 标本 。 </seg>
+<seg id="945"> 除了 流感病毒 学 监测 的 纳入 标准 （ ILI 、 <term id="404" type="src_original_and_tgt_original" src="acute bronchitis" tgt="急性 支气管炎"> 急性 支气管炎 </term> / 细 支气管炎 ） 之外 ， 如果 在 7 天 内 <term id="332" type="src_original_and_tgt_original" src="onset" tgt="出现|发病|发作"> 出现 </term> LRTI 急性症状 ， 参与 诊所 还 将 从 任何 出现 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 的 患者 中 采集 鼻咽 拭 子样本 。 </seg>
+<seg id="946"> RCGP RSC 研究 人员 和 诊所 联络 人员 将 管理 相关 诊所 ， 以 实现 每周 200 - 300 个 <term id="568" type="src_lemma_and_tgt_original" src="swab" tgt="拭子"> 拭子 </term> 的 全国 样本 总数 。 </seg>
+<seg id="947"> 如果 PHE 建模 人员 需要 更 多样 本 ， 此 数量 可能 会 增加 。 </seg>
+<seg id="948"> 每个 诊所 的 样本 采集 将 分布 在 以下 年龄段 ： < 5 岁 、 5 - 17 岁 、 18 - 64 岁 和 65 岁 及 以上 </seg>
+<seg id="949"> 采集 的 样本 （ <term id="568" type="src_lemma_and_tgt_original" src="swab" tgt="拭子"> 拭子 </term> 或 血清 ） 将 通过 预付 信封 发送到 适当 的 PHE 实验室 进行 分析 。 </seg>
+<seg id="950"> 将 对 采集 的 所有 样本 进行 <term id="328" type="src_original_and_tgt_original" src="influenza" tgt="流感|流行性 感冒"> 流感 </term> 和 COVID - 19 检测 。 </seg>
+<seg id="951"> 此外 ， PHE 还 将 对 2020 年 2 月 上旬 至 中旬 期间 采集 的 所有 COVID - 19 流感病毒 学 样本 进行 回顾性 检测 。 </seg>
+<seg id="952"> 诊所 将 继续 遵循 PHE 制定 的 COVID - 19 方案 ， 有 <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 风险 者 应 转诊 至 控制 通道 ， 而 不是 亲自 前往 诊所 就诊 。 </seg>
+<seg id="953"> 仍然 允许 对 前往 诊室 的 患者 进行 直接 检测 ， 但 我们 也 已经 推出 家庭 自我 拭子 采集 。 </seg>
+<seg id="954"> 流程 总结 详见 多媒体 附录 3 。 </seg>
+<seg id="955"> 对于 每个 与 GP 联系 （ 例如 ， 电话 预约 ） 并且 患有 ILI 或 <term id="337" type="src_original_and_tgt_original" src="respiratory illness" tgt="呼吸道 疾病|呼吸系统 疾病"> 呼吸道 疾病 </term> 的 个人 ， 都 应该 具体 询问 他们 最近 前往 中国 以及 PHE 建议 中 标记 的 其他 国家 的 旅行 史 ， 或者 他们 是否 与 其他 COVID - 19 患者 有过 接触 。 </seg>
+<seg id="956"> 如果 这些 筛查 询问 得到 了 肯定 的 答复 ， 则 建议 患者 不要 前往 诊所 ， 而是 应该 遵循 PHE 流程图 。 </seg>
+<seg id="957"> 这 可以 由 接待 人员 或 临床 工作人员 决定 ， 具体 取决于 个体 诊所 规程 。 </seg>
+<seg id="958"> 这些 电话 应 编码 至 GP CMR 系统 ， 并 可以 作为 RCGP RSC 每周 回报 的 一部分 进行 报告 。 </seg>
+<seg id="959"> 我们 已经 开发 出 支持 该 编码 的 培训 材料 （ 多媒体 附录 4 ） 。 </seg>
+<seg id="960"> 这些 包括 以下 提示卡 ： </seg>
+<seg id="961"> 诊所 接待 或 分诊 人员 ： 根据 PHE 建议 ， 对 所有 致电 诊所 并 存在 急性 <term id="330" type="src_original_and_tgt_original" src="respiratory" tgt="呼吸道|呼吸系统|呼吸"> 呼吸道 </term> <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 以及 重要 地区 旅行 史 的 患者 进行 编码 </seg>
+<seg id="962"> 负责 编码 的 行政 人员 或 临床 医生 ： 鼓励 对 任何 疑似病例 进行 一致 的 结果 编码 ， 包括 对 阴性 结果 进行 排除 编码 </seg>
+<seg id="963"> 参加 病毒学 监测 的 诊所 将 适时 从 前往 诊所 进行 常规 血液 检查 的 患者 那里 采集 血样 。 </seg>
+<seg id="964"> 前往 诊所 进行 常规 血液 检查 的 患者 将 被 要求 提供 额外 的 血清学 样本 。 </seg>
+<seg id="965"> 我们 已经 在 RCGP RSC 数据库 中 进行 了 初步 检索 ， 以 查看 成人 和 儿童 的 全 血细胞 计数 ( FBC ) 结果 的 数量 和 总体 比率 （ 图 6 -- 9 ) . 9 ） 。 </seg>
+<seg id="966"> FBC 是 最常 进行 的 检测 项目 之一 ， 我们 希望 这能 大致 显示 出 进行 血液 检测 的 总数 。 </seg>
+<seg id="967"> 每 10 万名 患者 的 采样率 在 15 - 17 岁 的 儿童 以及 60 岁 或 以上 成人 中 最高 ， 而 在 0 - 4 岁 的 儿童 以及 18 - 29 岁 的 成人 中 最低 （ 图 6 -- 99 ） 。 </seg>
+<seg id="968"> 我们 将 提供 1000 个 不同 年龄段 的 血清学 基线 样本 ， 用于 反映 各 年龄段 到场 率 的 差异 。 </seg>
+<seg id="969"> 此外 ， 我们 将 测试 能否 从 病毒学 监测 诊所 中 获得 所有 这些 信息 以 提高 产出 。 </seg>
+<seg id="970"> 合理 的 地域 分布 非常 重要 ， 因此 PHE 可以 对 采集 血清学 样本 最 有用 的 区域 提供 建议 。 </seg>
+<seg id="971"> 随后 每月 将 提供 800 个 样本 。 </seg>
+<seg id="972"> 样本 将 按照 以下 年龄组 对 用于 疫情 前 调查 （ 每月 100 个 ） 的 200 个 样本 进行 分层 ： < 5 岁 、 5 - 17 岁 、 18 - 64 岁 和 65 岁 或 以上 。 </seg>
+<seg id="973"> 在 许多 诊所 中 ， 年龄 小于 14 岁 的 年轻 患者 以及 几乎 所有 8 岁 以下 的 儿童 都 需要 进行 儿科 血清学 监测 。 </seg>
+<seg id="974"> 我们 将 为 诊所 开发新 的 申请表 ， 以 记录 近期 旅行 史 和 COVID - 19 <term id="211" type="src_original_and_tgt_original" src="exposure" tgt="接触|暴露"> 暴露 </term> 情况 。 </seg>
+<seg id="975"> 我们 将 试行 一项 计划 ， 从 已 <term id="3" type="src_original_and_tgt_original" src="confirmed cases" tgt="确诊 病例|确诊 的 COVID-19 感染 病例|确诊 COVID-19 病例|确诊 的 16 例 病例"> 确诊 病例 </term> 以及 在 <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 时 已 获得 急性 病毒学 样本 的 患者 中 采集 康复 期 血清学 样本 。 </seg>
+<seg id="976"> 这是 为了 确定 已经 康复 但 可能 继续 释放 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 的 患者 的 携带者 状态 。 </seg>
+<seg id="977"> 如果 病例 数量 很少 ， 这 可能 有助于 为 患者 开发 一套 检测 <term id="572" type="src_original_and_tgt_original" src="test kit" tgt="试剂盒"> 试剂盒 </term> ， 以 带给 他们 自己 的 GP 并 探讨 其 对 患者 的 可接受性 。 </seg>
+<seg id="978"> 如果 在 全国 范围 内有 大量 COVID - 19 病例 ， 则 可以 从 已 <term id="3" type="src_original_and_tgt_original" src="confirmed cases" tgt="确诊 病例|确诊 的 COVID-19 感染 病例|确诊 COVID-19 病例|确诊 的 16 例 病例"> 确诊 病例 </term> 并 具有 与 完整 病历 关联 能力 的 RCGP RSC 诊所 中 采集 康复 期 样本 。 </seg>
+<seg id="979"> 该 过程 可能 包括 核对 RCGP RSC 诊所 内 阳性 个体 的 匿名 化 NHS 编号 ， 核对 有关 已 <term id="3" type="src_original_and_tgt_original" src="confirmed cases" tgt="确诊 病例|确诊 的 COVID-19 感染 病例|确诊 COVID-19 病例|确诊 的 16 例 病例"> 确诊 病例 </term> 传染性 考虑 因素 的 现行 PHE 指南 ， 以及 按照 上述 流程 为 患者 提供 预约 。 </seg>
+<seg id="980"> 这 需要 在 整个 网络 内 进行 周密 地 全国性 协调 ， 并 可能 要求 PHE 确保 不会 由 多个 机构 联系 个人 。 </seg>
+<seg id="981"> 一旦 PHE 发出 申请 ， RCGP RSC 即可 提供 一种 有用 的 结构 来 引导 初始 联系人 。 </seg>
+<seg id="982"> 参与 年度 流感病毒 学 监测 的 RCGP RSC 诊所 已经 开始 从 存在 LRTI <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 的 患者 中 取样 。 </seg>
+<seg id="983"> 收到 的 所有 样本 正在 进行 <term id="328" type="src_original_and_tgt_original" src="influenza" tgt="流感|流行性 感冒"> 流感 </term> 和 COVID - 19 检测 。 </seg>
+<seg id="984"> RCGP RSC 将 探索 通过 扩大 病毒学 监测 从 任何 COVID - 19 检测 结果 呈 阳性 的 患者 中 采集 康复 期 样本 的 方法 。 </seg>
+<seg id="985"> 从 一 开始 ， 我们 就 将 仔细 整理 数据 以 确保 可 用于 将来 的 研究 。 </seg>
+<seg id="986"> 我们 的 临床 数据 将 与 病毒学 样本 相关联 。 </seg>
+<seg id="987"> 我们 将 使用 “ 可 查找 、 可 访问 、 可 共同 操作 、 可 重新 使用 ” 的 原则 来 整理 数据 。 </seg>
+<seg id="988"> 为此 ， 我们 的 数据 集已 在 “ 英国 健康 数据 研究 中心 ” 和 “ 欧洲 健康 数据 证据 网络 ” 中 列出 。 </seg>
+<seg id="989"> 统计 方法学 支持 针对 广泛 <term id="198" type="src_original_and_tgt_original" src="disease outbreak" tgt="疾病 暴发|病 爆发|疫情 爆发|疾病 爆发"> 疾病 爆发 </term> 的 政策 方法 ， 其中 使用 所谓 的 非 药物 干预 措施 ( NPI ) 应对 新 出现 的 <term id="261" type="src_original_and_tgt_original" src="pandemic" tgt="大 流行|疫情|大 流行病|大规模 流行|全球 大 流行|流行病"> 疫情 </term> 以 产生 疾病 抑制 效果 。 </seg>
+<seg id="990"> 该 政策 旨在 降低 人群 中 的 接触 率 ， 从而 减少 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 的 <term id="17" type="src_original_and_tgt_original" src="transmission" tgt="传播|传|传染"> 传播 </term> 。 </seg>
+<seg id="991"> 为了 实现 这一 目标 ， 英国政府 最近 明确 表达 了 实施 人群 自我 隔离 措施 的 要求 。 </seg>
+<seg id="992"> 通过 针对 再生 数 ( R ) （ 每个 病例 产生 的 二代 病例 的 平均 数量 ） 并 将 R 降低 至 1 以下 ， 该 政策 试图 将 病例 数量 降至 较 低水平 或 （ 如 先前 的 严重 急性 <term id="338" type="src_original_and_tgt_original" src="respiratory syndrome" tgt="呼吸系统 综合征|呼吸道 综合征|呼吸 综合征|呼吸道 综合症"> 呼吸系统 综合征 </term> 和 <term id="461" type="src_original_and_tgt_original" src="Ebola" tgt="埃 博拉"> 埃 博拉 </term> 病毒 <term id="258" type="src_lemma_and_tgt_original" src="outbreak" tgt="暴发|爆发"> 爆发 </term> ） 消除 人 传人 现象 。 </seg>
+<seg id="993"> 2009 年 <term id="478" type="src_original_and_tgt_original" src="H1N1" tgt="H1N1"> H1N1 </term> <term id="261" type="src_original_and_tgt_original" src="pandemic" tgt="大 流行|疫情|大 流行病|大规模 流行|全球 大 流行|流行病"> 疫情 </term> 的 经验 已经 证明 ， NPI 可能 是 缓解 <term id="261" type="src_original_and_tgt_original" src="pandemic" tgt="大 流行|疫情|大 流行病|大规模 流行|全球 大 流行|流行病"> 疫情 </term> 的 重要 组成部分 。 </seg>
+<seg id="994"> 我们 研究 重点 的 关键 将 是 估计 人口 中 的 峰值 病例 ， 通过 数据 采集 进行 持续 监测 ， 并 对 随着 扩大 <term id="292" type="src_original_and_tgt_original" src="social distancing measures" tgt="社交 隔离 措施|社交 距离 措施|保持 社交 距离 的 措施"> 社交 距离 措施 </term> 的 放松 而 可能 出现 的 病例 增长 和 后续 高峰 进行 建模 。 </seg>
+<seg id="995"> 关于 中国 大陆 COVID - 19 <term id="258" type="src_original_and_tgt_original" src="outbreak" tgt="暴发|爆发"> 爆发 </term> 的 重要 疾病 流行病学 措施 已经 出版 。 </seg>
+<seg id="996"> <term id="261" type="src_original_and_tgt_original" src="pandemic" tgt="大 流行|疫情|大 流行病|大规模 流行|全球 大 流行|流行病"> 疫情 </term> 动态 的 另 一个 基本 指标 是从 一个 人 发生 <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 到 传染给 其他人 的 时间 长度 以及 平均 <term id="329" type="src_original_and_tgt_original" src="infectious" tgt="传染性|传染|感染|感染性"> 传染性 </term> 持续时间 。 </seg>
+<seg id="997"> 如果 能够 准确 估算 这些 因素 ， 将 对 <term id="261" type="src_original_and_tgt_original" src="pandemic" tgt="大 流行|疫情|大 流行病|大规模 流行|全球 大 流行|流行病"> 疫情 </term> 可能 持续 的 时间 以及 最终 的 <term id="230" type="src_original_and_tgt_original" src="infected" tgt="已 感染|感染|被 感染|受到感染 的|受 感染"> 感染 </term> 病例 数量 给出 合理 的 预测 。 </seg>
+<seg id="998"> 我们 打算 将 近似 贝叶斯 推断 ( ABC ) 应用 于 （ 可能 在 空间 上 存在 异质性 ） “ 易感 - 暴露 - 传染 - 移出 ” ( SEIR ) 随机 <term id="203" type="src_original_and_tgt_original" src="epidemic" tgt="流行性|疫情|流行|流行病"> 疫情 </term> 模型 。 </seg>
+<seg id="999"> 此类 技术 是 高度 可 并行 的 ， 并且 已经 成功 地 应用 于 许多 领域 ， 包括 疾病 <term id="17" type="src_original_and_tgt_original" src="transmission" tgt="传播|传|传染"> 传播 </term> 建模 。 </seg>
+<seg id="1000"> 它们 特别 适合 于 缺少 似然 函数 且 不 适合 使用 诸如 马尔可夫 链 蒙特卡洛 等 更 传统 方法 的 情况 。 </seg>
+<seg id="1001"> 事实证明 ， 这种 方法 可以 有效 地 处理 ASPREN 监测数据 ， 这是 一个 由 预警 GP 和 执业 护士 组成 的 网络 ， 负责 报告 关于 ILI 和 其他 疾病 的 匿名 信息 ， 在 这些 情况 下 ， 诸如 缺失 数据 等 问题 以及 对 观察 过程 本身 进行 建模 的 需求 已经 被 成功 解决 。 </seg>
+<seg id="1002"> 此外 ， 已经 通过 分布 方法 估计 了 新发 病例 的 高峰 。 </seg>
+<seg id="1003"> 由于 可 并行性 ， SEIR 模型 参数 的 估计 在 大型 数据 集上 易于 处理 ， 并且 这些 方法 已经 应用 于 多个 R 库 ； 我们 打算 使用 ABSEIR 库 （ 存储 于 GitHub ： https : / / tinyurl . COM / vqu35cj ） 和 abctools 库 ( https : / / tinyurl . COM / tfjavz4 ) 每周 估算 一次 <term id="203" type="src_original_and_tgt_original" src="epidemic" tgt="流行性|疫情|流行|流行病"> 疫情 </term> 指标 。 </seg>
+<seg id="1004"> 由于 我们 在 ABC 例程 中 拟合 了 SIR 疫情 模型 ， 因此 我们 预期 分析 结果 对于 包含 相对 较 少 数量 的 每周 病例 数据 将 是 可靠 的 。 </seg>
+<seg id="1005"> 例如 ， ABC 方法 已经 应用 于 特里斯坦 - 达 库尼亚 群岛 1967 年 以来 的 <term id="369" type="src_original_and_tgt_original" src="common cold" tgt="普通 的 感冒|普通 感冒"> 普通 感冒 </term> 数据 ， 其中 I （ <term id="329" type="src_original_and_tgt_original" src="infectious" tgt="传染性|传染|感染|感染性"> 感染 </term> 病例 数 ） 和 R （ 恢复 病例 数 ） 的 计数 最多为 几十 。 </seg>
+<seg id="1006"> 最后 ， 除了 上述 方法学 之外 ， 我们 还 将 采用 具有 两种 结局 （ 死亡 和 恢复 ） 的 Kaplan - Meier 方法 来 估计 病死率 。 </seg>
+<seg id="1007"> 该 方法 独立 于 ABC 方法学 ， 将 允许 比较 两种 建模 方法 的 估计值 以 判断 结果 的 稳健性 。 </seg>
+<seg id="1008"> RCGP RSC 与 PHE 的 监测 在 2002 年 《 卫生 服务 （ 患者 信息 控制 ） 条例 》 第 3 条中 被 定义 为 “ 健康 保护 ” 。 </seg>
+<seg id="1009"> Phe 的 卡尔 迪 科特 监护人 办公室 已经 证实 了 这 一点 。 </seg>
+<seg id="1010"> 我们 认为 参与 此项 监测 计划 对 诊所 或 从业者 没有 增加 任何 风险 。 </seg>
+<seg id="1011"> <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 预防 和 控制 建议 将 遵循 现有 的 国家 指南 。 </seg>
+<seg id="1012"> 发现 的 所有 病例 都 将 根据 当时 有效 的 PHE / NHS 指南 进行 管理 ， 包括 对 已 确定 的 密切接触 者 提供 的 建议 。 </seg>
+<seg id="1013"> 但是 ， 我们 的 培训 将 包括 预计 在 诊所 中 常用 的 有关 标本 安全 处理 以及 <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 控制措施 修订 的 提醒 。 </seg>
+<seg id="1014"> 这是 关于 安全 护理 和 治疗 的 “ 12 号 法规 ” 的 关键 部分 ， 由 医疗 质量 委员会 定期检查 。 </seg>
+<seg id="1015"> 旅行 史 以及 COVID - 19 感染 的 临床 描述 </seg>
+<seg id="1016"> 已经 对 RCGP RSC 诊所 提出 了 有关 所有 CMR 系统 中 可 用于 COVID - 19 的 临床 编码 的 建议 。 </seg>
+<seg id="1017"> 这 包括 有关 临床 描述符 编码 （ 表 4 ） 和 任何 近期 旅行 史 的 信息 。 </seg>
+<seg id="1018"> 建立 扩展 病毒学 采样 </seg>
+<seg id="1019"> 参与 年度 流感病毒 学 监测 的 RCGP RSC 诊所 已经 开始 从 存在 LRTI <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 的 患者 中 取样 。 </seg>
+<seg id="1020"> 收到 的 所有 样本 正在 进行 <term id="328" type="src_original_and_tgt_original" src="influenza" tgt="流感|流行性 感冒"> 流感 </term> 和 COVID - 19 检测 。 </seg>
+<seg id="1021"> 这 导致 开始 早期 发现 低危 患者 的 背景 <term id="20" type="src_original_and_tgt_original" src="spread" tgt="扩散|传播|扩散 蔓延"> 扩散 </term> 。 </seg>
+<seg id="1022"> 截至 2020 年 3 月 7 日 ， 监测 系统 已经 通过 扩展 病毒学 采样 在 没有 旅行 史 的 低危 患者 中 检测 到 2 名 COVID - 19 病例 。 </seg>
+<seg id="1023"> 该 方案 描述 了 我们 如何 调整 全国性 <term id="328" type="src_original_and_tgt_original" src="influenza" tgt="流感|流行性 感冒"> 流感 </term> 监测 系统 以 监控 意外 COVID - 19 <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 的 <term id="347" type="src_original_and_tgt_original" src="community spread" tgt="社区 内 的 扩散 情况|社区 传播|社区 扩散"> 社区 扩散 </term> 。 </seg>
+<seg id="1024"> 我们 已经 快速 创建 并 合并 了 新 的 编码 以 允许 进行 数据 记录 ， 并 正在 收集 数据 以 监控 控制策略 的 有效性 。 </seg>
+<seg id="1025"> 通过 这种 监测 ， 我们 打算 找到 更 多 门诊 医疗 中 的 COVID - 19 流行病学 信息 。 </seg>
+<seg id="1026"> 具体 而言 ， 是 疫情 <term id="20" type="src_original_and_tgt_original" src="spread" tgt="扩散|传播|扩散 蔓延"> 扩散 </term> 速度 ， 包括 时间 和 地域 方面 。 </seg>
+<seg id="1027"> 我们 对 低危 患者 的 检测 还 将 了解 基于 对 高危 患者 及其 接触 者 进行 病毒学 检测 外加 自我 隔离 的 控制策略 是否 有效 。 </seg>
+<seg id="1028"> 控制措施 应该 会 减慢 疫情 <term id="20" type="src_original_and_tgt_original" src="spread" tgt="扩散|传播|扩散 蔓延"> 扩散 </term> 速度 ， 严格 监测 可能 有利于 控制 疫情 <term id="20" type="src_original_and_tgt_original" src="spread" tgt="扩散|传播|扩散 蔓延"> 扩散 </term> 。 </seg>
+<seg id="1029"> 但是 ， 就 像 在 意大利 发生 过 的 那样 ， 可能 会 达到 一个 <term id="318" type="src_original_and_tgt_original" src="virus spreads" tgt="病毒传播|病毒 更 广泛传播"> 病毒 更 广泛传播 </term> 到 人群 中 的 时间 点 。 </seg>
+<seg id="1030"> 低危 患者 的 监测 应该 能够 告知 我们 何时 达到 这个 临界点 以及 感染率 何时 开始 降低 。 </seg>
+<seg id="1031"> COVID - 19 的 流行病学 仍然 处于 发展 初期 。 </seg>
+<seg id="1032"> 英国 基层 医疗 的 登记 制度 意味着 我们 将 能够 对 累积 发病率 和 持续时间 进行 全面 了解 。 </seg>
+<seg id="1033"> 监测 系统 应该 能够 确定 正在 发生 COVID - 19 <term id="20" type="src_original_and_tgt_original" src="spread" tgt="扩散|传播|扩散 蔓延"> 传播 </term> 的 区域 ， 这些 区域 可能 适合 进行 抗病毒 治疗 试验 。 </seg>
+<seg id="1034"> 我们 还 可以 跟踪 这些 <term id="244" type="src_original_and_tgt_original" src="medicines" tgt="药物"> 药物 </term> 或 疫苗 接种 的 有效性 或 任何 不良反应 。 </seg>
+<seg id="1035"> 最后 ， 一名 确诊 COVID - 19 病例 的 早期 检测 已经 证明 在 全国性 网络 中 快速 实施 这种 增强 监测 方案 的 价值 。 </seg>
+<seg id="1036"> 诊所 的 安全性 是 我们 首要 考虑 的 问题 。 </seg>
+<seg id="1037"> RCGP RSC 已经 运行 了 50 多年 ， 并且 在 1968 / 69 年 的 香港 <term id="472" type="src_original_and_tgt_original" src="flu" tgt="流感"> 流感 </term> <term id="261" type="src_original_and_tgt_original" src="pandemic" tgt="大 流行|疫情|大 流行病|大规模 流行|全球 大 流行|流行病"> 疫情 </term> 、 1977 / 78 年 的 俄罗斯 <term id="472" type="src_original_and_tgt_original" src="flu" tgt="流感"> 流感 </term> <term id="261" type="src_original_and_tgt_original" src="pandemic" tgt="大 流行|疫情|大 流行病|大规模 流行|全球 大 流行|流行病"> 疫情 </term> 以及 2009 年 的 猪 <term id="472" type="src_original_and_tgt_original" src="flu" tgt="流感"> 流感 </term> 疫情 期间 参与 了 样本 采集 以 监测 疾病 和 <term id="581" type="src_original_and_tgt_original" src="vaccine" tgt="疫苗"> 疫苗 </term> 有效性 。 </seg>
+<seg id="1038"> 我们 不 知道 参与 监测 的 诊所 工作人员 或 其他 患者 的 风险 是否 会 增加 。 </seg>
+<seg id="1039"> <term id="261" type="src_original_and_tgt_original" src="pandemic" tgt="大 流行|疫情|大 流行病|大规模 流行|全球 大 流行|流行病"> 疫情 </term> 防范 是 RCGP RSC 职能 的 一部分 。 </seg>
+<seg id="1040"> 对 从 与 RCGP RSC 诊所 的 联系人 获得 的 信息 进行 增强 编码 似乎 有望 减少 可能 为 疑似 COVID - 19 病例 的 患者 被误 带入 诊室 的 可能性 。 </seg>
+<seg id="1041"> 在 意外 发现 病例 的 情况 下 ， 对 患者 、 其 密切接触 者 和 诊所 可能 会 有所 帮助 。 </seg>
+<seg id="1042"> 对 诊所 的 影响 是 ， 如果 发现 病例 ， 需要 关闭 一天 ， 在 进行 深度 消毒 后 重新 开放 。 </seg>
+<seg id="1043"> 我们 系统 的 主要 限制 是 数据 点 的 数量 。 </seg>
+<seg id="1044"> 我们 正在 从 覆盖 一小部分 人口 的 100 个 研究 中心 采集 血清学 和 病毒学 数据 。 </seg>
+<seg id="1045"> 这 对于 <term id="328" type="src_original_and_tgt_original" src="influenza" tgt="流感|流行性 感冒"> 流感 </term> 监控 而言 已经 令人满意 ， 但 我们 不 确定 这些 样本 的 数量 是否 足够 用于 监测 <term id="334" type="src_original_and_tgt_original" src="COVID-19 outbreak" tgt="COVID-19 的 爆发|COVID-19 疫情 爆发|COVID-19 疫情 的 二次 爆发|COVID - 19 爆发"> COVID - 19 爆发 </term> 。 </seg>
+<seg id="1046"> 我们 的 研究 中心 （ 监测 诊所 ） 目前 是 固定 的 ， 能够 在 具有 更 多 病例 的 地区 迅速 启用 更 多 诊所 可能 会 有所 帮助 。 </seg>
+<seg id="1047"> 目前 ， 我们 将 每周 报告 一次 。 </seg>
+<seg id="1048"> 我们 现有 的 系统 可以 提高 到 每周 两次 ， 但 也许 每天 或 每 小时 数据 应该 成为 我们 当前 的 方法 。 </seg>
+<seg id="1049"> 由于 儿童 的 总体 血液 检测 率 较 低 ， 10 岁 以下 儿童 的 血清学 采样 机会 可能 会 受到限制 。 </seg>
+<seg id="1050"> 已经 快速 建立 了 使用 RCGP RSC - PHE 网络 对 处于 发展 初期 的 <term id="334" type="src_original_and_tgt_original" src="COVID-19 outbreak" tgt="COVID-19 的 爆发|COVID-19 疫情 爆发|COVID-19 疫情 的 二次 爆发|COVID - 19 爆发"> COVID - 19 爆发 </term> 进行 扩展 监测 的 方案 。 </seg>
+<seg id="1051"> 获取 适当 信息 以 支持 采集 必需 数据 的 模型 已经 取得成功 ， 从 创建 编码 的 那 一周 开始 记录 数据 。 </seg>
+<seg id="1052"> 此外 ， 修改 现有 监测 系统 以 并行 方式 采集 人口 数据 也 很 有效 。 </seg>
+<seg id="1053"> 但是 ， 我们 目前 尚 不 确定 这种 监测 规模 能否 提供 足够 的 数据 来 推动 当地 控制策略 ， 或者 较 低 频率 的 报告 是否 符合 我们 信息时代 的 需要 。 </seg>
+</p>
+</doc>
+<doc sysid="ref" docid="Wikinews_2" genre="terminology" origlang="en">
+<p>
+<seg id="1096"> 职业 篮球联赛 受 COVID - 19 影响 而 暂停 本赛季 </seg>
+<seg id="1097"> 星期三 ， 由于 COVID - 19 的 影响 ， 美国 职业 篮球联赛 ( NBA ) 暂停 其 职业 篮球 赛季 的 比赛 。 </seg>
+<seg id="1098"> NBA 在 一名 犹他 爵士 球员 检测 出 COVID - 19 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 呈 阳性 后 做出 了 这 一 决定 。 </seg>
+<seg id="1099"> NBA 没有 在 声明 中 公布 该 相关 球员 的 身份 。 </seg>
+<seg id="1100"> NBA 表示 这名 球员 并 没有 出现 在 俄克拉荷马 城 的 切萨皮克 能源 球馆 ， 原本 犹他 爵士队 将 在 这里 对阵 俄克拉荷马 城 雷霆 队 。 </seg>
+<seg id="1101"> 根据 其 新闻稿 ， NBA “ 会 在 [ 星期三 ] 安排 的 比赛 结束 之后 暂停比赛 ， 直到 另行通知 。 ” </seg>
+<seg id="1102"> 爵士队 的 比赛 被 取消 ， 而 星期三 的 另外 一场 NBA 比赛 ， 即 萨克拉门托 国王 对 新奥尔良 鹈鹕 的 比赛 也 被 取消 。 </seg>
+<seg id="1103"> 据 NBC 新闻报道 ， 原定 于 星期三 举行 的 其他 比赛 仍然 继续 。 </seg>
+<seg id="1104"> 美国 另 一个 主要 篮球 组织 全国 大学 体育 协会 负责 运营 大学生 篮球联赛 ， 该 协会 也 取消 了 自己 的 “ 疯狂 三月 ” 联赛 ， 包括 男子 联赛 和 女子 联赛 。 </seg>
+<seg id="1105"> 据 约翰 - 霍普金斯大学 透露 ， 截止 到 星期三 ， 美国 至少 已有 1279 例 COVID - 19 <term id="3" type="src_original_and_tgt_original" src="confirmed cases" tgt="确诊 病例|确诊 的 COVID-19 感染 病例|确诊 COVID-19 病例|确诊 的 16 例 病例"> 确诊 病例 </term> 。 </seg>
+<seg id="1106"> CNBC 报道 称 ， 全球 至少 有 118381 例 。 </seg>
+</p>
+</doc>
+<doc sysid="ref" docid="Wikinews_5" genre="terminology" origlang="en">
+<p>
+<seg id="1146"> 美国 总统 特朗普 宣布 COVID - 19 国家 紧急状态 </seg>
+<seg id="1147"> 星期五 ， 美国 总统 唐纳德 · 特朗普 宣布 了 国家 紧急状态 ， 以 应对 不断 蔓延 的 <term id="69" type="src_original_and_tgt_original" src="Coronavirus outbreak" tgt="冠状病毒 暴发|冠状病毒 疫情|冠状病毒 爆发|新型 冠状病毒 爆发"> 冠状病毒 爆发 </term> 。 </seg>
+<seg id="1148"> 该 举措 是 在 <term id="22" type="src_original_and_tgt_original" src="World Health Organization" tgt="世界卫生组织"> 世界卫生组织 </term> 宣布 导致 COVID - 19 疾病 的 病毒 <term id="258" type="src_original_and_tgt_original" src="outbreak" tgt="暴发|爆发"> 爆发 </term> 为 <term id="261" type="src_original_and_tgt_original" src="pandemic" tgt="大 流行|疫情|大 流行病|大规模 流行|全球 大 流行|流行病"> 大 流行 </term> 后 两天 做出 的 。 </seg>
+<seg id="1149"> 据 NBC 新闻报道 ， 该 举措 让 联邦政府 获权 启动 约 500 亿美元 的 额外 资金 ， 来 应对 该大 流行 。 </seg>
+<seg id="1150"> 公告 特别 指出 “ 美国 <term id="258" type="src_original_and_tgt_original" src="outbreak" tgt="暴发|爆发"> 爆发 </term> COVID - 19 导致 了 国家 紧急状态 ” ， 并 表示 国家 紧急状态 已于 3 月 1 日 开始 ， 比 公告 本身 早 两周 。 </seg>
+<seg id="1151"> 1 月 31 日 ， 美国 卫生 与 公共 服务部 宣布 此次 <term id="258" type="src_original_and_tgt_original" src="outbreak" tgt="暴发|爆发"> 爆发 </term> 为 “ 公共卫生 紧急事件 ” 。 </seg>
+<seg id="1152"> 特朗普 并 没有 让 联邦 应急 管理局 ( FEMA ) 来 负责 政府 对 COVID - 19 的 应对 工作 ， 据 Politico 报道 ， 这 让 部分 灾难 管理 专家 感到 失望 。 </seg>
+<seg id="1153"> Politico 援引 FEMA 前 副局长 Tim Manning 的话 表示 ， “ FEMA 在 协调 更大 的 危机 应对 行动 方面 发挥 着 重要 作用 ” ， “ [ 如果 ] 出现 紧急情况 ， FEMA 需要 介入 。 ” </seg>
+<seg id="1154"> 特朗普 是 根据 《 国家 紧急状态 法案 》 以及 其他 监管 机构 的 规定 做出 这一 决定 的 。 </seg>
+<seg id="1155"> 特朗普 政府 还 宣布 了 应对 COVID - 19 的 其他 举措 ， 包括 免除 联邦 学生 贷款 的 利息 以及 增加 购买 美国 战略 石油 储备 油 。 </seg>
+</p>
+</doc>
+<doc sysid="ref" docid="Wikipedia_handpicked_5" genre="terminology" origlang="en">
+<p>
+<seg id="1860"> 2019 - 20 <term id="70" type="src_original_and_tgt_original" src="Coronavirus pandemic" tgt="冠状病毒 大 流行|冠状病毒 疫情|冠状病毒 流行病"> 冠状病毒 疫情 </term> 对 教育 的 影响 </seg>
+<seg id="1861"> 2019 - 20 <term id="70" type="src_original_and_tgt_original" src="Coronavirus pandemic" tgt="冠状病毒 大 流行|冠状病毒 疫情|冠状病毒 流行病"> 冠状病毒 疫情 </term> 已经 影响 了 全球 教育 系统 ， 导致 中小学 和 大学 普遍 关闭 。 </seg>
+<seg id="1862"> 截止 到 2020 年 4 月 8 日 ， 约 有 17.16 亿 学生 由于 学校 为 应对 COVID - 19 而 关闭 的 举措 受到 影响 。 </seg>
+<seg id="1863"> 联合国教科文组织 的 监控 结果显示 ， 188 个 国家 / 地区 已 实行 全国 范围 的 关闭 举措 ， 5 个 国家 / 地区 实行 了 地区性 关闭 ， 这 影响 到 全球 大约 99.4% 的 学生 。 </seg>
+<seg id="1864"> 2020 年 3 月 23 日 ， 剑桥 国际 考试 委员会 ( Cie ) 发布 了 一项 声明 ， 宣布 取消 所有 国家 / 地区 2020 年 5 月 / 6 月 的 系列 考试 ， 包括 Cambridge IGCSE 、 Cambridge O Level 、 Cambridge International AS & A Level 、 Cambridge AICE Diploma 和 Cambridge Pre - U 。 </seg>
+<seg id="1865"> 国际 文凭 组织 的 考试 也 已 取消 。 学校 关闭 不仅 会 影响 学生 、 教师 和 家庭 ， 还会 产生 深远 的 经济 和 社会 后果 。 </seg>
+<seg id="1866"> 为 应对 COVID - 19 而 关闭 学校 反映 出 各种 社会 和 经济 问题 ， 包括 学生 贷款 、 数字化 学习 、 食品安全 和 无家可归 问题 ， 以及 儿童 保育 、 医疗保健 、 住房 、 互联网 和 残障 人士 服务 的 提供 情况 。 </seg>
+<seg id="1867"> 该 影响 对于 弱势 儿童 和 他们 的 家庭 更为严重 ， 导致 学习 中断 、 营养不良 、 儿童 保育 问题 ， 以及 由此 给 无法 工作 的 家庭 带来 的 经济损失 。 为了 应对 学校 关闭 ， 联合国教科文组织 建议 使用 远程 学习 课程 以及 开放式 教育 应用程序 和 平台 ， 供 学校 和 教师 用来 远程 联系 学生 ， 缓解 教育 中断 情况 。 </seg>
+<seg id="1868"> 通过 非 药物 干预 以及 保持 社交 距离 和 自我 隔离 等 预防性 措施 来 阻止 COVID - 19 <term id="20" type="src_original_and_tgt_original" src="spread" tgt="扩散|传播|扩散 蔓延"> 扩散 </term> 的 举措 导致 超过 100 个 国家 / 地区 的 小学 、 中学 和 高校 普遍 关闭 。 以前 <term id="258" type="src_lemma_and_tgt_original" src="outbreak" tgt="暴发|爆发"> 爆发 </term> 的 <term id="329" type="src_original_and_tgt_original" src="infectious" tgt="传染性|传染|感染|感染性"> 传染性 </term> 疾病 曾 导致 全球 学校 普遍 关闭 ， 并且 该 关闭 举措 取得 了 不同 程度 的 成效 。 </seg>
+<seg id="1869"> 数学 建模 显示 ， 关闭 学校 可能 会 延缓 病毒 <term id="258" type="src_original_and_tgt_original" src="outbreak" tgt="暴发|爆发"> 爆发 </term> 所 导致 的 <term id="17" type="src_original_and_tgt_original" src="transmission" tgt="传播|传|传染"> 传染 </term> 。 </seg>
+<seg id="1870"> 然而 ， 效果 取决于 学生 在 校外 的 社交 接触 。 </seg>
+<seg id="1871"> 快速 实施 关闭 学校 的 举措 可能 会 有效 。 </seg>
+<seg id="1872"> 如果 病毒 <term id="258" type="src_original_and_tgt_original" src="outbreak" tgt="暴发|爆发"> 爆发 </term> 以后 才 迟迟 关闭 学校 ， 则 效果 会 大打折扣 ， 甚至 完全 无效 。 </seg>
+<seg id="1873"> 另外 ， 在 一些 案例 中 ， 学校 关闭 一段时间 后 重新 开学 导致 了 感染率 增加 。 </seg>
+<seg id="1874"> 由于 关闭 往往 与 禁止 公共 聚会 等 其他 干预 措施 同时 实施 ， 因此 很难 衡量 关闭 学校 的 具体 影响 。 1918 - 1919 年 <term id="328" type="src_original_and_tgt_original" src="influenza" tgt="流感|流行性 感冒"> 流感 </term> 在 美国 <term id="261" type="src_original_and_tgt_original" src="pandemic" tgt="大 流行|疫情|大 流行病|大规模 流行|全球 大 流行|流行病"> 大 流行 </term> 期间 ， 学校 关闭 和 公共 聚会 禁令 降低 了 总死亡率 。 </seg>
+<seg id="1875"> 较 早 实施 此类 干预 措施 的 城市 大大 延缓 了 <term id="514" type="src_lemma_and_tgt_original" src="mortality rate" tgt="死亡率"> 死亡率 </term> 高峰 的 到来 。 </seg>
+<seg id="1876"> 根据 一项 针对 美国 43 个 城市 应对 西班牙 流感 的 研究 ， 学校 关闭 的 平均 持续时间 为 4 周 。 </seg>
+<seg id="1877"> 在 1957-1958 年 的 亚洲 <term id="328" type="src_original_and_tgt_original" src="influenza" tgt="流感|流行性 感冒"> 流感 </term> <term id="258" type="src_original_and_tgt_original" src="outbreak" tgt="暴发|爆发"> 爆发 </term> 期间 ， 美国 通过 学校 关闭 举措 使 发病率 降低 了 90% ； 2004-2008 年 期间 ， 该 举措 将 流感 发病率 降低 了 50% 。 在 2009 年 <term id="478" type="src_original_and_tgt_original" src="H1N1" tgt="H1N1"> H1N1 </term> 流感 大流行期间 ， 多个 国家 / 地区 都 实施 了 学校 关闭 政策 ， 成功 地 减缓 了 <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 传染病 </term> 的 <term id="20" type="src_original_and_tgt_original" src="spread" tgt="扩散|传播|扩散 蔓延"> 扩散 </term> 。 </seg>
+<seg id="1878"> 据 发现 ， 日本 大分市 的 学校 关闭 举措 成功 降低 了 <term id="230" type="src_original_and_tgt_original" src="infected" tgt="已 感染|感染|被 感染|受到感染 的|受 感染"> 感染 </term> 高峰期 的 <term id="230" type="src_original_and_tgt_original" src="infected" tgt="已 感染|感染|被 感染|受到感染 的|受 感染"> 感染 </term> 学生 人数 ； 但 未 发现 关闭 学校 显著 降低 感染 学生 的 总 人数 。 </seg>
+<seg id="1879"> 强制 关闭 学校 和 其他 <term id="292" type="src_original_and_tgt_original" src="social distancing measures" tgt="社交 隔离 措施|社交 距离 措施|保持 社交 距离 的 措施"> 保持 社交 距离 的 措施 </term> 使 <term id="328" type="src_original_and_tgt_original" src="influenza" tgt="流感|流行性 感冒"> 流感 </term> <term id="17" type="src_original_and_tgt_original" src="transmission" tgt="传播|传|传染"> 传染 </term> 速度 降低 了 29% 至 37% 。 </seg>
+<seg id="1880"> 美国 及早 实行 的 学校 关闭 措施 延缓 了 2009 年 <term id="478" type="src_original_and_tgt_original" src="H1N1" tgt="H1N1"> H1N1 </term> 流感 <term id="261" type="src_original_and_tgt_original" src="pandemic" tgt="大 流行|疫情|大 流行病|大规模 流行|全球 大 流行|流行病"> 大 流行 </term> 高峰期 的 到来 。 </seg>
+<seg id="1881"> 尽管 关闭 学校 举措 在 总体 上 是 成功 的 ， 但 一项 针对 密歇根州 学校 关闭 举措 的 研究 显示 ， “ 地区 级别 的 被动 关闭 学校 没有 效果 ” 。 根据 《 柳叶刀 传染性 疾病 》 上 发表 的 一篇 标题 为 《 <term id="328" type="src_original_and_tgt_original" src="influenza" tgt="流感|流行性 感冒"> 流感 </term> <term id="261" type="src_original_and_tgt_original" src="pandemic" tgt="大 流行|疫情|大 流行病|大规模 流行|全球 大 流行|流行病"> 大 流行 </term> 期间 的 学校 关闭 措施 》 的 文章 所述 ， 在 2009 年 英国 <term id="569" type="src_original_and_tgt_original" src="swine flu" tgt="猪 流感"> 猪 流感 </term> <term id="258" type="src_original_and_tgt_original" src="outbreak" tgt="暴发|爆发"> 爆发 </term> 期间 ， 一些 流行病学 专家 都 赞成 关闭 学校 ， 以 切断 <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 过程 、 减慢 病毒 进一步 <term id="20" type="src_original_and_tgt_original" src="spread" tgt="扩散|传播|扩散 蔓延"> 扩散 </term> ， 并 为 研发 和 生产 <term id="581" type="src_original_and_tgt_original" src="vaccine" tgt="疫苗"> 疫苗 </term> 赢得 时间 。 </seg>
+<seg id="1882"> 在 对 以往 的 <term id="328" type="src_original_and_tgt_original" src="influenza" tgt="流感|流行性 感冒"> 流感 </term> <term id="261" type="src_original_and_tgt_original" src="pandemic" tgt="大 流行|疫情|大 流行病|大规模 流行|全球 大 流行|流行病"> 大 流行 </term> （ 包括 <term id="403" type="src_original_and_tgt_original" src="1918 flu" tgt="1918 年 流感"> 1918 年 流感 </term> <term id="261" type="src_original_and_tgt_original" src="pandemic" tgt="大 流行|疫情|大 流行病|大规模 流行|全球 大 流行|流行病"> 大 流行 </term> 、 1957 年 流感 <term id="261" type="src_original_and_tgt_original" src="pandemic" tgt="大 流行|疫情|大 流行病|大规模 流行|全球 大 流行|流行病"> 大 流行 </term> 和 1968 年 流感 大 流行 ） 进行 研究 后 ， 他们 报道 了 学校 关闭 对 经济 和 劳动力 造成 的 影响 ， 特别 是 在 医生 和 护士 中 ， 女性 占 较大 比例 ， 而且 其中 半数 有 不满 16 周岁 的 子女 。 </seg>
+<seg id="1883"> 他们 还 研究 了 在 法国 学校 放假 期间 ， 法国 <term id="328" type="src_original_and_tgt_original" src="influenza" tgt="流感|流行性 感冒"> 流感 </term> <term id="20" type="src_original_and_tgt_original" src="spread" tgt="扩散|传播|扩散 蔓延"> 扩散 </term> 的 动态 趋势 ， 并 注意 到 在 学校 关闭 期间 ， 流感 病例 数 下降 ， 而 在 学校 重新 开学 后 ， 病例 数 反弹 。 </seg>
+<seg id="1884"> 他们 指出 ， 在 1999 – 2000 年 以色列 <term id="472" type="src_original_and_tgt_original" src="flu" tgt="流感"> 流感 </term> 发病 期 ， 以色列 教师 举行 了 罢工 ， 就医 人数 和 <term id="330" type="src_original_and_tgt_original" src="respiratory" tgt="呼吸道|呼吸系统|呼吸"> 呼吸道 </term> <term id="345" type="src_lemma_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 人数 分别 下降 了 五分之一 以上 和 五分之二 以上 。 </seg>
+<seg id="1885"> 对于 学校 和 儿童 福利 机构 ， 美国 疾病 控制 与 预防 中心 建议 ， 如果 有 <term id="230" type="src_original_and_tgt_original" src="infected" tgt="已 感染|感染|被 感染|受到感染 的|受 感染"> 已 感染 </term> 的 患者 曾 在 学校 教学楼 逗留 过 ， 不论 病毒 在 <term id="347" type="src_original_and_tgt_original" src="community spread" tgt="社区 内 的 扩散 情况|社区 传播|社区 扩散"> 社区 内 的 扩散 情况 </term> 如何 ， 都 应 进行 短期 封闭 ， 以便 进行 清洁 或 消毒 。 </seg>
+<seg id="1886"> 当 <term id="348" type="src_original_and_tgt_original" src="community transmission" tgt="社区 传染|社区 传播"> 社区 传染 </term> 程度 极低 或 不 严重 时 ， 可以 实施 保持 <term id="291" type="src_original_and_tgt_original" src="social distancing" tgt="社交 隔离|社交 距离"> 社交 距离 </term> 的 策略 ， 例如 ， 取消 野外 郊游 、 集会 以及 其他 大型 聚会 （ 如 体育课 、 合唱 班 或 在 餐厅 就餐 ） 、 增大 课桌 之间 的 空间 、 错峰 上下学 、 限制 非必要 的 来访者 ， 以及 对 出现 疑似 流感 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 的 儿童 安排 单独 的 就医 点 。 </seg>
+<seg id="1887"> 如果 当地 社区 出现 了 大量 <term id="17" type="src_original_and_tgt_original" src="transmission" tgt="传播|传|传染"> 传染 </term> ， 除了 实施 保持 <term id="291" type="src_original_and_tgt_original" src="social distancing" tgt="社交 隔离|社交 距离"> 社交 距离 </term> 策略 之外 ， 还 可以 考虑 延长 学校 假期 。 </seg>
+<seg id="1888"> 1 月 26 日 ， 中国 制定 措施 控制 COVID - 19 疫情 <term id="258" type="src_original_and_tgt_original" src="outbreak" tgt="暴发|爆发"> 爆发 </term> ， 其中 包括 延长 春节假期 以 控制 疫情 <term id="258" type="src_original_and_tgt_original" src="outbreak" tgt="暴发|爆发"> 爆发 </term> 。 </seg>
+<seg id="1889"> 全国 各地 的 大学 和 中小学校 纷纷 关闭 。 </seg>
+<seg id="1890"> 2 月 23 日 ， 伊朗 卫生部 宣布 关闭 多个 城市 和 省份 的 大学 、 高等教育 机构 和 中小学校 。 </seg>
+<seg id="1891"> 3 月 3 日 ， 联合国教科文组织 公布 了 关于 学校 关闭 和 受 影响 学生 的 第一批 全球 数字 。 </seg>
+<seg id="1892"> 它 报告 说 ， 有 13 个 国家 / 地区 颁布 了 预防性 措施 ， 其中 包括 暂时 关闭 中小学 和 大学 ， 这 影响 了 全球 2.905 亿 学生 。 </seg>
+<seg id="1893"> 作为 回应 ， 联合国教科文组织 呼吁 各个 国家 / 地区 为 受 影响 的 学生 和 家庭 提供 支持 ， 并 推动 大 范围 实施 全纳 远程 学习 课程 。 </seg>
+<seg id="1894"> 3 月 4 日 ， 意大利政府 下令 全国 所有 的 中小学 和 大学 全部 关闭 ， 因为 意大利 的 <term id="18" type="src_original_and_tgt_original" src="deaths" tgt="死亡 人数|例 死亡|死亡 病例|死亡|例 确诊 死亡|人 死亡|死亡 17 例|死亡 约 9.7 万人|死亡数|死亡 15 , 887 例|病例 死亡"> 死亡 人数 </term> 已达 100 人 。 </seg>
+<seg id="1895"> 如此一来 ， 意大利 成为 了 三 大洲 中 宣布 或 实施 关闭 学校 措施 的 22 个 国家 / 地区 之一 。 </seg>
+<seg id="1896"> 3 月 5 日 ， 受 COVID - 19 紧急措施 影响 的 大部分 学生 都 在 中国 ， 受 影响 学生 人数 为 2.33 亿人 ， 其次 是 日本 的 1650 万人 和 伊朗 的 1450 万人 。 </seg>
+<seg id="1897"> 截止 到 3 月 10 日 ， 全世界 五分之一 的 学生 “ 因 <term id="440" type="src_original_and_tgt_original" src="COVID-19 crisis" tgt="COVID - 19 危机"> COVID - 19 危机 </term> 而 离开 学校 ” ， 同时 四分之一 的 高校 生 被 禁止 入校 。 </seg>
+<seg id="1898"> 3 月 13 日 ， 49 个 国家 / 地区 的 政府 宣布 或 实施 了 关闭 学校 措施 ， 其中 39 个 国家 / 地区 在 全国 范围 内 关闭 学校 ， 22 个 国家 / 地区 实施 了 地方性 的 学校 关闭 措施 。 </seg>
+<seg id="1899"> 截止 到 3 月 16 日 ， 据 联合国教科文组织 报道 ， 这一 数字 从 49 个 国家 / 地区 增加 到 了 73 个 。 </seg>
+<seg id="1900"> 截止 到 3 月 19 日 ， 全球 50% 的 学生 受到 学校 关闭 举措 的 影响 ， 102 个 国家 / 地区 在 全国 范围 内 关闭 学校 ， 11 个 国家 / 地区 在 地方 范围 内 关闭 学校 ， 影响 了 8.5 亿 儿童 和 青年 。 </seg>
+<seg id="1901"> 截止 到 3 月 20 日 ， 全球 超过 70% 的 学生 受到 学校 关闭 举措 的 影响 ， 124 个 国家 / 地区 在 全国 范围 内 关闭 学校 。 </seg>
+<seg id="1902"> 3 月 23 日 ， 尼日利亚政府 关闭 了 所有 尼日利亚 学校 ， 市场 和 公司 也 被 关闭 ， 家长 禁止 儿童 踏出 家门 。 </seg>
+<seg id="1903"> 3 月 26 日 ， 新西兰 全国 的 所有 中小学校 和 大学 都 已 关闭 。 </seg>
+<seg id="1904"> 政府 强制 放假 两周 ， 允许 学校 尽快 将 教学 形式 转为 远程教学 。 </seg>
+<seg id="1905"> 大学 关闭 了 一周 ， 但 之后 又 通过 在线 教学 的 方式 复课 。 </seg>
+<seg id="1906"> 学校 的 其他 服务 仍然 开放 ， 但 授课 方式 仅限于 远程 学习 。 </seg>
+<seg id="1907"> 截止 到 3 月 27 日 ， 全球 近 90% 的 学生 都 已 离开 学校 。 </seg>
+<seg id="1908"> 仍然 开放 学校 的 地区 包括 台湾 、 新加坡 、 澳大利亚 、 瑞典 和 美国 的 一些 州 。 </seg>
+<seg id="1909"> 截止 到 3 月 29 日 ， 超过 15 亿 儿童 和 其他 学生 受到 全国性 关闭 学校 的 影响 。 </seg>
+<seg id="1910"> 其他人 则 受到 地方性 关闭 学校 的 影响 。 </seg>
+<seg id="1911"> 截止 到 4 月 6 日 ， 土库曼斯坦 所有 的 中学 都 延长 了 假期 。 </seg>
+<seg id="1912"> 教育部 签署 了 一项 命令 作为 预防措施 ， 旨在 防止 与 <term id="23" type="src_original_and_tgt_original" src="WHO" tgt="WHO"> WHO </term> 宣布 的 <term id="70" type="src_original_and_tgt_original" src="Coronavirus pandemic" tgt="冠状病毒 大 流行|冠状病毒 疫情|冠状病毒 流行病"> 冠状病毒 疫情 </term> 有关 的 <term id="330" type="src_original_and_tgt_original" src="respiratory" tgt="呼吸道|呼吸系统|呼吸"> 呼吸道 </term> 疾病 的 <term id="20" type="src_original_and_tgt_original" src="spread" tgt="扩散|传播|扩散 蔓延"> 扩散 </term> 。 </seg>
+<seg id="1913"> 在 10 个 实施 地方性 关闭 学校 举措 的 国家 / 地区 中 ， 联合国教科文组织 估计 有 473 , 933 , 356 名 学生 可能 面临 风险 （ 学前 到 高中 教育 ） ， 高等教育 中有 77 , 938 , 904 名 学生 可能 面临 风险 。 </seg>
+<seg id="1914"> 注意 ： 这些 数字 与 接受 学前 、 小学 、 初中 和 高中 教育 [ ISCED 0 - 3 级 ] 以及 接受 高等教育 [ ISCED 5 - 8 级 ] 的 学生 总数 相对 应 ， 如果 地方性 关闭 学校 举措 变为 全国性 关闭 学校 ， 则 接受 高等教育 的 学生 就 会 受到 影响 。 </seg>
+<seg id="1915"> 入学 人数 基于 最新 的 联合国教科文组织 统计 研究所 数据 。 </seg>
+<seg id="1916"> 为 应对 COVID - 19 <term id="261" type="src_original_and_tgt_original" src="pandemic" tgt="大 流行|疫情|大 流行病|大规模 流行|全球 大 流行|流行病"> 疫情 </term> 而 关闭 学校 反映 出 许多 影响 教育 机会 的 问题 ， 以及 更为 广泛 的 社会 经济 问题 。 </seg>
+<seg id="1917"> 截止 到 3 月 12 日 ， 为 减缓 COVID - 19 的 <term id="20" type="src_original_and_tgt_original" src="spread" tgt="扩散|传播|扩散 蔓延"> 扩散 </term> ， 政府 要求 在 全国 范围 内 暂时 或 无限期 关闭 学校 ， 导致 超过 3.7 亿名 儿童 和 青年 无法 入校 学习 。 </seg>
+<seg id="1918"> 截止 到 3 月 29 日 ， 全球 近 90% 的 学生 受到 关闭 学校 举措 的 影响 。 即使 是 暂时 关闭 学校 ， 也 会 产生 很 高 的 社会 和 经济 成本 。 </seg>
+<seg id="1919"> 它们 造成 的 中断 对 各个 社区 的 人群 造成 了 影响 ， 但 对 弱势 儿童 及其 家庭 的 影响 尤为 严重 ， 其中 包括 学习 中断 、 营养不良 、 儿童 保育 问题 以及 由此 给 无法 工作 的 家庭 带来 的 经济损失 。 </seg>
+<seg id="1920"> 学校 关闭 后 ， 上班族 家长 很 可能 为了 照顾 子女 而 耽误 工作 ， 在 许多 情况 下会 遭受 工资 损失 ， 生产 效率 也 因此 受到 负面影响 。 </seg>
+<seg id="1921"> 地方性 关闭 学校 的 举措 也 会 给 其他 学校 带来 负担 ， 因为 家长 和 官员 会 将 孩子 们 重新 转入 还 在 开放 的 学校 。 </seg>
+<seg id="1922"> 女性 通常 在 医护人员 中 占据 很大 的 比例 ， 学校 关闭 后 ， 她们 不得不 承担 起 看护 子女 的 责任 ， 所以 往往 无法 继续 工作 。 </seg>
+<seg id="1923"> 这 意味着 ， 在 <term id="481" type="src_original_and_tgt_original" src="health crisis" tgt="健康 危机"> 健康 危机 </term> 时期 ， 许多 医疗 专业 人员 都 无法 坚守 在 最 需要 他们 的 地方 。 </seg>
+<seg id="1924"> 对于 生活 在 农村 地区 和 来自 贫困家庭 的 学生 来说 ， 由于 缺少 技术支持 或 快速 、 可靠 的 互联网 访问 ， 使得 他们 无法 接受 远程教育 。 </seg>
+<seg id="1925"> 缺少 技术支持 和 稳定 的 互联网 连接 成为 继续 学习 的 阻碍 ， 对 来自 贫困家庭 的 学生 来说 尤为 如此 。 </seg>
+<seg id="1926"> 针对 因 COVID - 19 而 导致 的 学校 关闭 ， 联合国教科文组织 建议 开展 远程 学习 课程 ， 并 开放 教育 应用程序 和 平台 ， 让 学校 和 老师 为 学生 远程 授课 ， 以 减少 学业 中断 。 为了 帮助 减缓 COVID - 19 的 <term id="17" type="src_original_and_tgt_original" src="transmission" tgt="传播|传|传染"> 传染 </term> ， 数百家 图书馆 已 暂时 关闭 。 </seg>
+<seg id="1927"> 在 美国 ， 许多 主要 城市 都 已 宣布 关闭 公共 图书馆 ， 其中 包括 洛杉矶 、 旧金山 、 西雅图 和 纽约市 ， 受此 影响 的 图书馆 已有 221 家 。 </seg>
+<seg id="1928"> 对于 家里 没有 互联网 的 学生 来说 ， 这 增加 了 他们 跟上 远程 学习 进度 的 难度 。 </seg>
+<seg id="1929"> 学校 的 关闭 也 给 家长 和 监护人 增加 了 负担 ， 孩子 不 在校 期间 ， 他们 需要 看护 孩子 和 监督 远程 学习 。 </seg>
+<seg id="1930"> 由于 缺乏 其他 出路 ， 上班族 父母 只能 在 停课 期间 将 孩子 独自 留在 家中 ， 这 可能 会 导致 危险 行为 ， 并 更 多 地被 同龄人 影响 和 滥用 药物 。 </seg>
+<seg id="1931"> 全球 许多 儿童 都 依赖 学校 提供 的 免费 或 有 补贴 的 餐食 。 </seg>
+<seg id="1932"> 学校 关闭 后 ， 孩子 们 无法 摄取 足够 的 营养 。 而 充足 的 营养 对 孩子 的 认知 能力 发展 和 学习 表现 起着 至关重要 的 作用 。 在 华盛顿州 ， 110 万 学生 就读于 传统 公立学校 和 特许 学校 ， 大约 45% 的 学生 有 资格 享受 学校 伙食 补贴 。 </seg>
+<seg id="1933"> 学校 关闭 后 ， 至少 有 52 万名 学生 及其 家庭 可能 受到 食品安全 问题 的 影响 。 在 美国 ， 学校 午餐 计划 是 仅次于 食品 券 计划 的 第二 大反 饥饿 倡议 。 </seg>
+<seg id="1934"> 每年 ， 近 3000 万 儿童 依赖于 学校 提供 的 免费 伙食 或 成本 低廉 的 伙食 ， 包括 早餐 、 午餐 、 零食 ， 甚至 晚餐 。 在 阿拉巴马州 ， 截止 到 3 月 18 日 ， 全州 范围 的 学校 关闭 举措 已 对 超过 72 万 学生 造成 影响 ， 该州 的 教育厅长 宣布 ， 对 因 贫困 而 受到 更大 影响 的 学校 ， 该校 工作人员 将 建立 伙食 分配 网络 ， 为 依靠 学校 伙食 的 学生 提供 食物 。 </seg>
+<seg id="1935"> 学校 关闭 举措 对 学生 的 学习效果 产生 了 负面影响 。 </seg>
+<seg id="1936"> 学校 教育 提供 了 必要 的 学习 机会 ， 学校 关闭 后 ， 儿童 和 青少年 被 剥夺 了 成长 和 发展 的 机会 。 </seg>
+<seg id="1937"> 这种 影响 对 来自 贫困家庭 的 学生 更为严重 ， 因为 他们 接受 校外 教育 的 机会 更 少 。 受到 学校 关闭 的 影响 ， 学生 辍学率 往往 会 增加 ， 因为 在 学校 复课 后 ， 很难 确保 所有 学生 都 能 返回 学校 。 </seg>
+<seg id="1938"> 学校 持久性 关闭 造成 的 影响 更为 明显 。 因为 学校 是 社会活动 和 人际交往 的 中心 。 </seg>
+<seg id="1939"> 学校 关闭 后 ， 许多 儿童 和 青年 都 失去 了 社交 的 机会 ， 这些 机会 对于 他们 的 学习 和 发展 都 至关重要 。 学校 关闭 后 ， 家长 往往 需要 督促 子女 在 家中 学习 ， 而 这项 任务 十分艰巨 ， 家长 对此 苦不堪言 。 </seg>
+<seg id="1940"> 对受 教育 程度 较 低且 资源 有限 的 家长 尤为 如此 。 </seg>
+<seg id="1941"> 目前 ， 联邦 立法 尚未 关注 学校 关闭 和 依赖 远程 学习 所 产生 的 潜在 影响 。 </seg>
+<seg id="1942"> 与 非正式 教育 或 非正规 教育 相反 ， 正规 教育 通常 是 指 学校 、 学院 、 大学 和 培训 机构 。 </seg>
+<seg id="1943"> 世界银行 在 1974 年 发布 的 报告 对 正规 教育 的 定义 如下 ： 正规 教育 ： 从 小学 到 大学 期间 具备 结构 分层 并 逐渐 升级 的 “ 教育 系统 ” ， 除 普遍 学术 学习 外 ， 还 包括 针对 全日制 技术 和 职业培训 提供 的 各种 专业课程 和 机构 。 针对 受到 COVID - 19 影响 的 学生 和 学习者 人数 ， 所 收集 到 的 大部分 相关 数据 都 基于 已 关闭 的 正规 教育 系统 。 </seg>
+<seg id="1944"> 联合国教科文组织 统计 研究所 提供 了 受 COVID - 19 影响 的 学生 数据 ， 该 数据 与 接受 学前 、 小学 、 初中 和 高中 教育 [ ISCED 0 - 3 级 ] 以及 接受 高等教育 [ ISCED 5 - 8 级 ] 的 学生 人数 相对 应 。 </seg>
+<seg id="1945"> 幼儿教育 课程 通常 是 为 3 岁 以下 的 儿童 设计 的 ， 可指 幼托 机构 、 托儿所 、 幼儿园 和 一些 日托 课程 。 </seg>
+<seg id="1946"> 受 COVID - 19 影响 ， 尽管 全世界 有 许多 中小学校 相继 关闭 ， 但 针对 幼儿教育 课程 所 采取 的 措施 各不相同 。 </seg>
+<seg id="1947"> 在 一些 国家 和 地区 ， 幼托 机构 和 日托 机构 被 视为 不可或缺 的 服务 ， 所以 并未 随着 各个 学校 普遍 停课 而 关闭 。 在 美国 ， 华盛顿州 儿童 、 青年 和 家庭 部门 鼓励 继续 开放 儿童 托管 机构 和 早教 中心 。 </seg>
+<seg id="1948"> 一些 学区 可能 会 提供 其他 儿童 托管 方式 ， 并 优先 接收 急救 人员 和 医护人员 的 子女 。 </seg>
+<seg id="1949"> 马里兰州 州长 规定 ， 特定 的 儿童 托管 服务 仍 向 急救 人员 的 子女 开放 ， 而 华盛顿州 和 加利福尼亚州 则 将 决定权 交给 托管 机构 负责人 。 </seg>
+<seg id="1950"> 加利福尼亚州 州长 Gavin Newsom 解释 了 其 所在 州 的 立场 ， 他 说 ： “ 我们 需要 继续 开放 儿童 托管 机构 和 日托 中心 ， 以 降低 学校 关闭 所 造成 的 影响 。 ” </seg>
+<seg id="1951"> 科罗拉多州 鼓励 为 家长 开发 “ 工具包 ” ， 让 家长 能够 在家 模拟 子女 在 早期 学习 课程 中要 学习 的 课程 。 在 日本 ， 首相 安倍晋三 关闭 了 全国 所有 的 学校 ， 这一 措施 一直 持续 到 4 月 8 日 ， 但 儿童 日托 机构 依然 正常 开放 。 </seg>
+<seg id="1952"> 3 月初 ， 神户 一家 学龄前 儿童 护理 机构 的 5 名 成年人 被 检测 出 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 阳性 。 </seg>
+<seg id="1953"> 对 该 机构 100 多名 儿童 进行 检测 后 ， 发现 一名 学龄前 儿童 携带 该 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 。 </seg>
+<seg id="1954"> 小学 教育 通常 包含 前 4 年 至 7 年 的 正规 教育 。 </seg>
+<seg id="1955"> 国际 文凭 组织 ( IBO ) 取消 了 原定 于 2020 年 4 月 30 日至 2020 年 5 月 22 日 举行 的 文凭 课程 和 与 职业 相关 的 课程 考试 ， 据 报道 ， 这一 举措 已 影响 到 全球 20 多万名 考生 。 </seg>
+<seg id="1956"> IBO 表示 ， 它 将 根据 “ 考生 的 课程 作业 ” 和 “ 已 完成 的 评估 的 测验 结果 、 严格 标准 和 已 纳入 课程 的 质量 控制 ” 向 考生 授予 文凭 或 证书 。 </seg>
+<seg id="1957"> 高等教育 是 指 在 完成 初中 或 高中 学业 后 接受 的 非 义务教育 阶段 的 教育 。 </seg>
+<seg id="1958"> 高等教育 通常 包括 本科 和 研究生 教育 ， 职业 教育 和 培训 也 包括 在内 。 </seg>
+<seg id="1959"> 完成 高等教育 的 个人 通常 会 获得 证书 、 文凭 或 学位 。 </seg>
+<seg id="1960"> 本科 教育 是 在 中学 教育 完成 后 、 研究生 教育 开始 前 接受 的 教育 ， 完成 本科 教育 的 学生 通常 会 获得 学士学位 。 </seg>
+<seg id="1961"> 在 美国 等 一些 国家 / 地区 ， 在 学院 、 大学 和 社区 学院 学习 高等教育 课程 的 学生 通常 被 称为 “ 大学生 ” 。 关闭 学院 和 大学 对 学生 、 教员 、 管理人员 和 学校 本身 都 造成 了 广泛 影响 。 </seg>
+<seg id="1962"> 民众 呼吁 美国 各地 的 学院 和 大学 退还 学生 的 学费 和 食宿费 。 </seg>
+<seg id="1963"> 在 美国 ， 学院 和 大学 是 作为 “ 迷你 城市 ” 运作 的 ， 可为 各 城市 、 各州 和 各 地区 带来 可观 的 收入 。 </seg>
+<seg id="1964"> 例如 ， 普林斯顿大学 为 新泽西州 的 经济 贡献 了 15.8 亿美元 ， 学生 在 校外 约 消费 6000 万美元 。 </seg>
+<seg id="1965"> 关闭 大学 和 学院 对 经济 造成 了 连锁 效应 ， 影响 深远 。 哈佛 肯尼迪 学院 的 Linda Bilmes 表示 ， “ 在 本地 酒店 、 餐厅 、 咖啡馆 、 商店 、 汽车 租赁 机构 和 其他 本地 企业 的 年收入 中 ， 毕业 周 和 大学 聚会 举办 期间 获得 的 收入 占 了 相当 大 的 比例 ... </seg>
+<seg id="1966"> 到 那时 ， 如果 高校 继续 关闭 ， 这些 社区 将 遭受 巨大 的 经济损失 。 ” 对于 依靠 大学生 来 带动 当地 经济 并 向 本地 企业 提供 劳动力 的 小城镇 ， 学校 的 关闭 和 大批 学生 的 离校 会 给 它们 带来 巨大 影响 。 </seg>
+<seg id="1967"> 在 纽约 伊萨卡 ， 康奈尔大学 的 学生 每周 在 汤 普金斯 县 至少 消费 400 万美元 。 </seg>
+<seg id="1968"> 在 康奈尔大学 决定 让 学生 在 春假 过后 继续 呆 在 家中 ， 并 改为 进行 虚拟 教学 后 ， 伊萨卡 市长 呼吁 “ 立即 采取 强有力 的 联邦 行动 — — 关闭 康奈尔大学 会 给 我们 的 经济 带来 难以 估量 的 影响 。 ” </seg>
+<seg id="1969"> 联合国教科文组织 在此期间 分享 了 10 项 建议 ： </seg>
+<seg id="1970"> 检查 准备 情况 并 选择 最 相关 的 工具 ： 根据 本地 电力供应 的 可靠性 、 互联网 连接 状况 以及 师生 的 数字化 技能 ， 决定 使用 技术 要求 较 高 或 技术 要求 较 低 的 解决方案 。 </seg>
+<seg id="1971"> 这 包括 集成 的 数字 学习 平台 、 视频 课程 、 MOOC ， 或 通过 无线电 和 电视 进行 广播 。 </seg>
+<seg id="1972"> 确保 包含 远程 学习 课程 ： 采取相应 措施 ， 确保 让 包括 残障 人士 或 来自 低收入 家庭 的 人士 在内 的 所有 学生 都 能 接受 远程 学习 课程 ， 最好 为 有限 的 一部分 人 提供 数字 设备 。 </seg>
+<seg id="1973"> 考虑 暂时 将 这些 设备 从 计算机 实验室 取出 ， 并 分配 到 各个 家庭 中 ， 帮助 他们 建立 网络连接 。 </seg>
+<seg id="1974"> 保护 数据 隐私 和 数据安全 ： 将 数据 或 教育资源 上 传到 网络空间 ， 以及 将 其 与 其他 组织 或 个人 分享 时 ， 对 数据 安全性 进行 评估 。 </seg>
+<seg id="1975"> 在 使用 应用程序 和 平台 时 ， 确保 不会 侵犯 学生 的 数据 隐私 。 </seg>
+<seg id="1976"> 将 心理 问题 解决方案 的 优先级 排 在 教学 方案 之上 ： 调动 可用 的 工具 ， 将 学校 、 家长 、 教师 和 学生 相互 联系 起来 。 </seg>
+<seg id="1977"> 创建 社区 ， 以 确保 正常 的 人际交往 、 启用 社会 关怀 措施 ， 并 解决 学生 在 隔离 时 可能 面临 的 心理 问题 。 </seg>
+<seg id="1978"> 制定 远程 学习 课程 的 学习 时间表 ： 与 利益 相关者 进行 讨论 ， 以 调查 学校 关闭 的 持续时间 ， 并 决定 远程 学习 课程 是 应 侧重于 教授 新 知识 ， 还是 巩固 学生 在 以前 课程 中学 到 的 知识 。 </seg>
+<seg id="1979"> 根据 受 影响 地区 的 情况 、 学生 学习 水平 、 学生 需求 和 家长 空闲 情况 ， 制定 时间表 。 </seg>
+<seg id="1980"> 根据 学校 关闭 和 居家 <term id="14" type="src_lemma_and_tgt_original" src="quarantine" tgt="隔离|检疫"> 隔离 </term> 的 状况 ， 选择 适当 的 学习 方法 。 </seg>
+<seg id="1981"> 避免 选择 需要 进行 面对面 交流 的 学习 方法 。 </seg>
+<seg id="1982"> 为 教师 和 家长 提供 有关 使用 数字化 工具 的 支持 ： 如需 进行 监督 和 激励 ， 则 为 他们 安排 简短 的 培训 或 指导 会议 。 </seg>
+<seg id="1983"> 帮助 教师 准备 基本 设置 ， 例如 ， 如果 要求 教师 进行 课程 直播 ， 则 帮助 他们 准备 解决方案 以 使用 互联网 数据 。 </seg>
+<seg id="1984"> 结合 使用 多种 适当 的 方法 ， 并 限制 应用程序 和 平台 的 使用 数量 ： 结合 使用 对 大多数 学生 可用 的 工具 或 媒体 ， 用于 同步 通信 、 课程 学习 和 异步 学习 。 </seg>
+<seg id="1985"> 避免 增加 学生 和 家长 的 负担 ， 例如 ， 要求 他们 下载 和 测试 过多 的 应用程序 或 平台 。 </seg>
+<seg id="1986"> 制定 远程 学习 规则 并 监督 学生 的 学习 进度 ： 与 家长 和 学生 一起 制定 远程 学习 规则 。 </seg>
+<seg id="1987"> 设计 格式化 的 问题 、 测试 或 练习 ， 以 密切 监督 学生 的 学习 进度 。 </seg>
+<seg id="1988"> 尝试 利用 工具 来 支持 学生 提交 作业 ， 避免 给 家长 带来 过重 负担 ， 例如 ， 要求 他们 扫描 和 发送 学生 作业 </seg>
+<seg id="1989"> 根据 学生 的 自我管理 能力 ， 制定 远程 学习 单元 的 持续时间 ： 根据 学生 的 自我管理 能力 和 元认知 能力 ， 保持 连贯 的 时间 安排 ， 这 一点 在 直播 课程 中 尤为重要 。 </seg>
+<seg id="1990"> 小学生 的 学习 单元 最好 不要 超过 20 分钟 ， 中学生 的 学习 单元 最好 不要 超过 40 分钟 。 </seg>
+<seg id="1991"> 创建 社区 并 加强 联系 ： 创建 由 教师 、 家长 和 学校 管理者 组成 的 社区 ， 以 应对 孤独感 或 无助 感 ， 鼓励 大家 就 面对 学习困境 时 的 应对 策略 分享 经验 并 开展 讨论 。 </seg>
+<seg id="1992"> 2.9 亿 学生 因 COVID - 19 而 离开 学校 ： 联合国教科文组织 公布 了 第一批 全球 数字 并 呼吁 作出 回应 ， 联合国教科文组织 。 </seg>
+</p>
+</doc>
+<doc sysid="ref" docid="Wikisource_1" genre="terminology" origlang="en">
+<p>
+<seg id="2046"> 鉴于 COVID - 19 带来 的 威胁 ， 本人 曾于 2020 年 3 月 4 日 宣布 加利福尼亚 进入 紧急状态 ； </seg>
+<seg id="2047"> 鉴于 短期内 COVID - 19 在 整个 加利福尼亚 的 快速 <term id="20" type="src_original_and_tgt_original" src="spread" tgt="扩散|传播|扩散 蔓延"> 扩散 </term> ， 联邦 、 州 以及 当地 公共 卫生部门 官员 需要 提供 更新 且 更 严格 的 指导 ； </seg>
+<seg id="2048"> 另外 ， 为 保护 整个 加利福尼亚州 的 公共 健康 和 安全 ， 我 认为 全体 加利福尼亚 居民 需 遵从 公共 卫生部 发布 的 州级 公共卫生 指令 。 </seg>
+<seg id="2049"> 为此 ， 本人 ， 系 加利福尼亚州 州长 Gavin NEWSOM ， 依据 州 宪法 、 加利福尼亚州 法规 ， 特别 是 政府 法规 第 8567 、 8627 和 8665 条 赋予 我 的 权力 ， 特此 颁布 以下 命令 ， 即刻 生效 ： </seg>
+<seg id="2050"> 特此 命令 ： </seg>
+<seg id="2051"> 1 ) 为 保护 公众 健康 和 安全 ， 确保 卫生保健 实施 系统 能够 服务 大众 并 优先 治疗 危重 体弱 病人 ， 所有 居民 应 即刻 遵从 当前 的 州级 公共卫生 指令 ， 这 是 我 命令 公共 卫生部 针对 目前 全州 COVID - 19 的 状况 制定 的 。 </seg>
+<seg id="2052"> 这些 指令 与 2020 年 3 月 19 日 发表 的 《 关于 在 应对 COVID - 19 疫情 期间 识别 关键 基础设施 工作人员 的 备忘录 》 （ 请参阅 ： https : / / covid19 . CA . GOV / ） 一致 。 </seg>
+<seg id="2053"> 州 公共卫生 官员 下达 的 命令 </seg>
+<seg id="2054"> 为 保护 公众 健康 ， 作为 州 公共卫生 官员 兼 加利福尼亚州 公共 卫生部 主任 ， 我 在 此 下令 ， 除 需要 满足 联邦 关键 基础设施 部门 持续 运作 的 人 （ 如 https : / / www . cisa . GOV / critical - infrastructure - sectors 所述 ） 之外 ， 所有 居住 在 加利福尼亚州 的 人 都 应 留在 家中 或 居住 场所 。 </seg>
+<seg id="2055"> 此外 ， 经 与 州长 紧急 服务 办公室 主任 协商 ， 为 保护 所有 加利福尼亚 居民 的 健康 和 福祉 ， 我 可以 指派 其他 部门 作为 关键 部门 。 </seg>
+<seg id="2056"> 根据 《 卫生 与 安全 守则 》 120125 、 120140 、 131080 、 120130 ( c ) 、 120135 、 120145 、 120175 和 120150 的 授权 ， 此 命令 即刻 生效 并 持续 有效 ， 直至 另行通知 。 </seg>
+<seg id="2057"> 联邦政府 确定 了 16 个 关键 基础设施 部门 ， 这些 部门 的 资产 、 体系 和 网络 ， 无论是 实体 的 还是 虚拟 的 ， 都 被 认为 对 美国 至关重要 ， 若 其 陷入 瘫痪 或 遭到 破坏 ， 将 对 安全 、 经济 安全 、 公众 健康 或 安全 领域 （ 或 同时 对 其中 多个 领域 ） 带来 负面影响 。 </seg>
+<seg id="2058"> 我 命令 ， 在 这 16 个 关键 基础设施 部门 工作 的 加利福尼亚 居民 可以 继续 工作 ， 因为 这些 部门 对于 实现 加利福尼亚 居民 的 健康 和 福祉 具有 重要 意义 。 </seg>
+<seg id="2059"> 发布 本 命令 是 为了 保护 加利福尼亚 居民 的 公众 健康 。 </seg>
+<seg id="2060"> 加利福尼亚州 公共 卫生部 希望 在 全州 实现 协调一致 ， 确保 我们 可以 缓解 COVID - 19 的 影响 。 </seg>
+<seg id="2061"> 我们 的 目标 很 简单 ， 即要 让 疫情 曲线 变 平缓 ， 阻止 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 的 <term id="20" type="src_original_and_tgt_original" src="spread" tgt="扩散|传播|扩散 蔓延"> 扩散 </term> 。 </seg>
+<seg id="2062"> 必须 保证 供应链 的 持续 运作 ， 保证 加利福尼亚 居民 可以 获得 食物 、 处方药 和 卫生保健 服务 等 必需品 。 </seg>
+<seg id="2063"> 当 人们 需要 离开 家 或 居住 场所 时 ， 无论是 为了 获得 或 执行 以上 活动 ， 还是 为了 通过 其他 方式 完成 经 授权 的 必要 活动 ， 都 应该 始终保持 <term id="291" type="src_original_and_tgt_original" src="social distancing" tgt="社交 隔离|社交 距离"> 社交 距离 </term> 。 </seg>
+<seg id="2064"> 2 ) 卫生保健 实施 系统 应 优先 治疗 病情 最 严重 的 患者 ， 并 优先 向 直接 为 这些 患者 提供 护理 的 医护人员 提供 资源 ， 包括 <term id="350" type="src_original_and_tgt_original" src="personal protective equipment" tgt="个人 防护 设备|个人 防护 装备"> 个人 防护 设备 </term> 。 </seg>
+<seg id="2065"> 3 ) 紧急 服务 办公室 有权 采取 必要措施 ， 确保 对本 命令 的 遵从 。 </seg>
+<seg id="2066"> 4 ) 本 命令 应 根据 加利福尼亚 法律 强制执行 ， 包括 但 不 限于 政府 法规 第 8665 条 。 </seg>
+<seg id="2067"> 此外 ， 我 命令 ， 尽快 将 本 命令 在 州务卿 办公室 备案 ， 并 进行 广泛 宣传 和 公告 。 </seg>
+<seg id="2068"> 本 命令 无意 也 不会 针对 加利福尼亚州 、 其 各 机构 、 部门 、 实体 、 官员 、 雇员 或 任何 其他人 创设 任何 实质性 或 程序性 、 可依 普通法 或 衡平法 强制执行 的 任何 权利 或 权益 。 </seg>
+<seg id="2069"> 为 昭 信守 ， 我谨于 2020 年 3 月 19 日 签署 本 命令 并 加盖 加利福尼亚州 大印 。 </seg>
+</p>
+</doc>
+<doc sysid="ref" docid="Wikivoyage_1" genre="terminology" origlang="en">
+<p>
+<seg id="2168"> COVID - 19 （ 2019 <term id="57" type="src_original_and_tgt_original" src="Coronavirus disease" tgt="冠状病毒 病|冠状病毒 疾病|新型 冠状病毒 疾病"> 冠状病毒 病 </term> ） 由 <term id="287" type="src_original_and_tgt_original" src="SARS-CoV-2" tgt="SARS - CoV - 2|非典型 肺炎 冠状病毒 2 型 （ SARS - CoV - 2 ）"> SARS - CoV - 2 </term> <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 引起 ， 是 一种 <term id="1" type="src_original_and_tgt_original" src="contagious" tgt="可 传染 : 有 传染性|传染性|传染"> 传染性 </term> <term id="331" type="src_original_and_tgt_original" src="respiratory disease" tgt="呼吸道 疾病|呼吸系统 疾病|呼吸 疾病"> 呼吸道 疾病 </term> ， 2019 年 12 月 首先 在 中国 <term id="388" type="src_original_and_tgt_original" src="Hubei" tgt="湖北省|湖北"> 湖北 </term> <term id="376" type="src_original_and_tgt_original" src="Wuhan" tgt="武汉市|武汉"> 武汉 </term> 得到 确认 。 </seg>
+<seg id="2169"> 这是 一种 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> ， 同族 病毒 还有 <term id="351" type="src_original_and_tgt_original" src="SARS" tgt="SARS|SAR|非典|非典型 肺炎 （ SARS ）"> SARS </term> 、 MERS 和 一些 <term id="369" type="src_original_and_tgt_original" src="common cold" tgt="普通 的 感冒|普通 感冒"> 普通 感冒 </term> 变种 。 </seg>
+<seg id="2170"> 2020 年 3 月 11 日 ， <term id="22" type="src_original_and_tgt_original" src="World Health Organization" tgt="世界卫生组织"> 世界卫生组织 </term> ( WTO ) 宣布 该病 为 <term id="261" type="src_original_and_tgt_original" src="pandemic" tgt="大 流行|疫情|大 流行病|大规模 流行|全球 大 流行|流行病"> 大 流行病 </term> 。 </seg>
+<seg id="2171"> 尽管 关于 COVID - 19 我们 还有 很多 未知 的 地方 ， 但 初步 数据 表明 ， 该 病毒 比 <term id="552" type="src_original_and_tgt_original" src="seasonal flu" tgt="季节性 流感"> 季节性 流感 </term> 的 毒性 和 <term id="1" type="src_original_and_tgt_original" src="contagious" tgt="可 传染 : 有 传染性|传染性|传染"> 传染性 </term> 更强 ， 毒性 弱于 <term id="351" type="src_original_and_tgt_original" src="SARS" tgt="SARS|SAR|非典|非典型 肺炎 （ SARS ）"> SARS </term> 和 MERS 但 <term id="1" type="src_original_and_tgt_original" src="contagious" tgt="可 传染 : 有 传染性|传染性|传染"> 传染性 </term> 更强 。 </seg>
+<seg id="2172"> 老年人 以及 患有 基础性 疾病 的 患者 更 容易 出现 严重 的 并发症 ， 死亡率 也 更 高 。 </seg>
+<seg id="2173"> 因 疾病 还 在 <term id="20" type="src_original_and_tgt_original" src="spread" tgt="扩散|传播|扩散 蔓延"> 传播 </term> ， 所以 建议 你 除非 必要 不要 出行 ， 以 避免 被 <term id="230" type="src_original_and_tgt_original" src="infected" tgt="已 感染|感染|被 感染|受到感染 的|受 感染"> 感染 </term> 、 被 <term id="14" type="src_lemma_and_tgt_original" src="quarantine" tgt="隔离|检疫"> 隔离 </term> ， 或 因 <term id="547" type="src_original_and_tgt_original" src="restrictions" tgt="限制"> 限制 </term> 调整 或 航班 取消 而 滞留 。 </seg>
+<seg id="2174"> 尽可能 避免 去 人 多 的 地方 。 </seg>
+<seg id="2175"> 这 不仅 是 为了 保护 你 ， 也 是 为了 保护 接触 你 的 人 。 </seg>
+<seg id="2176"> 事实上 你 可能 也 无处可去 ， 为了 避免 病毒 <term id="20" type="src_lemma_and_tgt_original" src="spread" tgt="扩散|传播|扩散 蔓延"> 扩散 </term> ， 全球 很多 景点 都 已 关闭 。 </seg>
+<seg id="2177"> 如果 确实 需要 出行 ， 请 像 对待 其他 <term id="345" type="src_lemma_and_tgt_original" src="infection" tgt="传染病|感染"> 传染病 </term> 一样 采取 <term id="269" type="src_original_and_tgt_original" src="precautions" tgt="预防措施|预防 传播 的 措施"> 预防措施 </term> ： 勤洗手 、 避免 触摸 脸部 、 <term id="436" type="src_original_and_tgt_original" src="cough" tgt="咳嗽"> 咳嗽 </term> 和 <term id="395" type="src_original_and_tgt_original" src="sneeze" tgt="喷嚏|打喷嚏"> 打喷嚏 </term> 时用 肘部 或 纸巾 捂住 口 鼻 以及 避免 <term id="359" type="src_original_and_tgt_original" src="touching" tgt="接触|摸|触摸"> 接触 </term> 患者 。 </seg>
+<seg id="2178"> 出行 前 ， 建议 先 了解 一下 全球 各地 广泛 施行 且 频繁 变更 的 <term id="305" type="src_original_and_tgt_original" src="travel restrictions" tgt="旅行 限制|出行 限制|限制 入境 旅行"> 出行 限制 </term> 。 </seg>
+<seg id="2179"> 出行 回来 后 ， 要 注意 监测 自己 的 健康状况 ， 并 考虑 自我 隔离 两周 ， 以 避免 将 疾病 传染给 他人 。 </seg>
+<seg id="2180"> 在 很多 国家 ， 受 需求 低 或 政府 指令 的 影响 ， 从 长途 客运 航班 到 当地 公共汽车 的 公交 运输 已 被 削减 或 完全 停运 。 </seg>
+<seg id="2181"> 很多 国际 和 区域 边境 被 关闭 。 </seg>
+<seg id="2182"> 如果 你 已经 离家 ， 尤其 是 到 了 其他 国家 ， 请 考虑 尽快 回家 ； 随着 <term id="547" type="src_original_and_tgt_original" src="restrictions" tgt="限制"> 限制 </term> 措施 不断 变化 ， 后面 再 回家 将 越来越 困难 。 </seg>
+<seg id="2183"> 某些 情况 下 甚至 完全 无法 回家 ， 即使 是 身体健康 且 符合 入境 法律 要求 的 情况 下 。 </seg>
+<seg id="2184"> 如果 你 回国 无门 ， 请 向 最近 的 大使馆 或 领事馆 寻求 帮助 。 </seg>
+<seg id="2185"> 他们 也许 会 组织 撤离 ， 确定 不定期 航班 ， 或者 为 你 提供 紧急 贷款 以 支付 交通 费用 。 </seg>
+<seg id="2186"> 如果 他们 也 没有 办法 帮 你 回国 ， 请 做好 长期 停留 在 现居 地 的 准备 。 </seg>
+<seg id="2187"> 如果 你 找到 了 回家 的 办法 ， 也 请 做好 准备 ， 回家 成本 可能 很 高 ， 可能 非常 不便 ， 还 可能 受到 不同寻常 的 <term id="547" type="src_original_and_tgt_original" src="restrictions" tgt="限制"> 限制 </term> （ 比如 无法 托运 行李 ） 。 </seg>
+<seg id="2188"> 截至 2020 年 4 月初 ， COVID - 19 <term id="3" type="src_original_and_tgt_original" src="confirmed cases" tgt="确诊 病例|确诊 的 COVID-19 感染 病例|确诊 COVID-19 病例|确诊 的 16 例 病例"> 确诊 病例 </term> 已 接近 100 万 。 </seg>
+<seg id="2189"> 尽管 该病 起源于 中国 大陆 ， 但 已 <term id="20" type="src_original_and_tgt_original" src="spread" tgt="扩散|传播|扩散 蔓延"> 扩散 </term> 到 世界各地 ， 中国 <term id="3" type="src_original_and_tgt_original" src="confirmed cases" tgt="确诊 病例|确诊 的 COVID-19 感染 病例|确诊 COVID-19 病例|确诊 的 16 例 病例"> 确诊 病例 </term> 和 <term id="18" type="src_original_and_tgt_original" src="deaths" tgt="死亡 人数|例 死亡|死亡 病例|死亡|例 确诊 死亡|人 死亡|死亡 17 例|死亡 约 9.7 万人|死亡数|死亡 15 , 887 例|病例 死亡"> 死亡 病例 </term> 反而 少于 几个 国家 。 </seg>
+<seg id="2190"> 欧洲 已 成为 此次 <term id="261" type="src_original_and_tgt_original" src="pandemic" tgt="大 流行|疫情|大 流行病|大规模 流行|全球 大 流行|流行病"> 疫情 </term> 的 新 中心 。 </seg>
+<seg id="2191"> 除少数 国家 外 ， 全球 大部分 国家 均 报告 出现 确诊 病例 ， 其中 报告 病例 最多 的 国家 有 美国 、 西班牙 、 意大利 、 德国 、 法国 、 中国 大陆 、 伊朗 和 英国 。 </seg>
+<seg id="2192"> 除 一些 太平洋 岛 国外 ， 许多 国家 在 所有 主要 人居 地区 均 确认 区域 <term id="17" type="src_original_and_tgt_original" src="transmission" tgt="传播|传|传染"> 传播 </term> 现象 。 </seg>
+<seg id="2193"> （ 详见 <term id="23" type="src_original_and_tgt_original" src="WHO" tgt="WHO"> WHO </term> <term id="580" type="src_original_and_tgt_original" src="updates" tgt="更新"> 更新 </term> 内容 。 ） </seg>
+<seg id="2194"> 全部 <term id="20" type="src_original_and_tgt_original" src="spread" tgt="扩散|传播|扩散 蔓延"> 传播 </term> 范围 还 尚未 确定 ， 部分 原因 在于 检测 能力 有限 。 </seg>
+<seg id="2195"> 很多 国家 都 面临 着 检测工具 严重 短缺 的 问题 ， 公共卫生 机构 也 无法 对 所有 高风险 人群 进行 检测 ， 因此 实际 病例 数 可能 远远 高于 官方 数据 。 </seg>
+<seg id="2196"> 各国 采用 的 检测 与 报告 方式 也 有所不同 ， 因此 仅仅 比较 病例 数量 并 不能 说明 <term id="203" type="src_original_and_tgt_original" src="epidemic" tgt="流行性|疫情|流行|流行病"> 疫情 </term> 在 不同 地区 的 传播 程度 。 </seg>
+<seg id="2197"> 该 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 通过 <term id="352" type="src_original_and_tgt_original" src="respiratory droplets" tgt="呼吸道 飞沫|呼吸道 分泌物"> 呼吸道 飞沫 </term> 和 物体 传播 。 </seg>
+<seg id="2198"> 这种 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 相对 较大 ， 因此 并 不会 真正 通过 空气 传播 ， 而是 附着 在 <term id="352" type="src_original_and_tgt_original" src="respiratory droplets" tgt="呼吸道 飞沫|呼吸道 分泌物"> 呼吸道 飞沫 </term> 中 传播 。 </seg>
+<seg id="2199"> 人 与 人 之间 保持 2 米 （ 6 英尺 ） 距离 通常 就 足以 阻断 这 条 <term id="17" type="src_original_and_tgt_original" src="transmission" tgt="传播|传|传染"> 传播 </term> 路径 。 </seg>
+<seg id="2200"> 如果 有人 <term id="354" type="src_original_and_tgt_original" src="sneezes" tgt="打 了 喷嚏|打喷嚏"> 打 了 喷嚏 </term> ， 又 <term id="353" type="src_original_and_tgt_original" src="touch" tgt="摸|摸摸|够|接触|触摸"> 摸 </term> 了 门把手 ， 随后 其他人 也 <term id="353" type="src_original_and_tgt_original" src="touch" tgt="摸|摸摸|够|接触|触摸"> 摸 </term> 了 该 门把手 ， 然后 又 摸 了 自己 的 脸 ， 则 可能 发生 物体 <term id="17" type="src_original_and_tgt_original" src="transmission" tgt="传播|传|传染"> 传播 </term> 。 </seg>
+<seg id="2201"> <term id="287" type="src_original_and_tgt_original" src="SARS-CoV-2" tgt="SARS - CoV - 2|非典型 肺炎 冠状病毒 2 型 （ SARS - CoV - 2 ）"> SARS - CoV - 2 </term> <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 在 纸板 上 最长 可 存活 24 小时 ， 在 塑料 上 最长 可 存活 3 天 。 </seg>
+<seg id="2202"> 除此之外 ， 还 可能 通过 粪口 <term id="17" type="src_original_and_tgt_original" src="transmission" tgt="传播|传|传染"> 传播 </term> 。 </seg>
+<seg id="2203"> 有 证据 表明 COVID - 19 患者 即使 无症状 也 具有 <term id="1" type="src_original_and_tgt_original" src="contagious" tgt="可 传染 : 有 传染性|传染性|传染"> 传染性 </term> ， 其 传染 程度 仍 在 调查 中 。 </seg>
+<seg id="2204"> 常见 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 有 <term id="213" type="src_original_and_tgt_original" src="fever" tgt="发热|热"> 发热 </term> 、 <term id="459" type="src_original_and_tgt_original" src="dry cough" tgt="干咳"> 干咳 </term> 和 乏力 。 </seg>
+<seg id="2205"> 另外 一些 不太 常见 的 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 有 <term id="336" type="src_original_and_tgt_original" src="shortness of breath" tgt="气促|呼吸 短促"> 气促 </term> 、 <term id="355" type="src_original_and_tgt_original" src="sore throat" tgt="喉咙痛|咽喉 肿痛|咽痛|咽喉 痛"> 喉咙痛 </term> 、 头痛 、 肌肉 疼痛 或 咳痰 。 </seg>
+<seg id="2206"> 有些 患者 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 较 轻 ， 类似 感冒 。 </seg>
+<seg id="2207"> 另 一些 患者 则 可能 伴有 严重 的 并发症 ， 包括 <term id="266" type="src_original_and_tgt_original" src="pneumonia" tgt="肺炎"> 肺炎 </term> 、 <term id="32" type="src_original_and_tgt_original" src="acute respiratory distress syndrome" tgt="急性 呼吸 窘迫 综合征"> 急性 呼吸 窘迫 综合征 </term> 和 导致 残疾 或 死亡 的 <term id="400" type="src_original_and_tgt_original" src="multi-organ failure" tgt="多 器官 功能 衰竭|多 器官 衰竭"> 多 器官 衰竭 </term> 。 </seg>
+<seg id="2208"> 大约 80% 的 <term id="345" type="src_lemma_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 较 轻 ， 其余 感染 可能 导致 患者 入院 。 </seg>
+<seg id="2209"> 感染者的病死率 约 为 1-3% ， 其中 大部分 为 存在 基础 健康 问题 的 老年人 。 </seg>
+<seg id="2210"> 70 岁 以上 患者 的 <term id="356" type="src_original_and_tgt_original" src="fatality rate" tgt="死亡率|致死率"> 死亡率 </term> 较 高 ， 但 40 岁 以下 的 死亡率 非常低 。 </seg>
+<seg id="2211"> COVID - 19 <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 和 严重 并发症 风险 最高 的 是 老年人 、 免疫力 低下 者 或 患有 心血管 疾病 、 <term id="452" type="src_original_and_tgt_original" src="diabetes" tgt="糖尿病"> 糖尿病 </term> 、 高血压 、 <term id="357" type="src_original_and_tgt_original" src="chronic respiratory disease" tgt="慢性 呼吸道 疾病|慢性 呼吸系统 疾病"> 慢性 呼吸道 疾病 </term> 和 癌症 等 基础性 疾病 的 人群 。 </seg>
+<seg id="2212"> 儿童 报告 病例 并不多 ， 且 大部分 儿童 病例 症状 为 轻度 或 中度 ， 不过 确实 有 很大 一部分 会 发展 为 <term id="266" type="src_original_and_tgt_original" src="pneumonia" tgt="肺炎"> 肺炎 </term> 。 </seg>
+<seg id="2213"> 从 职业 角度 来看 ， 相比 其他 工作人员 之间 或 医疗 环境 中 出现 疾病 集群 的 人员 ， 医疗 工作者 所 面临 的 风险 更高 。 </seg>
+<seg id="2214"> 从 <term id="211" type="src_original_and_tgt_original" src="exposure" tgt="接触|暴露"> 接触 </term> <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 到 出现 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 一般 间隔 （ <term id="12" type="src_original_and_tgt_original" src="incubation period" tgt="潜伏期"> 潜伏期 </term> ） 2 - 14 天 ， 不过 中国 曾 报告 一例 接触 病毒 后 27 天才 出现 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 的 病例 。 </seg>
+<seg id="2215"> 截至 2020 年 2 月 ， 传染期 尚 不 清楚 ， 但 <term id="335" type="src_original_and_tgt_original" src="symptomatic" tgt="有 症状|出现 症状|症状|有 症状 的"> 出现 症状 </term> 后 的 传染性 很 可能 最强 。 </seg>
+<seg id="2216"> 有 证据 显示 ， 无症状 者 也 会 <term id="17" type="src_original_and_tgt_original" src="transmission" tgt="传播|传|传染"> 传播 </term> 病毒 ， 尽管 其 传播 程度 目前 还 在 调查 当中 。 </seg>
+<seg id="2217"> 目前 尚 不 清楚 首次 染病 康复 后 是否 还 具有 再次 被 病毒感染 的 可能性 。 </seg>
+<seg id="2218"> 病毒 对 已 康复 群体 的 长期 影响 也 尚 不 清楚 ， 但 有 证据 表明 部分 康复 患者 的 肺活量 有所 降低 。 </seg>
+<seg id="2219"> 病毒检测 方式 通常 为 在 实验室 分析 鼻拭 子 或 咽 <term id="568" type="src_original_and_tgt_original" src="swab" tgt="拭子"> 拭子 </term> ， 确定 是否 感染 了 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 。 </seg>
+<seg id="2220"> 当前 “ 黄金 标准 ” 检测 涉及 从 样本 中 提取 遗传物质 ， 并 进行 分析 ， 以 寻找 已知 的 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 遗传 标记 。 </seg>
+<seg id="2221"> 目前 尚无 通过 血液 评估 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 或 抗体 的 检测 方法 ， 不过 检测 方法 已 在 开发 中 。 </seg>
+<seg id="2222"> 没有 确定 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> <term id="333" type="src_original_and_tgt_original" src="immunity" tgt="免疫力|免疫"> 免疫 </term> 的 检测 。 </seg>
+<seg id="2223"> 各国 政府 均 建议 公民 在 <term id="261" type="src_original_and_tgt_original" src="pandemic" tgt="大 流行|疫情|大 流行病|大规模 流行|全球 大 流行|流行病"> 疫情 </term> 期间 取消 所有 不必要 的 出行 。 </seg>
+<seg id="2224"> 很多 航空公司 和 度假 套餐 均 已 免除 取消 和 变更 手续费 ， 方便 人们 取消 出行 活动 。 </seg>
+<seg id="2225"> 尤其 要 避免 乘坐 游轮 。 </seg>
+<seg id="2226"> 老年 旅行者 和 患有 基础性 疾病 的 患者 风险 最大 ， 应 避免 有 风险 的 行程 ， 如 乘坐 长途 飞机 或 前往 人群 密集 场所 ， 尤其 要 避免 乘坐 游轮 ， 即使 不 在 疫情 严重 地区 。 </seg>
+<seg id="2227"> 在 疫区 ， 大部分 专家建议 保持 <term id="291" type="src_original_and_tgt_original" src="social distancing" tgt="社交 隔离|社交 距离"> 社交 距离 </term> 。 </seg>
+<seg id="2228"> 也 就是 与 他人 保持 6 英尺 或 2 米 的 距离 并 避免 聚集 ， 以 尽可能减少 与 他人 的 接触 。 </seg>
+<seg id="2229"> 有 的 地区 允许 小团体 聚集 ； 有 的 地区 则 严禁 各类 聚集 。 </seg>
+<seg id="2230"> 建议 措施 包括 尽可能 <term id="358" type="src_original_and_tgt_original" src="working from home" tgt="居家 办公|在家 上班"> 居家 办公 </term> ， 除非 绝对 必要 ， 尽可能 避开 人群 并 避免 离家 外出 。 </seg>
+<seg id="2231"> 如果 必须 外出 ， 尽可能 与 他人 保持 至少 2 米 （ 6 英尺 ） 的 距离 。 </seg>
+<seg id="2232"> 很多 地区 要求 遵守 这些 措施 。 </seg>
+<seg id="2233"> 像 预防 <term id="472" type="src_original_and_tgt_original" src="flu" tgt="流感"> 流感 </term> 一样 ， 养成 良好 的 卫生习惯 。 </seg>
+<seg id="2234"> 勤用 肥皂 和 温水 <term id="321" type="src_original_and_tgt_original" src="wash your hands" tgt="洗手|清洗 双手|清洗 您 的 双手"> 洗手 </term> ， 用 干净 毛巾 擦干 。 </seg>
+<seg id="2235"> 冠状病毒 是 一种 包膜 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> ， 用 肥皂 洗手 可以 破坏 主要 由 脂肪 组成 的 病毒 包膜 ， 从而 杀死 病毒 。 </seg>
+<seg id="2236"> 搓洗 至少 20 秒 才能 达到 洗手 的 效果 。 </seg>
+<seg id="2237"> 洗手 后 用 毛巾 擦干 可 有效 去除 皮肤 上 的 一些 细菌 （ 所以 不要 跳过 此步 ， 也 不要 与 他人 共用 毛巾 ） 。 </seg>
+<seg id="2238"> 如果 无法 获得 肥皂 及水 ， 可以 用 浓度 超过 60% 的 <term id="41" type="src_original_and_tgt_original" src="alcohol-based hand sanitizer" tgt="含酒精 消毒 洗手液|酒精 洗手液|含酒精 洗手液"> 酒精 洗手液 </term> 洗手 。 </seg>
+<seg id="2239"> 酒精 能够 快速 杀死 细菌 ， 但 并非 即时 有效 ， 所以 也 需要 搓洗 至少 20 秒 ， 确保 每 一块 皮肤 都 被 浸湿 ， 洗后 至少 等待 一分钟 ， 直至 酒精 晾干 。 </seg>
+<seg id="2240"> 请勿 用手 <term id="359" type="src_original_and_tgt_original" src="touching" tgt="接触|摸|触摸"> 触摸 </term> 眼鼻口部 。 </seg>
+<seg id="2241"> 大部分 人 时不时 会 <term id="353" type="src_original_and_tgt_original" src="touch" tgt="摸|摸摸|够|接触|触摸"> 摸摸 </term> 自己 的 脸 。 </seg>
+<seg id="2242"> 请 尽量减少 <term id="359" type="src_original_and_tgt_original" src="touching" tgt="接触|摸|触摸"> 触摸 </term> 脸部 ， 摸脸 前 请 <term id="321" type="src_original_and_tgt_original" src="wash your hands" tgt="洗手|清洗 双手|清洗 您 的 双手"> 清洗 双手 </term> 。 </seg>
+<seg id="2243"> 此外 ， 尽量避免 <term id="353" type="src_original_and_tgt_original" src="touch" tgt="摸|摸摸|够|接触|触摸"> 触摸 </term> 不必要 的 <term id="566" type="src_original_and_tgt_original" src="surfaces" tgt="表面"> 表面 </term> ， 至少 应 避免 直接 用手 触摸 。 </seg>
+<seg id="2244"> <term id="436" type="src_original_and_tgt_original" src="cough" tgt="咳嗽"> 咳嗽 </term> 和 <term id="395" type="src_original_and_tgt_original" src="sneeze" tgt="喷嚏|打喷嚏"> 打喷嚏 </term> 时 应用 手肘 或 纸巾 捂住 口 鼻 ， 随后 应立即 扔掉 纸巾 并 <term id="321" type="src_original_and_tgt_original" src="wash your hands" tgt="洗手|清洗 双手|清洗 您 的 双手"> 清洗 双手 </term> 。 </seg>
+<seg id="2245"> 不要 站 在 或 坐在 可能 患者 旁边 。 </seg>
+<seg id="2246"> 与 他人 至少 保持 1 米 距离 ， 最好 是 2 米 （ 6 英尺 ） 。 </seg>
+<seg id="2247"> 为 简单 目测 这一 距离 ， 可以 想象 与 对方 一起 伸出手 互够 。 </seg>
+<seg id="2248"> 站立 不 动 是否 可以 <term id="353" type="src_original_and_tgt_original" src="touch" tgt="摸|摸摸|够|接触|触摸"> 够 </term> 到 对方 的 手 ？ </seg>
+<seg id="2249"> 如果 可以 ， 则 表明 距离 太近 。 </seg>
+<seg id="2250"> 用 普通 家用 清洁剂 清洁 多人 <term id="353" type="src_original_and_tgt_original" src="touch" tgt="摸|摸摸|够|接触|触摸"> 接触 </term> 过 的 物体 和 <term id="566" type="src_original_and_tgt_original" src="surfaces" tgt="表面"> 表面 </term> ， 如 门把手 、 电话 和 电视 遥控器 。 </seg>
+<seg id="2251"> 用 适当 的 消毒剂 进行 <term id="566" type="src_original_and_tgt_original" src="surfaces" tgt="表面"> 表面 </term> <term id="361" type="src_original_and_tgt_original" src="disinfectant" tgt="消毒|消毒剂"> 消毒 </term> ， 如 稀释 的 <term id="487" type="src_original_and_tgt_original" src="household bleach" tgt="家用 漂白剂"> 家用 漂白剂 </term> 。 </seg>
+<seg id="2252"> 万一 生病 要 居家 隔离 ， 在 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 消失 前应 避免 接触 他人 。 </seg>
+<seg id="2253"> 不要 与 他人 共用 可能 会 沾染 唾液 的 个人 物品 ， 如 牙刷 、 餐具 、 饮料 、 水杯 和 毛巾 。 </seg>
+<seg id="2254"> 在 中国 ， 常会 出现 多人用 筷子 共食 一道 菜 的 现象 ， 这种 用餐 习惯 应 避免 。 </seg>
+<seg id="2255"> 打招呼 应 采用 无 <term id="359" type="src_original_and_tgt_original" src="touching" tgt="接触|摸|触摸"> 接触 </term> 方式 。 </seg>
+<seg id="2256"> 避免 拥抱 、 亲吻 、 握手 、 碰拳 和 任何 其他 接触 。 </seg>
+<seg id="2257"> 如果 没有 办法 避免 接触 ， 则 接触 前后 要 <term id="321" type="src_original_and_tgt_original" src="wash your hands" tgt="洗手|清洗 双手|清洗 您 的 双手"> 清洗 双手 </term> 。 </seg>
+<seg id="2258"> 这种 做法 无法 避免 感染 新型 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> ， 但 有助于 预防 <term id="472" type="src_original_and_tgt_original" src="flu" tgt="流感"> 流感 </term> 。 在 很多 地方 ， 流感 的 感染 风险 依然 高于 COVID - 19 。 </seg>
+<seg id="2259"> 这样 也 可 避免 一些 不必要 的 担忧 ， 比如 患 <term id="472" type="src_original_and_tgt_original" src="flu" tgt="流感"> 流感 </term> 后 误以为 是 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 感染 。 </seg>
+<seg id="2260"> 如果 你 是 老年人 或 其他 高危 人群 ， 可以 接种 <term id="266" type="src_original_and_tgt_original" src="pneumonia" tgt="肺炎"> 肺炎 </term> 疫苗 时 应当 接种 。 </seg>
+<seg id="2261"> 虽然 无法 避免 你 感染来自 <term id="5" type="src_original_and_tgt_original" src="COVID-19" tgt="新型 冠状病毒 肺炎 ( COVID - 19 ) : 新冠 肺炎 ( COVID - 19 ) : COVID - 19|COVID-19|COVID-1"> COVID-19 </term> 的病毒性肺炎， 但 部分 <term id="5" type="src_original_and_tgt_original" src="COVID-19" tgt="新型 冠状病毒 肺炎 ( COVID - 19 ) : 新冠 肺炎 ( COVID - 19 ) : COVID - 19|COVID-19|COVID-1"> COVID-19 </term> 患者 实际上 死 于 攻击 虚弱 <term id="360" type="src_original_and_tgt_original" src="lungs" tgt="肺部|肺"> 肺部 </term> 的 细菌性 <term id="266" type="src_original_and_tgt_original" src="pneumonia" tgt="肺炎"> 肺炎 </term> ， 所以 接种 <term id="266" type="src_original_and_tgt_original" src="pneumonia" tgt="肺炎"> 肺炎 </term> 疫苗 在 一定 程度 上 也 可 挽救 你 的 生命 。 </seg>
+<seg id="2262"> 对于 那些 疑似 携带 病毒 或 <term id="16" type="src_original_and_tgt_original" src="close contact" tgt="密切接触|密切 的 接触|近距离 接触"> 密切接触 </term> 过 被 感染者 的 群体 ， 建议 佩戴 <term id="506" type="src_original_and_tgt_original" src="masks" tgt="口罩"> 口罩 </term> 。 </seg>
+<seg id="2263"> 对于 <term id="398" type="src_original_and_tgt_original" src="asymptomatic" tgt="未 表现 出 任何 症状|无症状"> 无症状 </term> 群体 ， <term id="23" type="src_original_and_tgt_original" src="WHO" tgt="WHO"> WHO </term> 不 建议 佩戴 <term id="506" type="src_original_and_tgt_original" src="masks" tgt="口罩"> 口罩 </term> ， 但 一些 国家 政府 会 建议 佩戴 口罩 。 </seg>
+<seg id="2264"> 为 减少 <term id="348" type="src_original_and_tgt_original" src="community transmission" tgt="社区 传染|社区 传播"> 社区 传播 </term> ， 一些 国家 和 城市 会 要求 佩戴 某种 类型 的 口罩 。 </seg>
+<seg id="2265"> 现在 全球 均 面临 医用 外科 <term id="506" type="src_original_and_tgt_original" src="masks" tgt="口罩"> 口罩 </term> 紧缺 现象 。 </seg>
+<seg id="2266"> 如果 佩戴 口罩 ， 请 确保 正确 佩戴 。 </seg>
+<seg id="2267"> 口罩 应 遮住 口 鼻 ， 且 应 大小 匹配 ， 避免 留缝 。 </seg>
+<seg id="2268"> 戴 口罩 前要 <term id="321" type="src_original_and_tgt_original" src="wash your hands" tgt="洗手|清洗 双手|清洗 您 的 双手"> 洗手 </term> ， 戴 口罩 后要 避免 <term id="359" type="src_original_and_tgt_original" src="touching" tgt="接触|摸|触摸"> 触摸 </term> 口罩 。 </seg>
+<seg id="2269"> 如果 <term id="353" type="src_original_and_tgt_original" src="touch" tgt="摸|摸摸|够|接触|触摸"> 触摸 </term> 了 口罩 ， 触摸 后 应立即 <term id="321" type="src_original_and_tgt_original" src="wash your hands" tgt="洗手|清洗 双手|清洗 您 的 双手"> 洗手 </term> 。 </seg>
+<seg id="2270"> 口罩 潮湿 后 ， 应 丢弃 并 更换 。 </seg>
+<seg id="2271"> 从 后面 取 下 口罩 并 丢弃 ， 然后 <term id="321" type="src_original_and_tgt_original" src="wash your hands" tgt="洗手|清洗 双手|清洗 您 的 双手"> 洗手 </term> 。 </seg>
+<seg id="2272"> 请 记住 ， 即使 带 了 <term id="506" type="src_original_and_tgt_original" src="masks" tgt="口罩"> 口罩 </term> ， 也 要 保持良好 的 卫生习惯 ： 继续 勤洗手 。 </seg>
+<seg id="2273"> 如果 不 需要 <term id="506" type="src_original_and_tgt_original" src="masks" tgt="口罩"> 口罩 </term> ， 请 不要 囤积 。 </seg>
+<seg id="2274"> <term id="506" type="src_original_and_tgt_original" src="masks" tgt="口罩"> 口罩 </term> 紧缺 意味着 医疗 人员 也 难以获得 口罩 ， 这 将 提高 所有人 的 风险 等级 。 </seg>
+<seg id="2275"> 其中 包括 不 推荐 普通 大众 使用 的 N95 口罩 ， 这是 一种 专业 防护 装备 ， 旨在 发挥 最佳 效果 。 </seg>
+<seg id="2276"> 请 将 这类 口罩 留给 医疗 人员 。 </seg>
+<seg id="2277"> 避免 去 人 多 的 地方 ， 尤其 是 空气流通 不畅 的 封闭 区域 ， 如 会议室 、 表演 场所 、 购物中心 、 公共 交通工具 和 宗教 礼拜 场所 。 </seg>
+<seg id="2278"> 从 宗教 朝圣 到 音乐会 ， 全球 已 取消 各种 大规模 人群 聚集 活动 ， 以 努力 控制 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 的 <term id="20" type="src_original_and_tgt_original" src="spread" tgt="扩散|传播|扩散 蔓延"> 扩散 </term> 。 </seg>
+<seg id="2279"> 旅游景点 、 商家 和 交通运输 可能 均 已 关闭 ， 尤其 是 在 疫情 国家 。 </seg>
+<seg id="2280"> 一些 已 取消 的 活动 ， 尤其 是 表演 、 体育赛事 和 课程 ， 已 转移 到 网上 ， 人们 不用 出行 也 可 体验 。 </seg>
+<seg id="2281"> 在 加油站 加油 时 ， 请 尽可能 使用 手套 或 <term id="361" type="src_original_and_tgt_original" src="disinfectant" tgt="消毒|消毒剂"> 消毒 </term> 抹布 擦拭 把手 。 </seg>
+<seg id="2282"> 加满 油后 ， 请 用 <term id="221" type="src_original_and_tgt_original" src="hand sanitizer" tgt="消毒 洗手液|免水 洗手液|免洗 搓手 液|免洗 洗手液|洗手液"> 洗手液 </term> 洗手 。 </seg>
+<seg id="2283"> 美国 和 加拿大政府 建议 避免 乘坐 游轮 出行 。 </seg>
+<seg id="2284"> 船上 极易 发生 <term id="20" type="src_original_and_tgt_original" src="spread" tgt="扩散|传播|扩散 蔓延"> 扩散 </term> ， 而且 <term id="344" type="src_original_and_tgt_original" src="medical care" tgt="医疗 诊治|医疗 条件|医疗保健|医疗 护理"> 医疗 条件 </term> 有限 。 </seg>
+<seg id="2285"> 如果 在 游轮 上 <term id="258" type="src_original_and_tgt_original" src="outbreak" tgt="暴发|爆发"> 爆发 </term> 疫情 ， 鉴于 载客 人数 众多 ， <term id="14" type="src_lemma_and_tgt_original" src="quarantine" tgt="隔离|检疫"> 隔离 </term> 和 停靠 均 面临 挑战 。 </seg>
+<seg id="2286"> 即使 是 船上 无 <term id="3" type="src_original_and_tgt_original" src="confirmed cases" tgt="确诊 病例|确诊 的 COVID-19 感染 病例|确诊 COVID-19 病例|确诊 的 16 例 病例"> 确诊 病例 </term> ， 一些 码头 也 会 因 害怕 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 而 拒绝 停靠 ， 在 日本 备受 关注 的 钻石 公主 号 事件 中 ， 有 数百名 乘客 被 <term id="230" type="src_original_and_tgt_original" src="infected" tgt="已 感染|感染|被 感染|受到感染 的|受 感染"> 感染 </term> 。 </seg>
+<seg id="2287"> 如果 你 怀疑 自己 <term id="46" type="src_original_and_tgt_original" src="be infected" tgt="被 感染|感染"> 被 感染 </term> 了 ， 请 呼叫 医院 或 当地 急救 医疗 服务 机构 ， 不要 私自 前往 ， 以 避免 传染 他人 。 </seg>
+<seg id="2288"> 说明 你 的 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 和 出行 轨迹 。 </seg>
+<seg id="2289"> 佩戴 医用 口罩 ， 并 按照 官方 机构 和 医生 的 指示 行事 。 </seg>
+<seg id="2290"> 另 请 查看 ： 航班 与 健康 </seg>
+<seg id="2291"> 在 飞机 上 ， 遵循 与 其他 地方 一样 的 卫生习惯 ： 勤洗手 ， 如果 不便 离开 座位 则 使用 <term id="41" type="src_original_and_tgt_original" src="alcohol-based hand sanitizer" tgt="含酒精 消毒 洗手液|酒精 洗手液|含酒精 洗手液"> 酒精 洗手液 </term> ， 避免 <term id="359" type="src_original_and_tgt_original" src="touching" tgt="接触|摸|触摸"> 触摸 </term> 脸部 。 </seg>
+<seg id="2292"> 研究 人员 发现 ， 靠窗 乘客 与 患者 接触 的 风险 较 小 。 </seg>
+<seg id="2293"> 尽量 预订 靠窗 位置 ， 飞行 过程 中 避免 在 机舱 内 走动 。 </seg>
+<seg id="2294"> 洗手 后 入座 前 ， 要 用 <term id="361" type="src_original_and_tgt_original" src="disinfectant" tgt="消毒|消毒剂"> 消毒 </term> 湿巾 擦拭 座位 周围 区域 。 </seg>
+<seg id="2295"> 擦拭 坚硬 <term id="566" type="src_original_and_tgt_original" src="surfaces" tgt="表面"> 表面 </term> ， 如果 是 真皮 座椅 ， 也 可 擦拭 。 </seg>
+<seg id="2296"> 如果 是 布艺 座椅 ， 不要 擦拭 ， 因为 潮湿 有利于 <term id="17" type="src_original_and_tgt_original" src="transmission" tgt="传播|传|传染"> 传播 </term> 。 </seg>
+<seg id="2297"> <term id="361" type="src_original_and_tgt_original" src="disinfectant" tgt="消毒|消毒剂"> 消毒 </term> 湿巾 请 按照 包装 上 的 说明 使用 。 </seg>
+<seg id="2298"> 请 记住 ， 病毒 可 通过 口 鼻 眼部 进入 人体 ， 擦拭 上述 区域 虽 有 帮助 ， 但 不能 代替 正确 的 卫生 措施 。 </seg>
+<seg id="2299"> 勤洗手 并 避免 <term id="359" type="src_original_and_tgt_original" src="touching" tgt="接触|摸|触摸"> 触摸 </term> 脸部 。 </seg>
+<seg id="2300"> 在 <term id="353" type="src_original_and_tgt_original" src="touch" tgt="摸|摸摸|够|接触|触摸"> 触摸 </term> 屏幕 或 其他 控件 时用 纸巾 裹 住手 操作 。 </seg>
+<seg id="2301"> 上 厕所 时 ， 用 纸巾 裹 住手 来 关闭 水龙头 、 开门 ， 然后 扔掉 纸巾 。 </seg>
+<seg id="2302"> 疫区 的 航空公司 正 采取措施 减少 <term id="17" type="src_original_and_tgt_original" src="transmission" tgt="传播|传|传染"> 传播 </term> 和 保护 乘客 安全 。 </seg>
+<seg id="2303"> 其 措施 可能 包括 增加 设施 清洁 频率 ， 允许 空乘 人员 佩戴 <term id="506" type="src_original_and_tgt_original" src="masks" tgt="口罩"> 口罩 </term> ， 供应 预先 包装 而 非 现场 加热 的 食物 。 </seg>
+<seg id="2304"> 如果 有 乘客 从 疫情 <term id="290" type="src_original_and_tgt_original" src="severe outbreak" tgt="严重 暴发|严重"> 严重 </term> 地区 转机 ， 空乘 人员 可 安排 其 坐在 远离 其他 乘客 的 位置 （ 如果 你 近期 到 过 高风险 地区 ， 出于 这一 原因 ， 请 考虑 告知 空乘 人员 ） 。 </seg>
+<seg id="2305"> 空乘 人员 可能 会 禁止 你 在 机上 调换 座位 。 </seg>
+<seg id="2306"> 这是 为了 万一 飞机 上 有人 <term id="46" type="src_original_and_tgt_original" src="be infected" tgt="被 感染|感染"> 被 感染 </term> ， 官方 机构 能够 追踪 到 其 座位 附近 的 乘客 ， 以便 进行 检测 或 <term id="14" type="src_original_and_tgt_original" src="quarantine" tgt="隔离|检疫"> 隔离 </term> 。 </seg>
+<seg id="2307"> 针对 COVID - 19 ， 治疗 重点 在于 缓解 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 和 预防 并发症 。 </seg>
+<seg id="2308"> 目前 还 没有 针对 <term id="301" type="src_original_and_tgt_original" src="the novel Coronavirus" tgt="新型 冠状病毒|新冠 病毒"> 新型 冠状病毒 </term> 的 <term id="581" type="src_original_and_tgt_original" src="vaccine" tgt="疫苗"> 疫苗 </term> 或 特效 治疗 方案 。 </seg>
+<seg id="2309"> <term id="581" type="src_original_and_tgt_original" src="vaccine" tgt="疫苗"> 疫苗 </term> 或 特效 <term id="365" type="src_original_and_tgt_original" src="antiviral drug" tgt="抗病毒 药物|抗病毒 药"> 抗病毒 药 </term> 还 在 研究 当中 。 </seg>
+<seg id="2310"> 有 很多 使用 抗艾滋 药物 和 其他 新型 抗病毒 药物 治疗 COVID - 19 的 试验 正在 进行 。 </seg>
+<seg id="2311"> 服用 扑热息痛 （ 对乙酰氨基酚 ） 可 缓解 轻度 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 。 </seg>
+<seg id="2312"> 如果 你 <term id="230" type="src_original_and_tgt_original" src="infected" tgt="已 感染|感染|被 感染|受到感染 的|受 感染"> 感染 </term> 了 COVID - 19 ， 国家 将 对 你 采取 隔离 措施 ， 直至 连续 多次 的 COVID - 19 检测 呈 阴性 。 </seg>
+<seg id="2313"> 如果 你 与 <term id="230" type="src_original_and_tgt_original" src="infected" tgt="已 感染|感染|被 感染|受到感染 的|受 感染"> 感染 </term> COVID - 19 的 患者 有过 <term id="16" type="src_original_and_tgt_original" src="close contact" tgt="密切接触|密切 的 接触|近距离 接触"> 密切接触 </term> ， 很多 国家 会自 最后 一次 <term id="211" type="src_original_and_tgt_original" src="exposure" tgt="接触|暴露"> 接触 </term> 后 实施 为期 14 天 的 <term id="14" type="src_original_and_tgt_original" src="quarantine" tgt="隔离|检疫"> 隔离 </term> ， 并 监控 你 的 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 和 体征 。 </seg>
+<seg id="2314"> 在 有些 国家 ， 即使 无症状 ， 可能 也 会 对 你 进行 检测 。 </seg>
+<seg id="2315"> 很多 国家 的 医疗系统 已 濒临 崩溃 ， 无法 应付 如此 庞大 的 患者 数量 ， 甚至 可能 由于 医务人员 、 用品 或 设备 不足 ， 拒绝 给 患者 治疗 。 </seg>
+<seg id="2316"> 很多 国家 已 关闭 或 严格 限制 航班 、 船只 和 边境 口岸 ， 尤其 是 往来 疫区 的 航班 、 船只 和 边境 口岸 。 </seg>
+<seg id="2317"> 更 多 国家 对 入境 旅客 实施 了 <term id="547" type="src_original_and_tgt_original" src="restrictions" tgt="限制"> 限制 </term> ， 有 的 严格 禁止 入境 （ 当地 居民 和 永久 居民 除外 ） ， 有 的 则 要求 进行 <term id="14" type="src_lemma_and_tgt_original" src="quarantine" tgt="隔离|检疫"> 隔离 </term> ， 通常 为 14 天 。 </seg>
+<seg id="2318"> 即使 没有 实施 <term id="241" type="src_original_and_tgt_original" src="mandatory quarantine" tgt="强制 隔离"> 强制 隔离 </term> ， 也 可能 建议 你 居家 “ <term id="555" type="src_original_and_tgt_original" src="self-quarantine" tgt="自我 隔离"> 自我 隔离 </term> ” ， 不 与 他人 接触 。 </seg>
+<seg id="2319"> 最 严格 的 <term id="547" type="src_original_and_tgt_original" src="restrictions" tgt="限制"> 限制 </term> 是 对 近期 到 过 疫区 的 旅行者 的 限制 ， 但 越来越 多 的 国家 已经 开始 对 所有 入境 旅行者 实施 这些 限制 。 </seg>
+<seg id="2320"> 有些 国家 甚至 还会 禁止 所有 或 几乎 所有 外国人 入境 ， 或 限制 当地 公民 和 居民 离境 。 </seg>
+<seg id="2321"> 什么 是 疫区 ？ </seg>
+<seg id="2322"> 疫区 范围 变化 很快 ， 每个 国家 / 地区 / 组织 都 有 自己 的 <term id="547" type="src_original_and_tgt_original" src="restrictions" tgt="限制"> 限制 </term> 区域 列表 。 </seg>
+<seg id="2323"> 所有 列表 中均 有 <term id="376" type="src_original_and_tgt_original" src="Wuhan" tgt="武汉市|武汉"> 武汉 </term> ， 大部分 列表 中 还 列有 中国 大陆 其余 地区 。 </seg>
+<seg id="2324"> 列表 中 常见 的 其他 区域 还 包括 ： 法国 、 德国 、 中国香港 、 伊朗 、 意大利 、 日本 、 中国 澳门 、 新加坡 、 韩国 、 西班牙 、 中国台湾 、 英国 、 美国 、 整个 申根 地区 ， 有时 还 包括 其他 很多 地区 。 </seg>
+<seg id="2325"> 一些 国家 会 对 来自 疫情 严重 地区 的 公民 或 居民 实施 <term id="547" type="src_original_and_tgt_original" src="restrictions" tgt="限制"> 限制 </term> 。 </seg>
+<seg id="2326"> 入境 <term id="547" type="src_original_and_tgt_original" src="restrictions" tgt="限制"> 限制 </term> 详细 列表 由 IATA 维护 。 </seg>
+<seg id="2327"> 虽然 没有涵盖所有限制 ， 但 仍然 很 有 价值 。 </seg>
+<seg id="2328"> 持续 更新 — — 疫情 <term id="258" type="src_original_and_tgt_original" src="outbreak" tgt="暴发|爆发"> 爆发 </term> 和 <term id="305" type="src_original_and_tgt_original" src="travel restrictions" tgt="旅行 限制|出行 限制|限制 入境 旅行"> 出行 限制 </term> 也 在 快速 变化 。 </seg>
+<seg id="2329"> 近期 如需 出行 ， 请 考虑 预订 可 退款 客房 ， 以防 情况有变 时 更改 计划 。 </seg>
+<seg id="2330"> 避免 购买 在 疫区 转机 的 机票 ， 即使 是 换乘 ， 你 也 可能 会 受到 一些 <term id="547" type="src_original_and_tgt_original" src="restrictions" tgt="限制"> 限制 </term> 。 </seg>
+<seg id="2331"> 航班 可能 会 在 毫无 通知 的 情况 下 取消 ， 原因 包括 疫情 <term id="20" type="src_original_and_tgt_original" src="spread" tgt="扩散|传播|扩散 蔓延"> 扩散 </term> 和 入境 <term id="547" type="src_original_and_tgt_original" src="restrictions" tgt="限制"> 限制 </term> 不断 变化 ， 或者 仅仅 因为 乘客 减少 ， 机上 座位 无法 坐满 。 </seg>
+<seg id="2332"> 此外 ， 抵达 目的地 后 ， 你 可能 还要 花数 小时 等待 体温 检测 和 相关 程序 与 申报 流程 ， 甚至 可能 被 <term id="14" type="src_lemma_and_tgt_original" src="quarantine" tgt="隔离|检疫"> 隔离 </term> 两周 。 </seg>
+<seg id="2333"> 请 随时 做好 出行 计划 中断 的 准备 ， 尤其 是 国际 行程 。 </seg>
+<seg id="2334"> 即使 不 在 疫区 附近 ， 如果 你 所在 大楼 或 交通工具 上 发现 感染者 ， 你 在 目的地 的 停留时间 也 可能 延长 。 </seg>
+<seg id="2335"> 例如 ， 2 月 下旬 ， 一位 在 奥德 杰 海岸 （ 加那利 群岛 ） 度假 的 意大利 医生 被 确诊 患有 COVID - 19 ， 结果 他 所 住 酒店 的 所有 客人 均 被 <term id="14" type="src_lemma_and_tgt_original" src="quarantine" tgt="隔离|检疫"> 隔离 </term> 。 </seg>
+<seg id="2336"> 封锁 和 其他 国内 <term id="547" type="src_original_and_tgt_original" src="restrictions" tgt="限制"> 限制 </term> </seg>
+<seg id="2337"> 一些 国家 和 地区 ， 特别 是 严重 疫区 ， 正在 实施 紧急 <term id="238" type="src_lemma_and_tgt_original" src="lockdown" tgt="封锁"> 封锁 </term> ， 以 <term id="547" type="src_original_and_tgt_original" src="restrictions" tgt="限制"> 限制 </term> 人们 的 出行 和 活动 ， 即使 是 近期 未曾 出国 的 人员 。 </seg>
+<seg id="2338"> 措施 包括 暂时 重启 边境 管制 ， <term id="547" type="src_original_and_tgt_original" src="restrictions" tgt="限制"> 限制 </term> 国内 出行 ， 关闭 或 限制 餐馆 和 其他 场所 提供 服务 ， 禁止 大型 公共 活动 ， 最 严重 时 还 会 禁止 居民 离家 外出 ， 除非 绝对 必要 。 </seg>
+<seg id="2339"> 除了 政府 <term id="547" type="src_original_and_tgt_original" src="restrictions" tgt="限制"> 限制 </term> 外 ， 个别 设施 也 会 关闭 ， 取消 活动 ， 努力 减少 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> <term id="20" type="src_original_and_tgt_original" src="spread" tgt="扩散|传播|扩散 蔓延"> 扩散 </term> 。 </seg>
+<seg id="2340"> 在 中国 ， 交通 和 活动 受到 广泛 <term id="547" type="src_original_and_tgt_original" src="restrictions" tgt="限制"> 限制 </term> ， 具体 限制 因省 、 市 、 甚至 地区 或 村庄 而 存在 巨大 差异 。 </seg>
+<seg id="2341"> 很多 政府 建议 这 段时间 避免 前往 中国 。 </seg>
+<seg id="2342"> 如果 你 没有 其他 选择 ， 请 自行 调查 ， 及时 了解 有关 你 的 目的地 的 最新 信息 。 </seg>
+<seg id="2343"> 到 过 <term id="388" type="src_original_and_tgt_original" src="Hubei" tgt="湖北省|湖北"> 湖北 </term> 的 人员 尤其 会 受到 严格 <term id="547" type="src_original_and_tgt_original" src="restrictions" tgt="限制"> 限制 </term> 。 </seg>
+<seg id="2344"> 在 中国 部分 地区 你 可能 会 受到 的 <term id="547" type="src_original_and_tgt_original" src="restrictions" tgt="限制"> 限制 </term> 包括 （ 以下 是非 详尽 列表 ） ： </seg>
+<seg id="2345"> 从 中国 其他 地区 或 其他 国家 抵达 后 ， 接受 为期 14 天 的 <term id="14" type="src_original_and_tgt_original" src="quarantine" tgt="隔离|检疫"> 隔离 </term> 、 <term id="555" type="src_original_and_tgt_original" src="self-quarantine" tgt="自我 隔离"> 自我 隔离 </term> 或 COVID - 19 检测 ， 费用 自理 。 </seg>
+<seg id="2346"> 询问 你 的 活动 轨迹 和 病史 （ 瞒报 有 可能 入狱 ） </seg>
+<seg id="2347"> 使用 在线 或 纸质 表格 强制 登记 </seg>
+<seg id="2348"> 要求 在 公共场所 佩戴 <term id="8" type="src_original_and_tgt_original" src="face mask" tgt="口罩"> 口罩 </term> </seg>
+<seg id="2349"> 从 国外 回到 中国 后 14 天 内 不得 进入 商场 等 公共 区域 </seg>
+<seg id="2350"> 商店 仅 接受 移动 付款 ， 不 收 现金 </seg>
+<seg id="2351"> 餐厅 、 交通 和 其他 机构 拒绝 向 非 中国 公民 提供 服务 </seg>
+<seg id="2352"> 很多 交通运输 工具 已 管控 或 停运 </seg>
+<seg id="2353"> 强制 实名 登记 公交 卡 </seg>
+<seg id="2354"> 完全 封锁 城镇 、 村庄 或 城市 出入 通道 </seg>
+<seg id="2355"> 非 居民 游客 不得 进入 公寓楼 </seg>
+<seg id="2356"> 仅 允许 每 两天 外出 一次 获取 补给 </seg>
+<seg id="2357"> 商业 场所 、 活动 和 景点 关闭 </seg>
+<seg id="2358"> 商业 场所 需 当地政府 批准 才 可复开 </seg>
+<seg id="2359"> 餐馆 （ 如果 依然 开放 ） 要求 顾客 之间 保持 安全 距离 </seg>
+<seg id="2360"> 销售 不 合格 <term id="469" type="src_original_and_tgt_original" src="face masks" tgt="口罩"> 口罩 </term> 最高 可 判处 无期徒刑 </seg>
+<seg id="2361"> 截至 2020 年 3 月 中旬 ， 欧洲 仍为 <term id="203" type="src_original_and_tgt_original" src="epidemic" tgt="流行性|疫情|流行|流行病"> 疫情 </term> 中心 ， 很多 欧洲 国家 已经 关闭 国际 边境 通道 ， 仅 允许 边境 通勤 者 和 货物 通过 。 </seg>
+<seg id="2362"> 此外 ， 除 食品店 和 药店 以外 的 其他 商业 店铺 均 已 关闭 ， 公共交通 也 已 管控 或 停运 。 </seg>
+<seg id="2363"> 包括 意大利 、 西班牙 和 法国 在内 的 最 严重 疫区 已 实施 中国 在 1 月份 实施 的 <term id="238" type="src_lemma_and_tgt_original" src="lockdown" tgt="封锁"> 封锁 </term> 措施 。 </seg>
+<seg id="2364"> 与此同时 ， 欧洲 还 关闭 了 其 外部边界 。 </seg>
+<seg id="2365"> COVID - 19 在 北美 也 出现 蔓延 。 </seg>
+<seg id="2366"> 加拿大 、 美国 和 墨西哥 之间 的 边境 禁止 非必要 旅行 ， 很多 地区 还 禁止 大型 集会 （ 餐馆 等 场所 被迫 关闭 ， 活动 被迫 取消 ） 。 </seg>
+<seg id="2367"> 很多 州 、 县和市 司法 管辖区 也 发布 了 居家 令 ， 要求 停止 所有 非必要 业务 。 </seg>
+<seg id="2368"> 随着 大量 航班 的 取消 、 警告 的 发布 、 <term id="547" type="src_original_and_tgt_original" src="restrictions" tgt="限制"> 限制 </term> 的 施加 ， 疫情 期间 乘飞机 出行 面临 极大 挑战 。 </seg>
+<seg id="2369"> 有些 航线 已经 禁飞 。 </seg>
+<seg id="2370"> 其他 未 禁飞 航线 也 比 平时 麻烦 很多 ， 飞行 期间 要 多次 停靠 ， 还要 等待 很 长时间 。 </seg>
+<seg id="2371"> 一些 情况 下 票价 高昂 。 </seg>
+<seg id="2372"> 当然 也 有 好消息 ， 有些 航线 的 票价 因 需求 下降 ， 反而 比 平时 便宜 ， 而且 你 旁边 的 座位 很 可能 是 空 的 。 </seg>
+<seg id="2373"> 应 预留 额外 的 转机 时间 ， 尤其 是 在 从 国际航班 转为 国内 航班 或 行程 涉及 疫情 严重 国家 的 情况 下 。 </seg>
+<seg id="2374"> 一些 筛查 、 体温 检测 、 额外 文书 以及 相关 等待 可能 会 使 您 的 旅程 拖延 数分钟 或数 小时 。 </seg>
+<seg id="2375"> 受 警告 和 <term id="547" type="src_original_and_tgt_original" src="restrictions" tgt="限制"> 限制 </term> 的 影响 ， 你 可能 会 发现 购买 往来 某个 目的地 的 机票 比 平时 更难 。 </seg>
+<seg id="2376"> 如果 要 离开 疫区 ， 这会 是 一个 头疼 的 问题 。 </seg>
+<seg id="2377"> 例如 ， 大部分 中间商 不会 出售 从 中国 到 美国 的 机票 （ 大概 是 为了 避免 违反 <term id="547" type="src_original_and_tgt_original" src="restrictions" tgt="限制"> 限制 </term> ， 避免 航班 因 乘客 出境 而 被 叫停 ） 。 </seg>
+<seg id="2378"> 要 购买 这 类 机票 ， 你 可能 需要 联系 航空公司 或 选择 不太 知名 的 中间商 。 </seg>
+<seg id="2379"> 另 一种 可能 是 需要 买 两张 不同 的 机票 （ 例如 ， 一张 从 中国 到 柬埔寨 的 机票 和 一张 从 柬埔寨 到 美国 的 机票 ） ， 但 要 小心 ， 避免 转机 时 被 <term id="14" type="src_lemma_and_tgt_original" src="quarantine" tgt="隔离|检疫"> 隔离 </term> 或 丢失 行李 。 </seg>
+<seg id="2380"> 转机 也 可能 存在 问题 。 </seg>
+<seg id="2381"> 因 筛查 和 检测 导致 延迟 和 大面积 航班 取消 ， 被困 在 转机 城市 的 风险 现在 比 平时 更高 。 </seg>
+<seg id="2382"> 在 疫区 转机 可能 还会 导致 随后 的 入境 <term id="547" type="src_original_and_tgt_original" src="restrictions" tgt="限制"> 限制 </term> ， 如果 你 最近 到 过 疫区 ， 一些 国家 甚至 还会 拒绝 为 你 提供 转机 服务 。 </seg>
+<seg id="2383"> 某些 路线 还 存在 沿途 被 <term id="14" type="src_lemma_and_tgt_original" src="quarantine" tgt="隔离|检疫"> 隔离 </term> 的 风险 。 </seg>
+<seg id="2384"> 因此 ， 请 尽量 预订 直达 航班 ， 如果 没有 直达 航班 ， 则 请 慎重考虑 转机 地点 。 </seg>
+<seg id="2385"> 在 此 不 确定 时期 ， 计划 随时 可能 有变 。 </seg>
+<seg id="2386"> 很多 大使馆 和 领事馆 也 已 疏散 了 一些 不必要 的 工作人员 ， 有些 业务 已 完全 关停 。 </seg>
+<seg id="2387"> 但 紧急 援助 应该 仍然 可用 ， 不过 你 当地 的 领事馆 可能 已经 关闭 ， 你 可能 需要 联系 更远 的 领事馆 。 </seg>
+<seg id="2388"> 如果 因 <term id="261" type="src_original_and_tgt_original" src="pandemic" tgt="大 流行|疫情|大 流行病|大规模 流行|全球 大 流行|流行病"> 疫情 </term> 而 被困 ， 距 你 最近 的 领事馆 可能 会 帮 你 寻找 回国 航班 ， 为 你 安排 紧急 贷款 ， 方便 你 购买 机票 ， 或 为 你 提供 紧急 护照 。 </seg>
+<seg id="2389"> 至少 他们 可 帮助 你 了解 当地 情况 ， 告知 你 最近 出台 的 旅行 要求 和 <term id="547" type="src_original_and_tgt_original" src="restrictions" tgt="限制"> 限制 </term> 。 </seg>
+<seg id="2390"> 签证 和 护照 处理 等 普通 领事 服务 可能 会 暂停 或 仅限 紧急 需求 ， 具体 取决于 地点 和 领事馆 。 </seg>
+<seg id="2391"> 尽管 有人 称 此病 为 “ Wuhan pneumonia ” ( <term id="376" type="src_original_and_tgt_original" src="Wuhan" tgt="武汉市|武汉"> 武汉 </term> ( 漢 ) <term id="266" type="src_original_and_tgt_original" src="pneumonia" tgt="肺炎"> 肺炎 </term> / 武肺 ) 、 “ Wuhan disease ” 或 “ Chinese <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> virus </term> ” ， 但 中国 以及 很多 华裔 认为 使用 这些 词 涉嫌 种族歧视 。 </seg>
+<seg id="2392"> 在 中国香港 和 中国台湾 等 地 ， 也 常听到 有人 称 此病 为 “ <term id="376" type="src_original_and_tgt_original" src="Wuhan" tgt="武汉市|武汉"> 武汉 </term> <term id="266" type="src_original_and_tgt_original" src="pneumonia" tgt="肺炎"> 肺炎 </term> ” 或 “ 中国 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> ” 。 </seg>
+<seg id="2393"> 为 安全 起 见 ， 提到 此病 时 尽量 使用 中立 词 ， 如 “ COVID - 19 ” 、 “ <term id="253" type="src_original_and_tgt_original" src="novel Coronavirus" tgt="新型 冠状病毒"> 新型 冠状病毒 </term> ” ， 或者 直接 称 “ <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> ” 或 “ <term id="261" type="src_original_and_tgt_original" src="pandemic" tgt="大 流行|疫情|大 流行病|大规模 流行|全球 大 流行|流行病"> 疫情 </term> ” 。 </seg>
+<seg id="2394"> 尤其 是 在 执法人员 受训 不足 的 发展中国家 ， 宵禁 、 <term id="238" type="src_original_and_tgt_original" src="lockdown" tgt="封锁"> 封锁 </term> 或 居家 令 在 执行 方面 往往 比较 严酷 ， 经常 会 通过 武力 对 人群 强制执行 。 </seg>
+<seg id="2395"> 请 遵守 这些 政令 ， 避免 去 人 多 拥挤 的 公共场所 。 </seg>
+<seg id="2396"> <term id="70" type="src_original_and_tgt_original" src="Coronavirus pandemic" tgt="冠状病毒 大 流行|冠状病毒 疫情|冠状病毒 流行病"> 冠状病毒 疫情 </term> 导致 很多 国家 开始 出现 仇外 心理 ， 主要 针对 但 不仅 限于 华裔 面孔 群体 。 </seg>
+<seg id="2397"> 针对 东 亚裔 人 的 种族歧视 事件 在 全球 激增 ， 包括 在 纽约 、 伦敦 和 旧金山 等 大城市 。 </seg>
+<seg id="2398"> 在 中国香港 ， 居高不下 的 “ 恐中症 ” 因 <term id="261" type="src_original_and_tgt_original" src="pandemic" tgt="大 流行|疫情|大 流行病|大规模 流行|全球 大 流行|流行病"> 疫情 </term> 而 加剧 ， 结果 导致 现在 很多 商家 和 餐馆 拒绝 向 中国 大陆 顾客 提供 服务 ， 并 禁止 说 普通话 的 群体 进入 其 经营场所 （ 台湾人 除外 ） 。 </seg>
+<seg id="2399"> 仇外 心理 在 东亚 也 有所 上升 ， 日本 和 中国 的 一些 餐馆 和 其他 商家 也 会 拒绝 向 外国 顾客 提供 服务 。 </seg>
+<seg id="2400"> 在 中国 ， 曾 发生 外国人 被 酒店 员工 拒绝 入住 ， 以及 外国 居民 （ 尤其 是 黑人 ） 收到 房东 临时 通知 ， 被 赶出 公寓 的 事件 。 </seg>
+<seg id="2401"> 以下 方面 可 提供 有关 <term id="69" type="src_original_and_tgt_original" src="Coronavirus outbreak" tgt="冠状病毒 暴发|冠状病毒 疫情|冠状病毒 爆发|新型 冠状病毒 爆发"> 冠状病毒 疫情 </term> 的 更 多 信息 ： </seg>
+<seg id="2402"> 美国 疾病 预防 与 控制中心 </seg>
+<seg id="2403"> 欧洲 疾病 预防 与 控制中心 （ 每日 <term id="580" type="src_original_and_tgt_original" src="updates" tgt="更新"> 更新 </term> ） </seg>
+<seg id="2404"> 英国政府 — — 外交 和 联邦 事务部 给 旅行者 的 建议 </seg>
+<seg id="2405"> 由约翰 · 霍普斯金 大学 系统 科学 与 工程 中心 提供 的 在线 地图 和 统计图 ， 实时 <term id="580" type="src_original_and_tgt_original" src="updates" tgt="更新"> 更新 </term> </seg>
+<seg id="2406"> 由 IATA 和 纽约时报 发布 的 部分 入境 <term id="547" type="src_original_and_tgt_original" src="restrictions" tgt="限制"> 限制 </term> 清单 </seg>
+<seg id="2407"> 有关 这种 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 的 各种 不 实 信息 和 阴谋论 在 网上 流传 ， 有些 甚至 来自 政府 官员 ， 因此 要 认真 检查 信息 来源 。 </seg>
+<seg id="2408"> 确保 你 所 收到 的 所有 信息 和 建议 已 获得 信誉 良好 的 医生 和 科学家 的 支持 。 </seg>
+<seg id="2409"> 在 危机 中 ， 人们 自然 会 希望 关注 <term id="363" type="src_original_and_tgt_original" src="latest updates" tgt="最新消息|最近 更新"> 最新消息 </term> ， 但 为 心理健康 考虑 ， 应 适度 控制 你 所 查看 的 新闻 数量 ， 仅 关注 可靠 来源 的 新闻 。 </seg>
+<seg id="2410"> 如果 你 通常 每天 看 两次 新闻 ， 则 请 保持 此 频率 ， 尝试 做些 别的 事情 ， 而 不要 连续 24 小时 跟踪 新闻 信息 。 </seg>
+</p>
+</doc>
+<doc sysid="ref" docid="wiki_26" genre="terminology" origlang="en">
+<p>
+<seg id="2435"> 蝙蝠 SARS 样 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> WIV1 ( Bat SL - CoV - WIV1 ) ， 有时 也 称为 SARS 样 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> WIV1 ， 是从 中华 菊头蝠 ( Rhinolophus sinicus ) 体内 分离 出 的 一种 严重 急性 <term id="330" type="src_original_and_tgt_original" src="respiratory" tgt="呼吸道|呼吸系统|呼吸"> 呼吸 </term> 综合征 相关 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> ( Severe acute Respiratory syndrome - related coronavirus , SARSr - CoV ) 毒株 。 </seg>
+<seg id="2436"> 与 所有 冠状病毒 类似 ， 病毒体 由 包裹 在 包膜 中 的 单链 正义 <term id="367" type="src_original_and_tgt_original" src="RNA" tgt="RNA|核酸|核糖核酸 （ RNA ）"> RNA </term> 组成 。 </seg>
+<seg id="2437"> 该 发现 证实 蝙蝠 是 SARS - CoV 的 天然 宿主 。 </seg>
+<seg id="2438"> 遗传 进化 分析表明 ， 与 先前 认为 的 一致 ， <term id="351" type="src_original_and_tgt_original" src="SARS" tgt="SARS|SAR|非典|非典型 肺炎 （ SARS ）"> SARS </term> 可能 从 蝙蝠 直接 <term id="17" type="src_original_and_tgt_original" src="transmission" tgt="传播|传|传染"> 传播 </term> 给 人类 ， 而 无需 经过 中间 宿主 果子狸 。 </seg>
+</p>
+</doc>
+<doc sysid="ref" docid="wiki_13" genre="terminology" origlang="en">
+<p>
+<seg id="2489"> b ' COVID - 19 药物 开发 是 研发 预防性 <term id="581" type="src_original_and_tgt_original" src="vaccine" tgt="疫苗"> 疫苗 </term> 或 治疗 处方药 的 研究 过程 ， 旨在 缓解 2019 - 20 <term id="57" type="src_original_and_tgt_original" src="Coronavirus disease" tgt="冠状病毒 病|冠状病毒 疾病|新型 冠状病毒 疾病"> 冠状病毒 病 </term> ( COVID - 19 ) 的 严重性 。 </seg>
+<seg id="2490"> who 的 国际 临床试验 注册 平台 记录 了 536 项 针对 COVID - 19 的 <term id="345" type="src_lemma_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 后 临床 研究 ， 很多 既往 用于 治疗 其他 感染性 疾病 的 抗病毒 化合物 也 在 临床 研究 中 得到 了 重新 利用 。 </seg>
+<seg id="2491"> 今年 3 月 ， <term id="23" type="src_original_and_tgt_original" src="WHO" tgt="WHO"> WHO </term> 在 10 个 国家 发起 了 “ solidarity 试验 ” ， 招募 数千名 COVID - 19 感染者 ， 以 评估 最 有望 发挥作用 的 四种 现有 抗病毒 化合物 的 治疗 效果 。 </seg>
+<seg id="2492"> 2020 年 4 月 ， 一个 系统化 的 动态 审查 机制 建立 ， 旨在 跟踪 COVID - 19 <term id="581" type="src_original_and_tgt_original" src="vaccine" tgt="疫苗"> 疫苗 </term> 和 候选 治疗 药物 的 注册 <term id="366" type="src_lemma_and_tgt_original" src="clinical trial" tgt="试验|临床试验"> 临床试验 </term> 进展 。 疫苗 和 药物 开发 需 经历 很多 步骤 ， 通常 需要 五年 以上 的 时间 才 可 确保 新 的 化合物 安全 有效 。 </seg>
+<seg id="2493"> 药物 开发 是 通过 药物 发现 确定 了 先导 化合物 后 ， 向 市场 推出 新 的 传染病 <term id="581" type="src_original_and_tgt_original" src="vaccine" tgt="疫苗"> 疫苗 </term> 或 治疗 药物 的 过程 。 </seg>
+<seg id="2494"> 其中 包括 对 微生物 和 动物 的 实验室 研究 以及 监管 备案 ， 如 通过 美国食品和药物管理局 ， 以便 开展 新药 在 人体 中 的 临床实验 ， 此外 可能 还 需要 申请 监管 批准 ， 以便 将 新药 推向市场 。 </seg>
+<seg id="2495"> 开发新 COVID - 19 <term id="581" type="src_original_and_tgt_original" src="vaccine" tgt="疫苗"> 疫苗 </term> 或 治疗 性 <term id="365" type="src_original_and_tgt_original" src="antiviral drug" tgt="抗病毒 药物|抗病毒 药"> 抗病毒 药物 </term> 首先 要 将 化学 概念 与 未来 <term id="581" type="src_original_and_tgt_original" src="vaccine" tgt="疫苗"> 疫苗 </term> 或 体内 抗病毒 活性 的 潜在 预防 机制 相匹配 。 </seg>
+<seg id="2496"> 新 化学 实体 （ NCE ， 也 称 新 分子 实体 或 NME ） 是 在 药物 发现 过程 中 生成 的 化合物 ， 用于 确定 <term id="581" type="src_original_and_tgt_original" src="vaccine" tgt="疫苗"> 疫苗 </term> 或 抗病毒 候选 物 。 </seg>
+<seg id="2497"> 这些 化合物 有望 对抗 与 COVID - 19 相关 的 生物 靶标 。 </seg>
+<seg id="2498"> 在 <term id="581" type="src_original_and_tgt_original" src="vaccine" tgt="疫苗"> 疫苗 </term> 或 药物 开发 初期 ， 人们 对 NCE 在 人 体内 的 安全性 、 毒性 、 药代 动力学 和 代谢 知之甚少 。 </seg>
+<seg id="2499"> 药物 开发 需承担 的 职责 和 义务 是 在 进行 人体 临床实验 之前 ， 评估 所有 参数 ， 以 证明 安全性 和 有效性 。 </seg>
+<seg id="2500"> 药物 开发 的 另 一 主要 目标 是 推荐 首次 进行 人体 临床试验 时 的 使用 剂量 和 使用 时间表 （ “ 首次 人体 <term id="366" type="src_original_and_tgt_original" src="clinical trial" tgt="试验|临床试验"> 试验 </term> ” [ FIH ] 或 人体 首次 应用 剂量 [ FHD ] ， 之前 也 称 “ 首次 用于 人体 试验 ” [ FIM ] ） 。 </seg>
+<seg id="2501"> 此外 ， 药物 开发 过程 中 必须 确定 NCE 的 物理化学 特性 ： 化学 组成 、 稳定性 和 溶解性 。 </seg>
+<seg id="2502"> 制造商 必须 优化 这些 化学物质 的 生产 过程 ， 以便 从 药物 化学家 以 毫克 为 单位 的 生产 规模 扩大 到 以 千克 和 吨 为 单位 的 生产 规模 。 </seg>
+<seg id="2503"> 他们 还要 进一步 核实 相应 产品 是否 适合 包装 成 胶囊 、 片剂 、 气雾剂 、 肌肉注射 制剂 、 皮下注射 制剂 或 静脉注射 制剂 。 </seg>
+<seg id="2504"> 这些 过程 在 临床 前 和 临床 开发 中统 称为 化学 、 制造 和 控制 ( CMC ) 。 药品 开发 的 很多 方面 都 集中 在 满足 药品 许可 机构 的 监管 要求 上 。 </seg>
+<seg id="2505"> 这些 实验 通常 用于 在 首次 用于 人体 试验 前 确定 新 化合物 的 毒性 。 </seg>
+<seg id="2506"> 加拿大政府 宣布 拨款 2.75 亿加元 ， 资助 96 个 针对 COVID - 19 的 医学 对策 研究 项目 ， 包括 加拿大 各 大学 的 很多 候选 <term id="307" type="src_original_and_tgt_original" src="vaccines" tgt="疫苗"> 疫苗 </term> ， 同时 计划 就 新 <term id="581" type="src_original_and_tgt_original" src="vaccine" tgt="疫苗"> 疫苗 </term> 建立 “ 疫苗 库 ” ， 为 下 一次 的 <term id="69" type="src_original_and_tgt_original" src="Coronavirus outbreak" tgt="冠状病毒 暴发|冠状病毒 疫情|冠状病毒 爆发|新型 冠状病毒 爆发"> 冠状病毒 爆发 </term> 做 准备 。 </seg>
+<seg id="2507"> <term id="366" type="src_original_and_tgt_original" src="clinical trial" tgt="试验|临床试验"> 临床试验 </term> 项目 涉及 三个 多年 期 产品 批准 阶段 ， 以及 第四个 批准 后 阶段 ， 旨在 持续 监测 <term id="581" type="src_original_and_tgt_original" src="vaccine" tgt="疫苗"> 疫苗 </term> 或 药物 疗法 的 安全性 ： </seg>
+<seg id="2508"> I 期 试验 通常 会 借助 健康 志愿者 来 确定 药物 的 安全性 和 剂量 。 </seg>
+<seg id="2509"> II 期 试验 用于 确定 疗效 的 初始 读数 ， 并 进一步 探索 对于 少数 NCE 目标 人群 的 安全性 。 </seg>
+<seg id="2510"> III 期 试验 是 大规模 关键 试验 ， 用于 确定 对于 大量 COVID - 19 感染者 的 安全性 和 有效性 。 </seg>
+<seg id="2511"> 如果 安全性 和 有效性 得到 了 充分证明 ， 临床试验 到 了 这 一步 便 可 停止 ， 相应 NCE 可 进入 新药 申请 ( NDA ) 阶段 ， 投入 市场 。 </seg>
+<seg id="2512"> IV 期 试验 是 批准 后 试验 ， 可 由 美国食品和药物管理局 附加 实施 ， 也 称 上市 后 监测 研究 。 </seg>
+<seg id="2513"> 除了 首次 将 新 <term id="581" type="src_original_and_tgt_original" src="vaccine" tgt="疫苗"> 疫苗 </term> 或 <term id="365" type="src_original_and_tgt_original" src="antiviral drug" tgt="抗病毒 药物|抗病毒 药"> 抗病毒 药物 </term> 转入 临床 时 所 需 的 试验 外 ， 制造商 还 必须 确保 任何 长期 或 慢性 毒性 已 得到 明确 界定 ， 包括 对 先前 未 监测 的 （ 生育 、 生殖 、 <term id="490" type="src_original_and_tgt_original" src="immune system" tgt="免疫系统"> 免疫系统 </term> 等 ） 系统 的 影响 。 </seg>
+<seg id="2514"> 美国 将 该 过程 称为 “ 新药 申请 ” ， 简称 NDA 。 </seg>
+<seg id="2515"> 如果 <term id="366" type="src_original_and_tgt_original" src="clinical trial" tgt="试验|临床试验"> 试验 </term> 中 积累 的 数据 提供 了 有关 治疗 的 积极 或 消极 效果 的 早期 见解 ， 则 可 将 正在 进行 的 临床试验 设计 修改 为 “ 适应性 设计 ” 。 </seg>
+<seg id="2516"> 针对严重感染 <term id="5" type="src_original_and_tgt_original" src="COVID-19" tgt="新型 冠状病毒 肺炎 ( COVID - 19 ) : 新冠 肺炎 ( COVID - 19 ) : COVID - 19|COVID-19|COVID-1"> COVID-19 </term> 的 住院 患者 的 全球 Solidarity 和 欧洲 Discovery 试验 便 采用 了 适应性 设计 ， 根据 四个 实验 治疗 策略 的 结果 ， 快速 调整 试验 参数 。 </seg>
+<seg id="2517"> 对于 正在 进行 的 II - III 期 候选 疗法 临床实验 ， 适应性 设计 可 缩短 <term id="366" type="src_lemma_and_tgt_original" src="clinical trial" tgt="试验|临床试验"> 试验 </term> 持续时间 ， 减少 受试者 数量 ， 这样 有望 提前 做出 终止 或 成功 决定 ， 并 协调 对 全球 各地 的 特定 试验 进行 设计变更 。 </seg>
+<seg id="2518"> 大部分 新 候选 药物 ( NCE ) 在 开发 过程 中均 会 遭遇 失败 ， 有 的 因为 具有 不可 接受 的 毒性 ， 有 的 因为 完全 无法 证明 对 目标 疾病 有 疗效 ， 这些 情况 在 II - III 期 <term id="366" type="src_lemma_and_tgt_original" src="clinical trial" tgt="试验|临床试验"> 临床试验 </term> 中均 会 显现出来 。 </seg>
+<seg id="2519"> 药物 开发 的 高 失败率 也 称 “ 损耗率 ” ， 要求 在 药物 开发 早期 做出 决定 ， 尽早 “ 终止 ” 项目 ， 以 避免 失败 的 代价 过高 。 </seg>
+<seg id="2520"> 2010 年 的 一项 研究 估计 ， 将 一种 新药 推向市场 的 资本化 成本 和 自付 费用 分别 约 为 18 亿美元 和 8.7 亿美元 。 </seg>
+<seg id="2521"> 2015 - 16 年 10 种 抗癌 药物 的 研发 试验 成本 中位数 为 6.48 亿美元 。 </seg>
+<seg id="2522"> 在 2016 年 对 通过 临床试验 评估 的 106 种 候选 药物 的 审查 中 ， 一家 制造商 成功 通过 III 期 <term id="366" type="src_lemma_and_tgt_original" src="clinical trial" tgt="试验|临床试验"> 试验 </term> 获得 批准 的 药物 的 总 资本 支出 为 26 亿美元 （ 以 2013 年 的 美元 价值 计 ） ， 每年 以 8.5% 的 速度 增长 。 </seg>
+<seg id="2523"> 七项 试验 正在 评估 已 批准 用于 治疗 疟疾 的 再 利用 药物 ， 包括 四项 关于 羟 氯喹 或 磷酸 氯喹 的 研究 。 </seg>
+<seg id="2524"> 中国 大部分 药物 研究 均 涉及 再 利用 其他 <term id="365" type="src_lemma_and_tgt_original" src="antiviral drug" tgt="抗病毒 药物|抗病毒 药"> 抗病毒 药物 </term> ， 预计 到 4 月底 ， 将 有 多个 国家 基于 报告 结果 针对 瑞德 西韦 开展 9 项 III 期 试验 。 </seg>
+<seg id="2525"> 比尔 及梅琳 达 · 盖茨 基金会 牵头 与 多家 合作伙伴 共同 投资 了 1.25 亿美元 ， 并 与 <term id="22" type="src_original_and_tgt_original" src="World Health Organization" tgt="世界卫生组织"> 世界卫生组织 </term> 协调 于 3 月 启动 “ COVID - 19 治疗 加速器 ” ， 协助 药物 开发 研究 人员 快速 识别 、 评估 、 开发 和 扩大 潜在 治疗 方案 。 </seg>
+<seg id="2526"> 此外 还 成立 了 COVID - 19 临床 研究 联盟 ， 以 协调 和 加快 获得 最 有望 用于 感染 后 治疗 的 国际 <term id="366" type="src_lemma_and_tgt_original" src="clinical trial" tgt="试验|临床试验"> 临床试验 </term> 结果 。 </seg>
+<seg id="2527"> 2020 年初 ， 很多 既往 用于 治疗 其他 <term id="345" type="src_lemma_and_tgt_original" src="infection" tgt="传染病|感染"> 传染病 </term> 的 抗病毒 化合物 在 新 的 临床 研究 中 被 重新 设计 或 开发 ， 希望 能 用于 缓解 COVID - 19 症状 。 </seg>
+<seg id="2528"> 对于 已经 获批 的 药物 （ 如 用于 治疗 疟疾 的 羟 氯喹 ） ， 在 针对 数百 至 数千名 COVID - 19 感染者 的 III - IV 期 试验 中 确定 ， 可以 延续 使用 已 获批 的 药物 来 治疗 COVID - 19 <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 。 </seg>
+<seg id="2529"> 截至 2020 年 4 月初 ， 共有 103 种 候选 药物 处于 临床 前 或 I - IV 期 研发 阶段 ， 预计 4 月份 将 获得 29 种 候选 药物 的 试验 结果 。 </seg>
+<seg id="2530"> 今年 3 月 ， <term id="22" type="src_original_and_tgt_original" src="World Health Organization" tgt="世界卫生组织"> 世界卫生组织 </term> ( WTO ) 在 10 个 国家 启动 了 “ Solidarity 试验 ” ， 促进 相互 协调 ， 以便 对 数千名 <term id="5" type="src_original_and_tgt_original" src="COVID-19" tgt="新型 冠状病毒 肺炎 ( COVID - 19 ) : 新冠 肺炎 ( COVID - 19 ) : COVID - 19|COVID-19|COVID-1"> COVID-19 </term> 感染者 进行 快速 评估 ， 了解 尚未 专门 针对 <term id="5" type="src_original_and_tgt_original" src="COVID-19" tgt="新型 冠状病毒 肺炎 ( COVID - 19 ) : 新冠 肺炎 ( COVID - 19 ) : COVID - 19|COVID-19|COVID-1"> COVID-19 </term> 疾病接受 评估 的 现有 抗病毒 和 消炎药 的 潜在 功效 。 </seg>
+<seg id="2531"> 这些 药物 能否 降低 死亡率 ？ </seg>
+<seg id="2532"> 这些 药物 能否 缩短 患者 住院 时间 ？ </seg>
+<seg id="2533"> 这些 治疗 能否 减少 COVID - 19 <term id="266" type="src_original_and_tgt_original" src="pneumonia" tgt="肺炎"> 肺炎 </term> 患者 使用 呼吸机 或 进入 重症 监护室 维持 生命 的 需求 ？ </seg>
+<seg id="2534"> 这种 药物 能否 最大 限度 减少 医务人员 <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> COVID - 19 的 几率 并 减少 高风险 人群 发展 成 重症 患者 的 情况 ？ 在 <term id="23" type="src_original_and_tgt_original" src="WHO" tgt="WHO"> WHO </term> 网站 上 只 需 输入 包括 知情 同意 在内 的 数据 ， 即可 登记 COVID - 19 感染者 。 </seg>
+<seg id="2535"> 试验 人员 确定 医院 可 提供 的 药物 后 ， <term id="23" type="src_original_and_tgt_original" src="WHO" tgt="WHO"> WHO </term> 网站 将 为 住院 受试者 随机 分配 一种 试验 药物 或 安排 其 接受 针对 COVID - 19 的 护理 标准 。 </seg>
+<seg id="2536"> 试验 医生 会 记录 并 提交 有关 受试者 状态 和 治疗 情况 的 随访 信息 ， 通过 <term id="23" type="src_original_and_tgt_original" src="WHO" tgt="WHO"> WHO </term> Solidarity 网站 完成 数据 输入 。 </seg>
+<seg id="2537"> 由 <term id="23" type="src_original_and_tgt_original" src="WHO" tgt="WHO"> WHO </term> 医师 组成 的 全球 安全 监测 委员会 负责 审查 中期 结果 ， 以 协助 决定 试验 药物 的 安全性 和 有效性 ， 调整 试验 设计 或 推荐 有效 的 治疗 方法 。 </seg>
+<seg id="2538"> 今年 3 月 ， INSERM （ 法国巴黎 ） 在 七个 国家 发起 了 一项 类似 于 “ Solidarity ” 的 网络 调查 ， 命名 为 “ Discovery ” 。 3 月 ， Solidarity 试验 共 获得 来自 203 , 000 个 组织 、 个人 和 政府 的 1.08 亿美元 捐款 ， 共有 45 个 国家 参与 了 捐款 或 试验 管理 。 </seg>
+<seg id="2539"> 很多 候选 药物 ， 如 非甾体 抗炎药 或 支气管 扩张剂 ， 也 作为 缓解 <term id="229" type="src_original_and_tgt_original" src="illness" tgt="疾病|症|病"> 疾病 </term> 不适 的 “ <term id="379" type="src_original_and_tgt_original" src="supportive" tgt="支持|支持性"> 支持性 </term> ” 治疗 药物 纳入 到 研究 当中 ， 不 包含 在 下表中 。 </seg>
+<seg id="2540"> 早期 II 期 试验 的 其他 药物 或 I 期 试验 中 的 大量 候选 药物 也 不 在 列 。 </seg>
+<seg id="2541"> I - II 期 试验 中 的 候选 药物 通过 所有 试验 阶段 并 获得 最终 批准 的 成功率 很 低 （ 不到 12% ） 。 </seg>
+<seg id="2542"> 在 美国 ， 羟 氯喹 比 氯喹 更 常见 。 </seg>
+<seg id="2543"> 尽管 一些 国家 会 使用 氯喹 或 羟 氯喹 来 治疗 COVID - 19 患者 ， 但 截至 2020 年 3 月 ， 这 两种 药 尚未 获得 美国 <term id="366" type="src_lemma_and_tgt_original" src="clinical trial" tgt="试验|临床试验"> 临床试验 </term> 的 正式 批准 。 </seg>
+<seg id="2544"> 中国 、 韩国 和 意大利 卫生机构 已 推荐 使用 氯喹 来 治疗 COVID - 19 患者 ， 不过 这些 机构 和 <term id="4" type="src_original_and_tgt_original" src="CDC" tgt="CDC|美国 疾病 预防 与 控制中心|美国 疾控中心 ( CDC )"> 美国 疾病 预防 与 控制中心 </term> 均 指出 心脏病 或 <term id="452" type="src_original_and_tgt_original" src="diabetes" tgt="糖尿病"> 糖尿病 </term> 患者 不宜 使用 。 </seg>
+<seg id="2545"> 这 两种 药 与 大量 处方药 会 发生 相互作用 ， 从而 影响 治疗 剂量 和 疾病 缓解 效果 。 </seg>
+<seg id="2546"> 有些 人 对 这些 药物 有 过敏反应 。 4 月 12 日 ， 巴西 一家 医院 进行 的 一项 初步 <term id="366" type="src_original_and_tgt_original" src="clinical trial" tgt="试验|临床试验"> 临床试验 </term> 被迫 停止 ， 因为 多人 因感染 <term id="5" type="src_original_and_tgt_original" src="COVID-19" tgt="新型 冠状病毒 肺炎 ( COVID - 19 ) : 新冠 肺炎 ( COVID - 19 ) : COVID - 19|COVID-19|COVID-1"> COVID-19 </term> 而过量 服用 氯喹 导致 心律不齐 ， 最终 造成 11 人 <term id="18" type="src_original_and_tgt_original" src="deaths" tgt="死亡 人数|例 死亡|死亡 病例|死亡|例 确诊 死亡|人 死亡|死亡 17 例|死亡 约 9.7 万人|死亡数|死亡 15 , 887 例|病例 死亡"> 死亡 </term> 。 </seg>
+<seg id="2547"> 中国 在 <term id="376" type="src_original_and_tgt_original" src="Wuhan" tgt="武汉市|武汉"> 武汉 </term> 和 深圳 的 <term id="366" type="src_lemma_and_tgt_original" src="clinical trial" tgt="试验|临床试验"> 临床试验 </term> 表明 ， 法匹拉韦 “ 效果 明显 ” 。 </seg>
+<seg id="2548"> 在 深圳 35 位 患者 中 ， 平均 服药 4 天可 检测 为 阴性 ， 而 在 45 名未 服用 该药 的 患者 中 ， 患病 11 天后 才 会 检测 为 阴性 。 </seg>
+<seg id="2549"> 在 <term id="376" type="src_original_and_tgt_original" src="Wuhan" tgt="武汉市|武汉"> 武汉 </term> 对 240 名 <term id="266" type="src_original_and_tgt_original" src="pneumonia" tgt="肺炎"> 肺炎 </term> 患者 进行 的 研究 中 ， 一半 服用 了 法匹拉韦 ， 一半 服用 了 盐酸 阿比 朵尔 。 </seg>
+<seg id="2550"> “ 临床 前 研究 ” 一词 通过 体外 和 体内 实验室 研究 定义 ， 代表 <term id="581" type="src_original_and_tgt_original" src="vaccine" tgt="疫苗"> 疫苗 </term> 、 抗病毒 或 单克隆 抗体 疗法 的 起始 阶段 ， 例如 通过 实验 确定 有效 剂量 和 毒性 ， 然后 才能 在 人体 中 开展 候选 化合物 的 安全性 和 功效 评估 。 </seg>
+<seg id="2551"> 一些 抗生素 可能 也 可 用于 治疗 COVID - 19 ： </seg>
+<seg id="2552"> 2020 年 3 月 ， 确定 将 <term id="287" type="src_original_and_tgt_original" src="SARS-CoV-2" tgt="SARS - CoV - 2|非典型 肺炎 冠状病毒 2 型 （ SARS - CoV - 2 ）"> SARS - CoV - 2 </term> <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 的 主要 蛋白酶 作为 感染 后 的 药物 攻击 目标 。 </seg>
+<seg id="2553"> 这种 酶 是 宿主 细胞 复制 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 核糖核酸 的 必要条件 。 </seg>
+<seg id="2554"> 为 找到 这种 酶 ， 科学家 们 利用 中国 研究 人员 在 2020 年 1 月 公布 的 基因组 来 分离 该 主要 蛋白酶 。 </seg>
+<seg id="2555"> 作为 一种 潜在 联合 疗法 ， 在 2020 年 针对 COVID - 19 的 全球 Solidarity 项目 中 ， 它们 一同 接受 了 两项 III 期 试验 。 </seg>
+<seg id="2556"> 一项 在 中国 进行 的 联合 使用 洛匹 那 韦 与 利托 那 韦 的 初步 研究 发现 ， 它们 对 COVID - 19 住院 患者 没有 效果 。 </seg>
+</p>
+</doc>
+<doc sysid="ref" docid="wiki_29" genre="terminology" origlang="en">
+<p>
+<seg id="2602"> 目前 尚 不 清楚 作为 非 妊娠 人群 额外 风险 因素 的 妊娠 期间 出现 的 疾病 （ 包括 <term id="452" type="src_original_and_tgt_original" src="diabetes" tgt="糖尿病"> 糖尿病 </term> 、 心力衰竭 、 血液 高凝 状态 或 高血压 ） 是否是 妊娠 人群 的 额外 危险 因素 。 从 现有 的 有限 数据 来看 ， 在 妊娠 晚期 可能 不会 发生 垂直 <term id="17" type="src_original_and_tgt_original" src="transmission" tgt="传播|传|传染"> 传播 </term> ， 或者 发生率 极低 。 </seg>
+<seg id="2603"> 尚无 关于 妊娠 早期 的 数据 。 </seg>
+<seg id="2604"> 几乎 没有 证据 可以 得出 关于 妊娠 期间 COVID - 19 <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 性质 的 可靠 结论 。 </seg>
+<seg id="2605"> 一项 对 43 名 COVID - 19 检测 阳性 的 纽约 女性 病例 系列 研究 的 结果显示 与非 妊娠 成年人 的 模式 相似 ： 86% 为 轻型 疾病 ， 9.3% 为 重型 疾病 ， 4.7% 为 危重 型 疾病 。 </seg>
+<seg id="2606"> 报告 两例 出现 胎儿 宫内 窘迫 。 </seg>
+<seg id="2607"> 未 出现 严重 COVID - 19 <term id="266" type="src_original_and_tgt_original" src="pneumonia" tgt="肺炎"> 肺炎 </term> 或 死亡 病例 。 </seg>
+<seg id="2608"> 所有 病例 均 为 活产 妊娠 ， 未 观察 到 严重 新生儿 窒息 。 </seg>
+<seg id="2609"> 对 母乳 、 羊水 、 脐带血 和 新生儿 咽拭 子样本 进行 了 <term id="287" type="src_original_and_tgt_original" src="SARS-CoV-2" tgt="SARS - CoV - 2|非典型 肺炎 冠状病毒 2 型 （ SARS - CoV - 2 ）"> SARS - CoV - 2 </term> 检测 ， 所有 结果 均 为 阴性 。 在 另 一项 针对 15 名 孕妇 进行 的 研究 中 ， 大多数 患者 表现 为 <term id="213" type="src_original_and_tgt_original" src="fever" tgt="发热|热"> 发热 </term> 和 <term id="436" type="src_original_and_tgt_original" src="cough" tgt="咳嗽"> 咳嗽 </term> ， 实验室 检测 显示 12 例 患者 出现 淋巴细胞 减少 症 。 </seg>
+<seg id="2610"> 这些 患者 的 计算机断层扫描 结果 与 先前 非 妊娠 患者 的 报告 一致 ， 包括 早期 磨 玻璃 影 。 </seg>
+<seg id="2611"> 分娩 后 的 随访 图像 未 显示 肺炎 进展 。 媒体报道 表明 ， 在 2020 年 3 月 可能 有 100 多名 患有 COVID - 19 的 女性 分娩 ， 没有 孕妇 <term id="18" type="src_original_and_tgt_original" src="deaths" tgt="死亡 人数|例 死亡|死亡 病例|死亡|例 确诊 死亡|人 死亡|死亡 17 例|死亡 约 9.7 万人|死亡数|死亡 15 , 887 例|病例 死亡"> 死亡 </term> 的 报告 。 </seg>
+<seg id="2612"> 因此 ， 孕妇 指南 建议 入院 时 存在 COVID - 19 <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 的 所有 孕妇 在 出院 后 都 应 接受 至少 10 天 的 预防性 低 分子 肝素 治疗 。 </seg>
+<seg id="2613"> 尚无 有关 COVID - 19 <term id="345" type="src_lemma_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 对 分娩 影响 的 数据 。 </seg>
+<seg id="2614"> 一名 <term id="230" type="src_original_and_tgt_original" src="infected" tgt="已 感染|感染|被 感染|受到感染 的|受 感染"> 感染 </term> COVID - 19 的 母亲 分娩 的 女婴 在 出生 后 两 小时 IgM 水平 升高 ， 表明 女婴 在 子宫 内 已经 发生 感染 ， 从而 支持 在 某些 情况 下 发生 垂直 <term id="17" type="src_original_and_tgt_original" src="transmission" tgt="传播|传|传染"> 传播 </term> 的 可能性 。 </seg>
+<seg id="2615"> 一项 包括 6 名 已 确诊 COVID - 19 孕妇 的 小 样本 研究 显示 ， 新生儿 的 咽 拭子 或 血清 样本 中 没有 SARS - COV - 19 的 迹象 ， 但 在 新生儿 血清 样本 中 发现 了 抗体 ， 包括 在 两名 婴儿 中 发现 的 IgM 。 </seg>
+<seg id="2616"> 通常 不会 发生 母婴 传播 ， 因此 需要 进一步 研究 以 了解 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 是否 会 穿过 胎盘 ， 或者 该 研究 中 的 孕妇 是否 存在 胎盘 损伤 或 异常 。 </seg>
+<seg id="2617"> 由于 COVID - 19 显示 了 与 SARS - CoV 以及 MERS - CoV 具有 相似性 ， 因此 它们 对 妊娠 的 影响 可能 相似 。 </seg>
+<seg id="2618"> 4 / 7 出现 妊娠 早期 流产 ， 2 / 5 出现 妊娠 中期 胎儿 生长 受限 ， 4 / 5 出现 早产 。 </seg>
+<seg id="2619"> 所有 新生儿 均 未感染 SARS - CoV 。 </seg>
+<seg id="2620"> 来自 沙特阿拉伯 的 一项 报告 显示 ， 10 名 在 妊娠 期间 <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> MERS - CoV 的 孕妇 临床表现 各异 ， 包括 轻度 和 重度 <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 。 </seg>
+<seg id="2621"> 大多数 病例 结局 良好 ， 但 婴儿 <term id="447" type="src_original_and_tgt_original" src="death rate" tgt="死亡率"> 死亡率 </term> 为 27% 。 最近 的 评论 表明 ， COVID - 19 对 孕妇 和 婴儿 的 致死 性 似乎 低于 <term id="351" type="src_original_and_tgt_original" src="SARS" tgt="SARS|SAR|非典|非典型 肺炎 （ SARS ）"> SARS </term> 和 MERS ， 但 妊娠 28 周后 发生 早产 的 风险 可能 增加 。 </seg>
+<seg id="2622"> <term id="22" type="src_original_and_tgt_original" src="World Health Organization" tgt="世界卫生组织"> 世界卫生组织 </term> 和 美国 疾病 预防 控制中心 建议 孕妇 采取 与 普通 大众 相同 的 措施 来 避免 <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> ， 例如 遮挡 <term id="436" type="src_original_and_tgt_original" src="cough" tgt="咳嗽"> 咳嗽 </term> 、 避免 与 患者 互动 、 使用 肥皂 和 水 或 清洁剂 洗手 。 </seg>
+<seg id="2623"> 上海 对 不同 孕期 的 孕妇 进行 的 一项 调查 发现 了 对 在线 获取 健康 信息 和 服务 的 强烈 需求 。 </seg>
+<seg id="2624"> 与 以前 生 过 孩子 的 孕妇 相比 ， 头胎 孕妇 更 愿意 接受 在线 咨询 和 指导 。 RCOG 和 RCM 建议 在 出现 COVID - 19 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 后 将 现场 预约 推迟 7 天 ， 如果 家庭 中有 其他人 出现 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> ， 则 推迟 14 天 。 </seg>
+<seg id="2625"> 三名 <term id="398" type="src_original_and_tgt_original" src="asymptomatic" tgt="未 表现 出 任何 症状|无症状"> 无症状 </term> 患者 随后 出现 <term id="213" type="src_original_and_tgt_original" src="fever" tgt="发热|热"> 发热 </term> 。 </seg>
+<seg id="2626"> 一名 检测 结果 为 阴性 的 患者 在 产后 <term id="335" type="src_original_and_tgt_original" src="symptomatic" tgt="有 症状|出现 症状|症状|有 症状 的"> 出现 症状 </term> ， 并且 在 初次 检测 阴性 后 三天 的 检测 结果 为 阳性 。 </seg>
+<seg id="2627"> 进行 筛查 的 医生 建议 ， 由于 大量 患者 表现 为 <term id="398" type="src_original_and_tgt_original" src="asymptomatic" tgt="未 表现 出 任何 症状|无症状"> 无症状 </term> ， 为了 减少 <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 和 分配 PPE ， 应该 对 孕妇 进行 普查 。 </seg>
+<seg id="2628"> 他们 还 建议 疑似 或 确诊 COVID - 19 的 孕妇 应 进行 持续 的 电子 胎儿 监护 。 </seg>
+<seg id="2629"> 由于 存在 通过 粪便 <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 的 风险 ， 不 建议 COVID - 19 的 疑似 或 <term id="3" type="src_original_and_tgt_original" src="confirmed cases" tgt="确诊 病例|确诊 的 COVID-19 感染 病例|确诊 COVID-19 病例|确诊 的 16 例 病例"> 确诊 病例 </term> 使用 分娩 池 。 </seg>
+<seg id="2630"> 英国 官方 建议 指出 ， 不 应 轻率地 对 母亲 和 健康 的 婴儿 进行 <term id="389" type="src_original_and_tgt_original" src="precautionary" tgt="预防|预防性"> 预防性 </term> 隔离 ， 在 不 需要 新生儿 护理 的 情况 下 ， 她们 应该 在 产后 期待 在 一起 。 来自 中国 的 文献 建议 将 <term id="230" type="src_original_and_tgt_original" src="infected" tgt="已 感染|感染|被 感染|受到感染 的|受 感染"> 受到感染 的 </term> 母亲 与 婴儿 隔离 14 天 。 </seg>
+<seg id="2631"> 美国 也 建议 ， 在 停止 <term id="269" type="src_original_and_tgt_original" src="precautions" tgt="预防措施|预防 传播 的 措施"> 预防 传播 的 措施 </term> 之前 ， 新生儿 和 母亲 应 暂时 隔离 ； 如果 无法 做到 ， 新生儿 应 与 母亲 保持 2 米 的 距 </seg>
+</p>
+</doc>
+<doc sysid="ref" docid="wiki_11" genre="terminology" origlang="en">
+<p>
+<seg id="2632"> COVID - 19 监测 包括 监测 <term id="57" type="src_original_and_tgt_original" src="Coronavirus disease" tgt="冠状病毒 病|冠状病毒 疾病|新型 冠状病毒 疾病"> 冠状病毒 病 </term> 的 <term id="20" type="src_original_and_tgt_original" src="spread" tgt="扩散|传播|扩散 蔓延"> 传播 </term> ， 以便 确定 疾病 进展 的 模式 。 </seg>
+<seg id="2633"> <term id="22" type="src_original_and_tgt_original" src="World Health Organization" tgt="世界卫生组织"> 世界卫生组织 </term> ( World Health Organization , <term id="23" type="src_original_and_tgt_original" src="WHO" tgt="WHO"> WHO </term> ) 建议 进行 主动 监测 ， 重点 是 在 所有 <term id="17" type="src_original_and_tgt_original" src="transmission" tgt="传播|传|传染"> 传播 </term> 场景 下 进行 病例 搜索 、 检测 以及 接触 者 追踪 。 </seg>
+<seg id="2634"> 预计 COVID - 19 监测 将 监控 流行病学 趋势 ， 迅速 发现 新 病例 ， 并 基于 此 信息 提供 流行病学 信息 ， 以 进行 风险 评估 和 指导 疾病 <term id="364" type="src_original_and_tgt_original" src="preparedness" tgt="预防|做好 更 充分 的 准备|做好 准备"> 预防 </term> 。 </seg>
+<seg id="2635"> 根据 符合 COVID - 19 的 个体 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 进行 症状 监测 。 </seg>
+<seg id="2636"> 截至 2020 年 3 月 ， <term id="23" type="src_original_and_tgt_original" src="WHO" tgt="WHO"> WHO </term> 建议 使用 以下 病例 定义 ： </seg>
+<seg id="2637"> 疑似病例 ： “ COVID - 19 病毒检测 结果 不 明确 的 可疑 病例 ” 或 “ 由于 任何 原因 无法 进行 检测 的 可疑 病例 ” 。 </seg>
+<seg id="2638"> 确诊 病例 ： “ 经 实验室 检测 确认 为 COVID - 19 感染者 ， 不论 是否 有 临床 体征 和 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> ” 。 </seg>
+<seg id="2639"> 与 疑似 或 确诊 病例 有过 直接 <term id="528" type="src_original_and_tgt_original" src="physical contact" tgt="身体 接触"> 身体 接触 </term> ； </seg>
+<seg id="2640"> 在 未 使用 合适 <term id="350" type="src_original_and_tgt_original" src="personal protective equipment" tgt="个人 防护 设备|个人 防护 装备"> 个人 防护 装备 </term> 的 情况 下 ， 直接 护理 疑似 或 确诊 的 COVID - 19 疾病 病例 ； </seg>
+<seg id="2641"> 当地 风险 评估 提示 的 其他 情形 ” 。 WHO 建议 在 发现 后 48 小时 内 报告 疑似 和 确诊 的 COVID - 19 <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 病例 。 </seg>
+<seg id="2642"> 各国 应 尽可能 逐例 报告 ， 但 在 资源 有限 的 情况 下 ， 也 可以 每周 汇总 报告 。 </seg>
+<seg id="2643"> 一些 组织 已经 创建 了 用于 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 监测 的 众包 手机 应用程序 ， 人们 可以 使用 它 报告 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> ， 以 帮助 研究 人员 绘制 COVID - 19 症状 集中 区域 的 地图 。 </seg>
+<seg id="2644"> 通过 COVID - 19 分子 检测 完成 病毒学 监测 。 </seg>
+<seg id="2645"> who 已经 为 实验室 发布 了 有关 如何 进行 COVID - 19 检测 的 资源 。 </seg>
+<seg id="2646"> 欧盟 要求 在 发现 后 24 小时 内 报告 经 实验室 检测 确诊 的 COVID - 19 病例 。 </seg>
+<seg id="2647"> 至少 有 24 个 国家 对 其 公民 开展 了 数字化 监测 。 </seg>
+<seg id="2648"> 数字化 监测技术 包括 手机 应用程序 、 位置 数据 和 电子标签 。 </seg>
+<seg id="2649"> 美国 疾病 预防 控制中心 使用 航空 旅客 数据 跟踪 个人 旅行 信息 。 </seg>
+<seg id="2650"> 香港 的 有关 部门 要求 所有 游客 都 佩戴 手环 并 安装 相应 手机 应用程序 。 </seg>
+<seg id="2651"> 韩国 使用 GPS 应用程序 跟踪 个人 位置 以 确保 不 违反 <term id="14" type="src_original_and_tgt_original" src="quarantine" tgt="隔离|检疫"> 隔离 </term> 规定 ， 如果 有人 离开 指定 区域 ， 程序 会 向 该 用户 和 有关 部门 发送 警报 。 </seg>
+<seg id="2652"> 新加坡 的 人员 必须 使用 照片 证据 报告 其 位置 。 </seg>
+<seg id="2653"> 泰国 利用 手机 应用程序 和 SIM 卡对 所有 游客 实施 <term id="14" type="src_original_and_tgt_original" src="quarantine" tgt="隔离|检疫"> 隔离 </term> 。 </seg>
+<seg id="2654"> 人权 组织 已经 批评 了 其中 一些 措施 ， 反对 政府 以 <term id="261" type="src_original_and_tgt_original" src="pandemic" tgt="大 流行|疫情|大 流行病|大规模 流行|全球 大 流行|流行病"> 疫情 </term> 为 借口 引入 侵入 性 数字化 监测 手段 。 </seg>
+</p>
+</doc>
+<doc sysid="ref" docid="wiki_5" genre="terminology" origlang="en">
+<p>
+<seg id="2716"> 冠状病毒 是 引起 哺乳动物 和 鸟类 疾病 的 一组 相关 病毒 。 </seg>
+<seg id="2717"> 在 人类 中 ， 这些 病毒 会 引起 <term id="330" type="src_original_and_tgt_original" src="respiratory" tgt="呼吸道|呼吸系统|呼吸"> 呼吸道 </term> <term id="345" type="src_lemma_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> ， 程度 从 轻微 到 致命 不 等 。 </seg>
+<seg id="2718"> 轻微 <term id="229" type="src_lemma_and_tgt_original" src="illness" tgt="疾病|症|病"> 疾病 </term> 包括 一些 <term id="369" type="src_original_and_tgt_original" src="common cold" tgt="普通 的 感冒|普通 感冒"> 普通 的 感冒 </term> （ 也 可能 由 某些 其他 病毒 引起 ， 主要 是 鼻 病毒 ） ， 更具 致死 性 的 病毒 变种 可 导致 <term id="351" type="src_original_and_tgt_original" src="SARS" tgt="SARS|SAR|非典|非典型 肺炎 （ SARS ）"> SARS </term> 、 MERS 和 COVID - 19 。 </seg>
+<seg id="2719"> 其他 物种 的 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 各不相同 ： 在 鸡 中 ， 会 引起 上呼吸道 疾病 ， 而 在 牛 和 猪 中 ， 则 会 导致 腹泻 。 </seg>
+<seg id="2720"> 目前 尚无 预防 或 治疗 人 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> <term id="345" type="src_lemma_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 的 <term id="307" type="src_original_and_tgt_original" src="vaccines" tgt="疫苗"> 疫苗 </term> 或 <term id="365" type="src_lemma_and_tgt_original" src="antiviral drug" tgt="抗病毒 药物|抗病毒 药"> 抗病毒 药物 </term> 。 </seg>
+<seg id="2721"> 冠状病毒 属于 核糖 病毒 域 、 套式 病毒 目 、 冠状病毒 科 的 正 冠状病毒 亚科 。 </seg>
+<seg id="2722"> 它们 是 具有 阳性 单链 <term id="367" type="src_original_and_tgt_original" src="RNA" tgt="RNA|核酸|核糖核酸 （ RNA ）"> RNA </term> 基因组 和 螺旋 对称核 衣壳 的 包膜 病毒 。 </seg>
+<seg id="2723"> 冠状病毒 的 基因组 大小 约 在 2.6 到 3.2 万个 碱基 之间 ， 是 <term id="367" type="src_original_and_tgt_original" src="RNA" tgt="RNA|核酸|核糖核酸 （ RNA ）"> RNA </term> 病毒 中 最大 的 。 </seg>
+<seg id="2724"> 它们 的 <term id="565" type="src_original_and_tgt_original" src="surface" tgt="表面"> 表面 </term> 有 独特 的 棒状 突起 ， 在 电子 显微照片 中 ， 这种 突起 形成 的 图像 使人 联想 到 日冕 ， 并 由此 得名 。 </seg>
+<seg id="2725"> 冠状病毒 于 20 世纪 30 年代 首次 被 发现 ， 当时 证明 家禽 的 急性 <term id="330" type="src_original_and_tgt_original" src="respiratory" tgt="呼吸道|呼吸系统|呼吸"> 呼吸道 </term> <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 是 由 <term id="329" type="src_original_and_tgt_original" src="infectious" tgt="传染性|传染|感染|感染性"> 传染性 </term> 支气管炎 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> ( IBV ) 引起 的 。 </seg>
+<seg id="2726"> 20 世纪 40 年代 ， 另外 两种 动物 冠状病毒 ， 鼠 肝炎 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> ( MHV ) 和 猪 <term id="370" type="src_original_and_tgt_original" src="transmissible" tgt="传染性|可 传染"> 传染性 </term> <term id="371" type="src_original_and_tgt_original" src="gastroenteritis" tgt="胃肠炎|肠胃炎"> 胃肠炎 </term> <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> ( TGEV ) 被 分离出来 。 人 冠状病毒 在 20 世纪 60 年代 被 发现 。 </seg>
+<seg id="2727"> 最早 的 研究 对象 是 来自 <term id="369" type="src_original_and_tgt_original" src="common cold" tgt="普通 的 感冒|普通 感冒"> 普通 感冒 </term> 患者 的 病毒 ， 这些 病毒 后来 被 命名 为 人 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 229E 和 人 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> OC43 。 </seg>
+<seg id="2728"> 伦敦 圣托马斯 医院 的 苏格兰 病毒学家 June Almeida 首次 对 其 进行 成像 。 </seg>
+<seg id="2729"> 此后 ， 其他人 冠状病毒 也 相继 被 确认 ， 包括 2003 年 的 SARS - CoV 、 2004 年 的 HCoV NL63 、 2005 年 的 HKU1 、 2012 年 的 MERS - CoV 和 2019 年 的 <term id="287" type="src_original_and_tgt_original" src="SARS-CoV-2" tgt="SARS - CoV - 2|非典型 肺炎 冠状病毒 2 型 （ SARS - CoV - 2 ）"> SARS - CoV - 2 </term> 。 </seg>
+<seg id="2730"> 其中 大多数 涉及 严重 的 <term id="330" type="src_original_and_tgt_original" src="respiratory" tgt="呼吸道|呼吸系统|呼吸"> 呼吸道 </term> <term id="345" type="src_lemma_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 。 </seg>
+<seg id="2731"> 1968 年 ， 一个 非正式 的 病毒学家 小组 在 《 自然 》 杂志 上 首次 使用 该 名称 来 命名 新 的 病毒 家族 。 </seg>
+<seg id="2732"> 该 名称 指 的 是 通过 电子显微镜 观察 到 的 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 粒子 （ 病毒 的 传染 形式 ） 的 特征 外观 ， 病毒 粒子 的 边缘 带有 较大 的 球状 <term id="565" type="src_original_and_tgt_original" src="surface" tgt="表面"> 表面 </term> 突起 ， 其 产生 的 图像 让 人 联想起 皇冠 或 日冕 。 </seg>
+<seg id="2733"> 这种 形态 是 由 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 刺突 形成 的 ， 它们 是 病毒 <term id="565" type="src_original_and_tgt_original" src="surface" tgt="表面"> 表面 </term> 的 蛋白质 。 </seg>
+<seg id="2734"> 冠状病毒 是 具有 球状 <term id="565" type="src_original_and_tgt_original" src="surface" tgt="表面"> 表面 </term> 突起 的 大型 多形性 球形 颗粒 。 </seg>
+<seg id="2735"> 电子 显微照片 中 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 的 包膜 显示 为 一对 独特 的 电子 致密 壳 。 病毒 包膜 由脂质 双层 组成 ， 膜 ( M ) 、 包膜 ( E ) 和 棘突 ( S ) 结构 蛋白 锚定 在 其中 。 </seg>
+<seg id="2736"> 当 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 位于 宿主 细胞 之外 时 ， 脂质 双层 膜 、 膜蛋白 和 核 衣壳 可以 保护 病毒 。 </seg>
+<seg id="2737"> 冠状病毒 包含 正义 的 单链 <term id="367" type="src_original_and_tgt_original" src="RNA" tgt="RNA|核酸|核糖核酸 （ RNA ）"> RNA </term> 基因组 。 </seg>
+<seg id="2738"> 冠状病毒 的 基因组 大小 约 为 2.64 至 3.17 万个 碱基 。 </seg>
+<seg id="2739"> 其 基因组 大小 是 <term id="367" type="src_original_and_tgt_original" src="RNA" tgt="RNA|核酸|核糖核酸 （ RNA ）"> RNA </term> 病毒 中 最大 的 。 </seg>
+<seg id="2740"> 占据 基因组 前 三分之二 的 开放 阅读 框 1a 和 1b 编码 复制 酶 / 转录 酶 多蛋白 。 </seg>
+<seg id="2741"> 复制 酶 / 转录 酶 多蛋白 自身 裂解 形成 非 结构 蛋白 。 后面 的 阅读 框 编码 四种 主要 的 结构 蛋白 ： 棘突 、 包膜 、 膜 和 核 衣壳 。 </seg>
+<seg id="2742"> 在 这些 阅读 框 之间 散布 着 辅助蛋白 的 阅读 框 。 </seg>
+<seg id="2743"> 辅助蛋白 的 数量 及其 功能 取决于 特定 的 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 。 </seg>
+<seg id="2744"> 病毒 棘突 ( S ) 糖蛋白 附着 在 其 互补 宿主 细胞 受体 后 开始 <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 。 </seg>
+<seg id="2745"> 附着 后 ， 宿主 细胞 的 蛋白酶 裂解 并 激活 受体 附着 的 棘突 蛋白 。 </seg>
+<seg id="2746"> 根据 可用 的 宿主 细胞 蛋白酶 ， 裂解 和 激活 允许 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 通过 内吞 作用 或 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 包膜 与 宿主 膜 的 直接 融合 进入 宿主 细胞 。 进入 宿主 细胞 后 ， 病毒 颗粒 没有 被 包裹 ， 其 基因组 进入 细胞质 。 </seg>
+<seg id="2747"> 宿主 核糖体 翻译 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 基因组 最初 重叠 的 开放 阅读 框 并 形成 长 的 多聚 蛋白 。 </seg>
+<seg id="2748"> 这种 多聚 蛋白 有 自己 的 蛋白酶 ， 它 可以 将 多聚 蛋白 裂解 成 多个 非 结构 蛋白 。 </seg>
+<seg id="2749"> 许多 非 结构 蛋白 结合 形成 多蛋白 复制 酶 - 转录 酶 复合体 ( RTC ) 。 </seg>
+<seg id="2750"> 主要 的 复制 酶 - 转录 酶 蛋白 是 <term id="367" type="src_original_and_tgt_original" src="RNA" tgt="RNA|核酸|核糖核酸 （ RNA ）"> RNA </term> 依赖性 RNA 聚合酶 ( RdRp ) 。 </seg>
+<seg id="2751"> 它 直接参与 <term id="367" type="src_original_and_tgt_original" src="RNA" tgt="RNA|核酸|核糖核酸 （ RNA ）"> RNA </term> 链中 <term id="367" type="src_original_and_tgt_original" src="RNA" tgt="RNA|核酸|核糖核酸 （ RNA ）"> RNA </term> 的 复制 和 转录 。 </seg>
+<seg id="2752"> 复合体 中 的 其他 非 结构 蛋白 协助 完成 复制 和 转录 过程 。 </seg>
+<seg id="2753"> 例如 ， 核糖核酸 外切 酶 非 结构 蛋白 通过 提供 <term id="367" type="src_original_and_tgt_original" src="RNA" tgt="RNA|核酸|核糖核酸 （ RNA ）"> RNA </term> 依赖性 RNA 聚合酶 所 缺乏 的 校对 功能 ， 为 复制 提供 了 额外 的 保真度 。 该 复合体 的 主要 功能 之一 是 复制 病毒 基因组 。 </seg>
+<seg id="2754"> RdRp 直接 介导 正义 基因组 <term id="367" type="src_original_and_tgt_original" src="RNA" tgt="RNA|核酸|核糖核酸 （ RNA ）"> RNA </term> 合成 反义基因 组 <term id="367" type="src_original_and_tgt_original" src="RNA" tgt="RNA|核酸|核糖核酸 （ RNA ）"> RNA </term> 。 </seg>
+<seg id="2755"> 接下来 是从 反义基因 组 <term id="367" type="src_original_and_tgt_original" src="RNA" tgt="RNA|核酸|核糖核酸 （ RNA ）"> RNA </term> 复制 正义 基因组 <term id="367" type="src_original_and_tgt_original" src="RNA" tgt="RNA|核酸|核糖核酸 （ RNA ）"> RNA </term> 。 </seg>
+<seg id="2756"> 该 复合体 的 另 一个 重要 功能 是 转录 病毒 基因组 。 </seg>
+<seg id="2757"> RdRp 直接 介导 正义 基因组 <term id="367" type="src_original_and_tgt_original" src="RNA" tgt="RNA|核酸|核糖核酸 （ RNA ）"> RNA </term> 合成 反义 亚 基因组 <term id="367" type="src_original_and_tgt_original" src="RNA" tgt="RNA|核酸|核糖核酸 （ RNA ）"> RNA </term> 分子 。 </seg>
+<seg id="2758"> 随后 ， 这些 反义 亚 基因组 <term id="367" type="src_original_and_tgt_original" src="RNA" tgt="RNA|核酸|核糖核酸 （ RNA ）"> RNA </term> 分子 转录 为 其 相应 的 正义 mRNA 。 </seg>
+<seg id="2759"> 复制 的 正义 基因组 <term id="367" type="src_original_and_tgt_original" src="RNA" tgt="RNA|核酸|核糖核酸 （ RNA ）"> RNA </term> 成为 子代病毒 的 基因组 。 </seg>
+<seg id="2760"> mRNA 是 最初 重叠 阅读 框后 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 基因组 最后 三分之一 的 基因 转录 本 。 </seg>
+<seg id="2761"> 这些 mRNA 被 宿主 的 核糖体 翻译成 结构 蛋白 和 若干 辅助蛋白 。 </seg>
+<seg id="2762"> <term id="367" type="src_original_and_tgt_original" src="RNA" tgt="RNA|核酸|核糖核酸 （ RNA ）"> RNA </term> 翻译 发生 在 内质网 内 。 </seg>
+<seg id="2763"> 病毒 结构 蛋白 S 、 E 和 M 沿着 分泌 途径 进入 高尔基体 中间 室 。 </seg>
+<seg id="2764"> 在 那里 ， M 蛋白 在 与 核 衣壳 结合 后 ， 指导 病毒 组装 所 需 的 绝大多数 蛋白 - 蛋白 相互作用 。 </seg>
+<seg id="2765"> 之后 ， 子代病毒 通过 分泌 小泡 的 胞吐 作用 从 宿主 细胞 中 释放出来 。 </seg>
+<seg id="2766"> <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 棘突 蛋白 与其 补体 宿主 细胞 受体 的 相互作用 在 确定 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 的 组织 嗜性 、 <term id="372" type="src_original_and_tgt_original" src="infectivity" tgt="感染性|感染力"> 感染性 </term> 和 物种 范围 方面 至关重要 。 </seg>
+<seg id="2767"> 例如 ， <term id="351" type="src_original_and_tgt_original" src="SARS" tgt="SARS|SAR|非典|非典型 肺炎 （ SARS ）"> SARS </term> <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 通过 附在 血管 紧张 素 转换 酶 2 ( ACE2 ) 受体 上 而 <term id="346" type="src_lemma_and_tgt_original" src="infect" tgt="已 感染 的|感染"> 感染 </term> 人类 细胞 。 </seg>
+<seg id="2768"> <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 的 学名 是 Orthocoronavirinae 或 Coronavirinae 。 </seg>
+<seg id="2769"> 冠状病毒 属于 核糖 病毒 域 、 套式 病毒 目 、 冠状病毒 科 。 </seg>
+<seg id="2770"> β - <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> ； 模式 种 ： 鼠 冠状病毒 </seg>
+<seg id="2771"> 异种 ： β - <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 1 （ 牛 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> ， 人 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> OC43 ） 、 人 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> HKU1 、 鼠 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 、 伏 蝙蝠 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> HKU5 、 棕果 蝠 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> HKU9 、 严重 急性 <term id="330" type="src_original_and_tgt_original" src="respiratory" tgt="呼吸道|呼吸系统|呼吸"> 呼吸道 </term> 综合征 相关 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> ( SARS - CoV 、 <term id="287" type="src_original_and_tgt_original" src="SARS-CoV-2" tgt="SARS - CoV - 2|非典型 肺炎 冠状病毒 2 型 （ SARS - CoV - 2 ）"> SARS - CoV - 2 </term> ) 、 扁颅 蝠 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> HKU4 、 中东 呼吸 综合征 相关 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 、 刺猬 冠状病毒 1 ( EriCoV ) </seg>
+<seg id="2772"> 异种 ： 白鲸 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> SW1 、 传染性 支气管炎 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> </seg>
+<seg id="2773"> 据估计 ， 所有 冠状病毒 的 最近 共同 祖先 ( MRCA ) 早 在 公元前 8000 年 就 已经 存在 ， 但 也 有 一些 模型 将 共同 祖先 追溯到 5500 万年前 或 更 早 ， 这 意味着 病毒 与 蝙蝠 和 鸟类 经过 了 长期 共同 进化 。 </seg>
+<seg id="2774"> α 冠状病毒 系 的 最近 共同 祖先 位于 约 公元前 2400 年 ， β 冠状病毒 系 位于 公元前 3300 年 ， γ 冠状病毒 系 位于 公元前 2800 年 ， δ 冠状病毒 系 位于 公元前 3000 年 左右 。 </seg>
+<seg id="2775"> 大量 的 蝙蝠 和 鸟类 寄主 物种 及其 全球 范围 ， 使 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 得以 广泛 进化 和 传播 。 许多 人 冠状病毒 起源于 蝙蝠 。 </seg>
+<seg id="2776"> 最近 的 一次 进化 发生 在 1960 年前 的 某个 时候 ， 羊驼 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 和 人 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 229E 出现 了 分化 。 </seg>
+<seg id="2777"> 起源于 蝙蝠 的 MERS - CoV 通过 中间 的 骆驼 宿主 在 人类 中 出现 。 </seg>
+<seg id="2778"> MERS - CoV 虽然 与 几种 蝙蝠 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 有 亲缘 关系 ， 但 似乎 在 几个 世纪 前 就 已经 从 这些 冠状病毒 中 分化 出来 了 。 </seg>
+<seg id="2779"> 关系 最 密切 的 蝙蝠 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 和 SARS - CoV 在 1986 年 发生 了 分化 。 </seg>
+<seg id="2780"> <term id="351" type="src_original_and_tgt_original" src="SARS" tgt="SARS|SAR|非典|非典型 肺炎 （ SARS ）"> SARS </term> <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 和 蝙蝠 冠状病毒 可能 的 进化 路径 表明 ， <term id="351" type="src_original_and_tgt_original" src="SARS" tgt="SARS|SAR|非典|非典型 肺炎 （ SARS ）"> SARS </term> 相关 的 冠状病毒 在 蝙蝠 体内 共同 进化 了 很长 一段时间 。 </seg>
+<seg id="2781"> 18 世纪 90 年代 ， 马 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 在 跨 物种 跳跃 后 从 牛 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 中 分离出来 。 </seg>
+<seg id="2782"> 19 世纪 90 年代 后期 ， 人 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> OC43 在 另 一次 跨 物种 溢出 事件 后 从 牛 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 中 分离出来 。 </seg>
+<seg id="2783"> 据 推测 ， 鉴于 <term id="261" type="src_original_and_tgt_original" src="pandemic" tgt="大 流行|疫情|大 流行病|大规模 流行|全球 大 流行|流行病"> 大 流行 </term> 的 相关 时间 、 神经学 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 和 未知 的 <term id="373" type="src_original_and_tgt_original" src="causative agent" tgt="病原体|致病 物"> 病原体 </term> ， 1890 年 的 <term id="328" type="src_original_and_tgt_original" src="influenza" tgt="流感|流行性 感冒"> 流感 </term> <term id="261" type="src_original_and_tgt_original" src="pandemic" tgt="大 流行|疫情|大 流行病|大规模 流行|全球 大 流行|流行病"> 大 流行 </term> 可能 是 由 这 一 溢出 事件 而 不是 由 流感病毒 引起 的 。 </seg>
+<seg id="2784"> 人 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> OC43 除 引起 <term id="330" type="src_original_and_tgt_original" src="respiratory" tgt="呼吸道|呼吸系统|呼吸"> 呼吸道 </term> <term id="345" type="src_lemma_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 外 ， 还 被 怀疑 与 神经系统 疾病 有关 。 </seg>
+<seg id="2785"> 20 世纪 50 年代 ， 人 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> OC43 开始 分化 为 目前 的 基因型 。 </seg>
+<seg id="2786"> 从 生物 系统 上 来说 ， <term id="346" type="src_lemma_and_tgt_original" src="infect" tgt="已 感染 的|感染"> 感染 </term> 小鼠 肝脏 和 中枢神经 系统 的 小鼠 肝炎 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> （ 鼠 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> ） ， 与 人 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> OC43 和 牛 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 有关 。 </seg>
+<seg id="2787"> 与 上述 病毒 一样 ， 人 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> HKU1 也 起源于 啮齿动物 。 </seg>
+<seg id="2788"> 冠状病毒 在 危险 因素 上 有 显著 差异 。 </seg>
+<seg id="2789"> 有些 病毒 可 导致 30% 以上 的 感染者 致死 ， 如 MERS - CoV ， 有些 则 相对 无害 ， 只 引起 <term id="369" type="src_original_and_tgt_original" src="common cold" tgt="普通 的 感冒|普通 感冒"> 普通 感冒 </term> 等 轻微 病症 。 </seg>
+<seg id="2790"> 冠状病毒 可 引起 感冒 的 主要症状 ， 如 <term id="213" type="src_original_and_tgt_original" src="fever" tgt="发热|热"> 发热 </term> 和 <term id="355" type="src_original_and_tgt_original" src="sore throat" tgt="喉咙痛|咽喉 肿痛|咽痛|咽喉 痛"> 咽喉 肿痛 </term> 。 </seg>
+<seg id="2791"> 冠状病毒 可 引起 <term id="266" type="src_original_and_tgt_original" src="pneumonia" tgt="肺炎"> 肺炎 </term> （ 直接 <term id="585" type="src_original_and_tgt_original" src="viral pneumonia" tgt="病毒性 肺炎"> 病毒性 肺炎 </term> 或 继发性 细菌性 <term id="266" type="src_original_and_tgt_original" src="pneumonia" tgt="肺炎"> 肺炎 </term> ） 和 支气管炎 （ 直接 病毒性 支气管炎 或 继发性 细菌性 支气管炎 ） 。 </seg>
+<seg id="2792"> 2003 年 发现 的 人 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> <term id="351" type="src_original_and_tgt_original" src="SARS" tgt="SARS|SAR|非典|非典型 肺炎 （ SARS ）"> SARS </term> - CoV 可 引起 严重 急性 <term id="338" type="src_original_and_tgt_original" src="respiratory syndrome" tgt="呼吸系统 综合征|呼吸道 综合征|呼吸 综合征|呼吸道 综合症"> 呼吸道 综合征 </term> ( SARS ) ， 它 有 独特 的 发病 机制 ， 因为 它 可 同时 引起 上下 <term id="330" type="src_original_and_tgt_original" src="respiratory" tgt="呼吸道|呼吸系统|呼吸"> 呼吸道 </term> 感染 。 目前 已知 有 六种 人 冠状病毒 ， 其中 一种 又 细分 为 两种 不同 的 病毒 株 ， 因此 共 形成 了 七种 人 冠状病毒 。 </seg>
+<seg id="2793"> 其中 四种 冠状病毒 在 人群 中 持续 传播 ， 并 在 全世界 成人 和 儿童 中 产生 一般 较轻 的 <term id="369" type="src_original_and_tgt_original" src="common cold" tgt="普通 的 感冒|普通 感冒"> 普通 感冒 </term> <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> ： - OC43 、 - HKU1 、 HCoV - 229E 、 - NL63 。 </seg>
+<seg id="2794"> 冠状病毒 引起 约 15% 的 <term id="369" type="src_lemma_and_tgt_original" src="common cold" tgt="普通 的 感冒|普通 感冒"> 普通 感冒 </term> 。 </seg>
+<seg id="2795"> 大多数 感冒 是 由 鼻 病毒 引起 的 。 </seg>
+<seg id="2796"> 四种 轻度 冠状病毒 在 温带气候 的 冬季 月份 会 季节性 发生 。 </seg>
+<seg id="2797"> 在 热带气候 中 ， 冠状病毒 没有 特定 季节 的 偏好 。 </seg>
+<seg id="2798"> 四种 人 冠状病毒 产生 的 <term id="384" type="src_original_and_tgt_original" src="symptoms" tgt="症|症状"> 症状 </term> 通常 较 轻 ： </seg>
+<seg id="2799"> 这种 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 被 正式 命名 为 <term id="351" type="src_original_and_tgt_original" src="SARS" tgt="SARS|SAR|非典|非典型 肺炎 （ SARS ）"> SARS </term> <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> ( SARS - CoV ) 。 </seg>
+<seg id="2800"> 超过 8 , 000 人 <term id="230" type="src_original_and_tgt_original" src="infected" tgt="已 感染|感染|被 感染|受到感染 的|受 感染"> 已 感染 </term> ， 其中 约 10% 死亡 。 </seg>
+<seg id="2801"> 2012 年 9 月 ， 一种 新型 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 被 发现 ， 最初 被 称为 2012 新型 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> ， 现在 被 正式 命名 为 中东 <term id="338" type="src_original_and_tgt_original" src="respiratory syndrome" tgt="呼吸系统 综合征|呼吸道 综合征|呼吸 综合征|呼吸道 综合症"> 呼吸 综合征 </term> <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> ( MERS - CoV ) 。 </seg>
+<seg id="2802"> <term id="22" type="src_original_and_tgt_original" src="World Health Organization" tgt="世界卫生组织"> 世界卫生组织 </term> 不久 后 发布 了 全球 警报 。 </seg>
+<seg id="2803"> who 在 2012 年 9 月 28 日 的 更新 中称 ， 该 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 似乎 在 人 与 人 之间 不易 传播 。 </seg>
+<seg id="2804"> 然而 ， 2013 年 5 月 12 日 ， 法国 社会 事务 和 卫生部 确诊 了 法国 的 一例 人 传人 病例 。 </seg>
+<seg id="2805"> 此外 ， 突尼斯 卫生部 也 报告 了 人 传人 病例 。 </seg>
+<seg id="2806"> 两起 <term id="3" type="src_original_and_tgt_original" src="confirmed cases" tgt="确诊 病例|确诊 的 COVID-19 感染 病例|确诊 COVID-19 病例|确诊 的 16 例 病例"> 确诊 病例 </term> 的 患者 似乎 是 被 其 已故 父亲 感染 的 ， 他们 的 父亲 在 访问 卡塔尔 和 沙特阿拉伯 后 患病 。 </seg>
+<seg id="2807"> 尽管如此 ， 该 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 似乎 难以 在 人 与 人 之间 <term id="20" type="src_lemma_and_tgt_original" src="spread" tgt="扩散|传播|扩散 蔓延"> 传播 </term> ， 因为 大多数 感染者 不会 传染病 毒 。 </seg>
+<seg id="2808"> 该 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 最终 被 命名 为 中东 <term id="338" type="src_original_and_tgt_original" src="respiratory syndrome" tgt="呼吸系统 综合征|呼吸道 综合征|呼吸 综合征|呼吸道 综合症"> 呼吸 综合征 </term> <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> ( MERS - CoV ) 。 </seg>
+<seg id="2809"> 2014 年 5 月 ， 美国 记录 了 仅 有 的 两例 （ 均 存活 ） 。 2015 年 5 月 ， 一名 去过 中东 的 男子 前往 首尔 地区 的 四家 医院 看病 ， 由此 MERS-CoV 在 韩国 <term id="258" type="src_original_and_tgt_original" src="outbreak" tgt="暴发|爆发"> 爆发 </term> 。 </seg>
+<seg id="2810"> 这 引发 了 中东 以外 地区 最 大规模 的 MERS - CoV 疫情 。 </seg>
+<seg id="2811"> 截至 2019 年 12 月 ， 经 实验室 检测 确诊 的 MERS - CoV <term id="345" type="src_original_and_tgt_original" src="infection" tgt="传染病|感染"> 感染 </term> 病例 为 2 , 468 例 ， 其中 死亡 851 例 ， <term id="514" type="src_original_and_tgt_original" src="mortality rate" tgt="死亡率"> 死亡率 </term> 约 为 34.5% 。 </seg>
+<seg id="2812"> 2019 年 12 月 ， 中国 <term id="376" type="src_original_and_tgt_original" src="Wuhan" tgt="武汉市|武汉"> 武汉 </term> <term id="258" type="src_original_and_tgt_original" src="outbreak" tgt="暴发|爆发"> 爆发 </term> 了 <term id="266" type="src_original_and_tgt_original" src="pneumonia" tgt="肺炎"> 肺炎 </term> 疫情 。 </seg>
+<seg id="2813"> 2019 年 12 月 31 日 ， 疫情 <term id="258" type="src_original_and_tgt_original" src="outbreak" tgt="暴发|爆发"> 爆发 </term> 被 追溯到 一种 新型 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> ， <term id="22" type="src_original_and_tgt_original" src="World Health Organization" tgt="世界卫生组织"> 世界卫生组织 </term> ( <term id="23" type="src_original_and_tgt_original" src="WHO" tgt="WHO"> WHO </term> ) 将 其 临时 命名 为 2019 - nCoV ， 后来 国际 病毒 分类学 委员会 将 其 更名 为 <term id="287" type="src_original_and_tgt_original" src="SARS-CoV-2" tgt="SARS - CoV - 2|非典型 肺炎 冠状病毒 2 型 （ SARS - CoV - 2 ）"> SARS - CoV - 2 </term> 。 </seg>
+<seg id="2814"> 一些 研究 人员 认为 ， 华南 海鲜 批发市场 可能 不是 该 病毒 传染给 人类 的 最初 来源 。 截至 2020 年 4 月 17 日 ， <term id="71" type="src_original_and_tgt_original" src="Coronavirus pneumonia" tgt="冠状病毒 肺炎"> 冠状病毒 肺炎 </term> <term id="261" type="src_original_and_tgt_original" src="pandemic" tgt="大 流行|疫情|大 流行病|大规模 流行|全球 大 流行|流行病"> 疫情 </term> 已 造成 至少 153 , 822 例 确诊 <term id="18" type="src_original_and_tgt_original" src="deaths" tgt="死亡 人数|例 死亡|死亡 病例|死亡|例 确诊 死亡|人 死亡|死亡 17 例|死亡 约 9.7 万人|死亡数|死亡 15 , 887 例|病例 死亡"> 死亡 </term> ， 超过 2 , 240 , 191 例 <term id="3" type="src_original_and_tgt_original" src="confirmed cases" tgt="确诊 病例|确诊 的 COVID-19 感染 病例|确诊 COVID-19 病例|确诊 的 16 例 病例"> 确诊 病例 </term> 。 </seg>
+<seg id="2815"> <term id="376" type="src_original_and_tgt_original" src="Wuhan" tgt="武汉市|武汉"> 武汉 </term> 菌株 已 被 确定 为 来自 2B 组 的 新型 冠状病毒 ， 与 SARS - CoV 的 遗传 相似性 约 为 70% 。 </seg>
+<seg id="2816"> 该 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 与 蝙蝠 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 的 相似性 为 96% ， 因此 人们 普遍 怀疑 它 也 源自 蝙蝠 。 </seg>
+<seg id="2817"> 此次 <term id="261" type="src_original_and_tgt_original" src="pandemic" tgt="大 流行|疫情|大 流行病|大规模 流行|全球 大 流行|流行病"> 疫情 </term> 导致 多个 国家 采取 <term id="305" type="src_original_and_tgt_original" src="travel restrictions" tgt="旅行 限制|出行 限制|限制 入境 旅行"> 旅行 限制 </term> 和 全国 <term id="238" type="src_lemma_and_tgt_original" src="lockdown" tgt="封锁"> 封锁 </term> 措施 。 </seg>
+<seg id="2818"> 自 20 世纪 30 年代 以来 ， 冠状病毒 一直 被 认为 是 引起 兽医 疾病 的 原因 。 </seg>
+<seg id="2819"> 除禽 <term id="329" type="src_original_and_tgt_original" src="infectious" tgt="传染性|传染|感染|感染性"> 传染性 </term> 支气管炎 外 ， 主要 相关 疾病 大部分 发生 在 肠道 。 </seg>
+<seg id="2820"> 冠状病毒 主要 <term id="346" type="src_original_and_tgt_original" src="infect" tgt="已 感染 的|感染"> 感染 </term> 哺乳动物 和 鸟类 的 上呼吸道 和 胃肠道 。 </seg>
+<seg id="2821"> 它们 还会 在 农场 动物 和 家养 宠物 中 引发 一系列 疾病 ， 其中 某些 疾病 可能 很 严重 并 威胁 到 农业 生产 。 </seg>
+<seg id="2822"> 在 鸡 中 ， <term id="329" type="src_original_and_tgt_original" src="infectious" tgt="传染性|传染|感染|感染性"> 传染性 </term> 支气管炎 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> （ IBV ） 是 一种 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> ， 不仅 针对 <term id="330" type="src_original_and_tgt_original" src="respiratory" tgt="呼吸道|呼吸系统|呼吸"> 呼吸道 </term> ， 还 针对 泌尿 生殖道 。 </seg>
+<seg id="2823"> 该 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 可以 <term id="20" type="src_original_and_tgt_original" src="spread" tgt="扩散|传播|扩散 蔓延"> 扩散 </term> 到 鸡 的 各个 器官 。 </seg>
+<seg id="2824"> 可 造成 严重 经济损失 的 农场 动物 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 包括 猪 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> （ 猪 <term id="370" type="src_original_and_tgt_original" src="transmissible" tgt="传染性|可 传染"> 传染性 </term> <term id="371" type="src_original_and_tgt_original" src="gastroenteritis" tgt="胃肠炎|肠胃炎"> 胃肠炎 </term> 病毒 ， TGE ） 和 牛 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> ， 这 两种 病毒 都 会 导致 动物 幼仔 腹泻 。 </seg>
+<seg id="2825"> 猫 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> ： 有 两种 形式 ， 猫 肠道 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 是 一种 临床意义 不大 的 <term id="524" type="src_original_and_tgt_original" src="pathogen" tgt="病原体"> 病原体 </term> ， 但 该 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 的 自发 突变 可 导致 猫 <term id="329" type="src_original_and_tgt_original" src="infectious" tgt="传染性|传染|感染|感染性"> 传染性 </term> 腹膜炎 ( FIP ) ， 这是 一种 死亡率 较 高 的 疾病 。 </seg>
+<seg id="2826"> 同样 ， <term id="346" type="src_original_and_tgt_original" src="infect" tgt="已 感染 的|感染"> 感染 </term> 雪 貂 的 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 也 有 两种 类型 ： 雪 貂 肠道 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> ， 它 可 引起 一种 胃肠道 综合征 ， 称为 地区性 卡 他 儿 肠炎 ( ECE ) ， 以及 一种 更 致命 的 全身性 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> （ 如猫 中 的 FIP ） ， 称为 雪 貂 全身性 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> ( FSc ) 。 </seg>
+<seg id="2827"> 犬 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> ( CCoV ) 有 两种 类型 ， 一种 会 引起 轻度 胃肠 疾病 ， 另 一种 被 发现 可 引起 <term id="331" type="src_original_and_tgt_original" src="respiratory disease" tgt="呼吸道 疾病|呼吸系统 疾病|呼吸 疾病"> 呼吸系统 疾病 </term> 。 </seg>
+<seg id="2828"> 鼠 肝炎 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> ( MHV ) 是 一种 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> ， 可 引起 高 死亡率 的 <term id="375" type="src_original_and_tgt_original" src="an epidemic" tgt="流行性|流行病"> 流行性 </term> 鼠类 <term id="229" type="src_original_and_tgt_original" src="illness" tgt="疾病|症|病"> 疾病 </term> ， 特别 是 在 实验室 小鼠 群体 中 。 </seg>
+<seg id="2829"> 大鼠 涎泪 膜炎 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> ( SDAV ) 是 一种 实验室 大鼠 的 高 <term id="329" type="src_original_and_tgt_original" src="infectious" tgt="传染性|传染|感染|感染性"> 传染性 </term> <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> ， 可 通过 直接 接触 以及 间接 的 气溶胶 接触 在 个体 间 传播 。 </seg>
+<seg id="2830"> 一些 MHV 病毒 株 可 在 小鼠 中 引发 进行性 脱髓鞘 性 脑炎 ， 已 被 用作 多发性 硬化症 的 小鼠 模型 。 </seg>
+<seg id="2831"> 大量 的 研究 工作 集中 在 阐明 这些 动物 冠状病毒 的 病毒 发病 机制 ， 这 在 对 兽医 和 人 畜共 患病 感兴趣 的 病毒学家 中 尤为 如此 。 </seg>
+<seg id="2832"> 猪 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> （ 猪 <term id="370" type="src_original_and_tgt_original" src="transmissible" tgt="传染性|可 传染"> 传染性 </term> <term id="371" type="src_original_and_tgt_original" src="gastroenteritis" tgt="胃肠炎|肠胃炎"> 胃肠炎 </term> <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> ， TGEV ） 。 </seg>
+<seg id="2833"> 牛 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> ( BCV ) ， 在 小牛 中 引发 各种 严重 的 肠炎 。 </seg>
+<seg id="2834"> 猫 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> ( FCoV ) 可 引起 猫 轻度 肠炎 以及 严重 的 猫 <term id="329" type="src_original_and_tgt_original" src="infectious" tgt="传染性|传染|感染|感染性"> 传染性 </term> 腹膜炎 （ 同一 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> 的 其他 变种 ） 。 </seg>
+<seg id="2835"> 两种 类型 的 犬 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> ( CCoV ) （ 一种 引起 肠炎 ， 另 一种 在 <term id="330" type="src_original_and_tgt_original" src="respiratory" tgt="呼吸道|呼吸系统|呼吸"> 呼吸系统 </term> 疾病 中 发现 ） 。 </seg>
+<seg id="2836"> 火鸡 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> ( TCV ) 引起 火鸡 肠炎 。 </seg>
+<seg id="2837"> 雪 貂 肠道 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 可 在 雪 貂 中 引起 地区性 卡 他 儿 肠炎 。 </seg>
+<seg id="2838"> 雪 貂 全身性 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 可 在 雪 貂 中 引起 FIP 样 全身性 综合征 。 </seg>
+<seg id="2839"> 兔 肠道 <term id="7" type="src_original_and_tgt_original" src="Coronavirus" tgt="新型 冠状病毒 ( COVID - 19 ) [ when referring COVID - 19 ] : 冠状病毒 [ when referring the generic virus group ]|冠状病毒|coronavirus|新型 冠状病毒|新冠 病毒"> 冠状病毒 </term> 可 在 欧洲 幼兔 中 引起 急性 胃肠道 疾病 和 腹泻 。 </seg>
+<seg id="2840"> 猪 <term id="203" type="src_original_and_tgt_original" src="epidemic" tgt="流行性|疫情|流行|流行病"> 流行性 </term> 腹泻 <term id="310" type="src_original_and_tgt_original" src="virus" tgt="病毒|virus|新型 冠状病毒|新冠 病毒"> 病毒 </term> （ PED 或 PEDV ） 已 在 世界各地 出现 。 </seg>
+</p>
+</doc>
+</refset>
